@@ -1,0 +1,2707 @@
+[
+  {
+    "en-Us": "HALF BLOOD",
+    "es-Es": "MESTIZO",
+    "value": "HALF BLOOD"
+  },
+  {
+    "en-Us": "AFFENPINSCHER",
+    "es-Es": "AFFEN PINSCHER",
+    "value": "AFFENPINSCHER"
+  },
+  {
+    "en-Us": "AFGHAN HOUND",
+    "es-Es": "SAGUERO AFGANO",
+    "value": "AFGHAN HOUND"
+  },
+  {
+    "en-Us": "AIDI",
+    "es-Es": "AIDI",
+    "value": "AIDI"
+  },
+  {
+    "en-Us": "AIREDALE TERRIER",
+    "es-Es": "AIREDALE TERRIER",
+    "value": "AIREDALE TERRIER"
+  },
+  {
+    "en-Us": "AKBASH DOG",
+    "es-Es": "PERRO AKBASH",
+    "value": "AKBASH DOG"
+  },
+  {
+    "en-Us": "AKITA ",
+    "es-Es": "AKITA ",
+    "value": "AKITA "
+  },
+  {
+    "en-Us": "AKITA AMERICANO",
+    "es-Es": "AKITA AMERICANO",
+    "value": "AKITA AMERICANO"
+  },
+  {
+    "en-Us": "AKITA INU",
+    "es-Es": "AKITA INU",
+    "value": "AKITA INU"
+  },
+  {
+    "en-Us": "ALANO ESPAÑOL",
+    "es-Es": "ALANO ESPAÑOL",
+    "value": "ALANO ESPAÑOL"
+  },
+  {
+    "en-Us": "ALASKAN KLEE KAI",
+    "es-Es": "KLEE KAI DE ALASKA",
+    "value": "ALASKAN KLEE KAI"
+  },
+  {
+    "en-Us": "ALASKAN MALAMUTE",
+    "es-Es": "MALAMUTE DE ALASKA",
+    "value": "ALASKAN MALAMUTE"
+  },
+  {
+    "en-Us": "MAL-SHI",
+    "es-Es": "MAL-SHI",
+    "value": "MAL-SHI"
+  },
+  {
+    "en-Us": "CHORKIE",
+    "es-Es": "CHORKIE",
+    "value": "CHORKIE"
+  },
+  {
+    "en-Us": "TOY POODLE",
+    "es-Es": "TOY POODLE",
+    "value": "TOY POODLE"
+  },
+  {
+    "en-Us": "YORKIE POO",
+    "es-Es": "YORKIE POO",
+    "value": "YORKIE POO"
+  },
+  {
+    "en-Us": "POODLE TOY",
+    "es-Es": "POODLE TOY",
+    "value": "POODLE TOY"
+  },
+  {
+    "en-Us": "MALTIPOO",
+    "es-Es": "MALTIPOO",
+    "value": "MALTIPOO"
+  },
+  {
+    "en-Us": "MALTIPOO",
+    "es-Es": "MALTIPOO",
+    "value": "MALTIPOO"
+  },
+
+  {
+    "en-Us": "ALPINE DACHSBRACKE",
+    "es-Es": "DACHSBRACKE ALPINO",
+    "value": "ALPINE DACHSBRACKE"
+  },
+  {
+    "en-Us": "ALPINE SPANIEL",
+    "es-Es": "SPANIEL ALPINO",
+    "value": "ALPINE SPANIEL"
+  },
+  {
+    "en-Us": "AMERICAN BULLDOG",
+    "es-Es": "BULLDOG AMERICANO",
+    "value": "AMERICAN BULLDOG"
+  },
+  {
+    "en-Us": "AMERICAN COCKER SPANIEL",
+    "es-Es": "COCKER SPANIEL AMERICANO",
+    "value": "AMERICAN COCKER SPANIEL"
+  },
+  {
+    "en-Us": "AMERICAN ESKIMO DOG",
+    "es-Es": "PERRO ESQUIMAL AMERICANO",
+    "value": "AMERICAN ESKIMO DOG"
+  },
+  {
+    "en-Us": "AMERICAN FOXHOUND",
+    "es-Es": "RASTRERO AMERICANO",
+    "value": "AMERICAN FOXHOUND"
+  },
+
+  {
+    "en-Us": "ROTTWEILER AMERICANO",
+    "es-Es": "ROTTWEILER AMERICANO",
+    "value": "ROTTWEILER AMERICANO"
+  },
+  {
+    "en-Us": "ROTTWEILER ALEMAN",
+    "es-Es": "ROTTWEILER ALEMAN",
+    "value": "ROTTWEILER ALEMAN"
+  },
+
+  {
+    "en-Us": "AMERICAN FOXHOUND",
+    "es-Es": "RASTRERO AMERICANO",
+    "value": "AMERICAN FOXHOUND"
+  },
+  {
+    "en-Us": "AMERICAN HAIRLESS TERRIER",
+    "es-Es": "TERRIER AMERICANO SIN PELO",
+    "value": "AMERICAN HAIRLESS TERRIER"
+  },
+  {
+    "en-Us": "AMERICAN PIT BULL TERRIER",
+    "es-Es": "TERRIER PIT BULL AMERICANO",
+    "value": "AMERICAN PIT BULL TERRIER"
+  },
+  {
+    "en-Us": "AMERICAN STAFFORDSHIRE TERRIER",
+    "es-Es": "AMERICAN STAFFORDSHIRE TERRIER",
+    "value": "AMERICAN STAFFORDSHIRE TERRIER"
+  },
+  {
+    "en-Us": "AMERICAN WATER SPANIEL",
+    "es-Es": "SPANIEL DE AGUA AMERICANO",
+    "value": "AMERICAN WATER SPANIEL"
+  },
+  {
+    "en-Us": "ANGLO-FRANÇAIS DE PETITE VÉNERIE",
+    "es-Es": "ANGLO-FRANÇAIS DE PETITE VÉNERIE",
+    "value": "ANGLO-FRANÇAIS DE PETITE VÉNERIE"
+  },
+  {
+    "en-Us": "APPENZELLER SENNENHUND",
+    "es-Es": "APPENZELLER SENNENHUND",
+    "value": "APPENZELLER SENNENHUND"
+  },
+  {
+    "en-Us": "ARIEGE POINTER",
+    "es-Es": "PUNTERO ARIEGE",
+    "value": "ARIEGE POINTER"
+  },
+  {
+    "en-Us": "ARIEGEOIS",
+    "es-Es": "ARIEGEOIS",
+    "value": "ARIEGEOIS"
+  },
+  {
+    "en-Us": "ARMANT",
+    "es-Es": "ARMADO",
+    "value": "ARMANT"
+  },
+  {
+    "en-Us": "ARMENIAN GAMPR DOG",
+    "es-Es": "PERRO GAMPR ARMENIO",
+    "value": "ARMENIAN GAMPR DOG"
+  },
+  {
+    "en-Us": "ARTOIS HOUND",
+    "es-Es": "EL SABUESO DE ARTOIS",
+    "value": "ARTOIS HOUND"
+  },
+  {
+    "en-Us": "AUSTRALIAN CATTLE DOG",
+    "es-Es": "PERRO AUSTRALIANO DEL GANADO",
+    "value": "AUSTRALIAN CATTLE DOG"
+  },
+  {
+    "en-Us": "AUSTRALIAN KELPIE",
+    "es-Es": "KELPIE AUSTRALIANO",
+    "value": "AUSTRALIAN KELPIE"
+  },
+  {
+    "en-Us": "AUSTRALIAN SHEPHERD",
+    "es-Es": "PASTOR AUSTRALIANO",
+    "value": "AUSTRALIAN SHEPHERD"
+  },
+  {
+    "en-Us": "AUSTRALIAN SILKY TERRIER",
+    "es-Es": "TERRIER SEDOSO AUSTRALIANO",
+    "value": "AUSTRALIAN SILKY TERRIER"
+  },
+  {
+    "en-Us": "AUSTRALIAN STUMPY TAIL CATTLE DOG",
+    "es-Es": "PERRO GANADOR AUSTRALIANO DE COLA ACORTADA",
+    "value": "AUSTRALIAN STUMPY TAIL CATTLE DOG"
+  },
+  {
+    "en-Us": "AUSTRALIAN TERRIER",
+    "es-Es": "TERRIER AUSTRALIANO",
+    "value": "AUSTRALIAN TERRIER"
+  },
+  {
+    "en-Us": "AZAWAKH",
+    "es-Es": "AZAWAKH",
+    "value": "AZAWAKH"
+  },
+  {
+    "en-Us": "BAKHARWAL DOG",
+    "es-Es": "PERRO BAKHARWAL",
+    "value": "BAKHARWAL DOG"
+  },
+  {
+    "en-Us": "BARBET",
+    "es-Es": "BARBET",
+    "value": "BARBET"
+  },
+  {
+    "en-Us": "BASENJI",
+    "es-Es": "BASENJI",
+    "value": "BASENJI"
+  },
+  {
+    "en-Us": "BASQUE SHEPHERD DOG",
+    "es-Es": "PASTOR VASCO",
+    "value": "BASQUE SHEPHERD DOG"
+  },
+  {
+    "en-Us": "BASSET ARTÉSIEN NORMAND",
+    "es-Es": "BASSET ARTÉSIEN NORMAND",
+    "value": "BASSET ARTÉSIEN NORMAND"
+  },
+  {
+    "en-Us": "BASSET BLEU DE GASCOGNE",
+    "es-Es": "BASSET BLEU DE GASCOGNE",
+    "value": "BASSET BLEU DE GASCOGNE"
+  },
+  {
+    "en-Us": "BASSET FAUVE DE BRETAGNE",
+    "es-Es": "BASSET LEONADO DE BRETAÑA",
+    "value": "BASSET FAUVE DE BRETAGNE"
+  },
+  {
+    "en-Us": "BASSET HOUND",
+    "es-Es": "BASSET HOUND",
+    "value": "BASSET HOUND"
+  },
+  {
+    "en-Us": "BAVARIAN MOUNTAIN HOUND",
+    "es-Es": "SABUEL BÁVARO DE MONTAÑA",
+    "value": "BAVARIAN MOUNTAIN HOUND"
+  },
+  {
+    "en-Us": "BEAGLE",
+    "es-Es": "BEAGLE",
+    "value": "BEAGLE"
+  },
+  {
+    "en-Us": "BEAGLE-HARRIER",
+    "es-Es": "BEAGLE-HARRIER",
+    "value": "BEAGLE-HARRIER"
+  },
+  {
+    "en-Us": "BEARDED COLLIE",
+    "es-Es": "COLLIE BARBUDO",
+    "value": "BEARDED COLLIE"
+  },
+  {
+    "en-Us": "BEAUCERON",
+    "es-Es": "BEAUCERON",
+    "value": "BEAUCERON"
+  },
+  {
+    "en-Us": "BEDLINGTON TERRIER",
+    "es-Es": "BEDLINGTON TERRIER",
+    "value": "BEDLINGTON TERRIER"
+  },
+  {
+    "en-Us": "BELGIAN SHEPHERD DOG (GROENENDAEL)",
+    "es-Es": "PASTOR BELGA (GROENENDAEL)",
+    "value": "BELGIAN SHEPHERD DOG (GROENENDAEL)"
+  },
+  {
+    "en-Us": "BELGIAN SHEPHERD DOG (LAEKENOIS)",
+    "es-Es": "PASTOR BELGA (LAEKENOIS)",
+    "value": "BELGIAN SHEPHERD DOG (LAEKENOIS)"
+  },
+  {
+    "en-Us": "BELGIAN SHEPHERD DOG (MALINOIS)",
+    "es-Es": "PASTOR BELGA (MALINOIS)",
+    "value": "BELGIAN SHEPHERD DOG (MALINOIS)"
+  },
+  {
+    "en-Us": "BERGAMASCO SHEPHERD",
+    "es-Es": "PASTOR BÉRGAMASCO",
+    "value": "BERGAMASCO SHEPHERD"
+  },
+  {
+    "en-Us": "BERGER BLANC SUISSE",
+    "es-Es": "BERGER BLANC SUIZA",
+    "value": "BERGER BLANC SUISSE"
+  },
+  {
+    "en-Us": "BERGER PICARD",
+    "es-Es": "BERGER PICARD",
+    "value": "BERGER PICARD"
+  },
+  {
+    "en-Us": "BERNER LAUFHUND",
+    "es-Es": "BERNER LAUFHUND",
+    "value": "BERNER LAUFHUND"
+  },
+  {
+    "en-Us": "BERNESE MOUNTAIN DOG",
+    "es-Es": "PERRO DE MONTAÑA DE BERNESE",
+    "value": "BERNESE MOUNTAIN DOG"
+  },
+  {
+    "en-Us": "BILLY",
+    "es-Es": "PORRA",
+    "value": "BILLY"
+  },
+  {
+    "en-Us": "BLACK AND TAN COONHOUND",
+    "es-Es": "COONHOUND NEGRO Y TAN",
+    "value": "BLACK AND TAN COONHOUND"
+  },
+  {
+    "en-Us": "BLACK AND TAN VIRGINIA FOXHOUND",
+    "es-Es": "LA VIRGINIA FOXHOUND NEGRA Y TAN",
+    "value": "BLACK AND TAN VIRGINIA FOXHOUND"
+  },
+  {
+    "en-Us": "BLACK NORWEGIAN ELKHOUND",
+    "es-Es": "ELKHOUND NORUEGO NEGRO",
+    "value": "BLACK NORWEGIAN ELKHOUND"
+  },
+  {
+    "en-Us": "BLACK RUSSIAN TERRIER",
+    "es-Es": "TERRIER RUSO NEGRO",
+    "value": "BLACK RUSSIAN TERRIER"
+  },
+  {
+    "en-Us": "BLOODHOUND",
+    "es-Es": "SABUESO",
+    "value": "BLOODHOUND"
+  },
+  {
+    "en-Us": "BLUE LACY",
+    "es-Es": "ENCAJE AZUL",
+    "value": "BLUE LACY"
+  },
+  {
+    "en-Us": "BLUE PAUL TERRIER",
+    "es-Es": "PAUL TERRIER AZUL",
+    "value": "BLUE PAUL TERRIER"
+  },
+  {
+    "en-Us": "BICHON FRISE",
+    "es-Es": "BICHÓN FRISE",
+    "value": "BICHON FRISE"
+  },
+
+  {
+    "en-Us": "BICHON MALTES",
+    "es-Es": "BICHÓN MALTÉS",
+    "value": "BICHON MALTES"
+  },
+  {
+    "en-Us": "BICHON BOLOÑES",
+    "es-Es": "BICHON BOLOÑÉS",
+    "value": "BICHON BOLOÑES"
+  },
+
+  {
+    "en-Us": "BOERBOEL",
+    "es-Es": "BOERBOEL",
+    "value": "BOERBOEL"
+  },
+  {
+    "en-Us": "BOHEMIAN SHEPHERD",
+    "es-Es": "PASTOR BOHEMIO",
+    "value": "BOHEMIAN SHEPHERD"
+  },
+  {
+    "en-Us": "BOLOGNESE",
+    "es-Es": "BOLONESA",
+    "value": "BOLOGNESE"
+  },
+  {
+    "en-Us": "BOLONKA",
+    "es-Es": "BOLONKA",
+    "value": "BOLONKA"
+  },
+  {
+    "en-Us": "BORDER COLLIE",
+    "es-Es": "FRONTERA COLLIE",
+    "value": "BORDER COLLIE"
+  },
+  {
+    "en-Us": "BORDER TERRIER",
+    "es-Es": "BORDER TERRIER",
+    "value": "BORDER TERRIER"
+  },
+  {
+    "en-Us": "BORZOI",
+    "es-Es": "BORZOI",
+    "value": "BORZOI"
+  },
+  {
+    "en-Us": "BOSTON TERRIER",
+    "es-Es": "TERRIER DE BOSTON",
+    "value": "BOSTON TERRIER"
+  },
+  {
+    "en-Us": "BOUVIER DES ARDENNES",
+    "es-Es": "BOUVIER DES ARDENNES",
+    "value": "BOUVIER DES ARDENNES"
+  },
+  {
+    "en-Us": "BOUVIER DES FLANDRES",
+    "es-Es": "BOUVIER DES FLANDRES",
+    "value": "BOUVIER DES FLANDRES"
+  },
+  {
+    "en-Us": "BOXER",
+    "es-Es": "BOXER",
+    "value": "BOXER"
+  },
+  {
+    "en-Us": "BOYKIN SPANIEL",
+    "es-Es": "SPANIEL DE BOYKIN",
+    "value": "BOYKIN SPANIEL"
+  },
+  {
+    "en-Us": "BRACCO ITALIAN",
+    "es-Es": "BRACO ITALIANO",
+    "value": "BRACCO ITALIEN"
+  },
+  {
+    "en-Us": "BRACCO WEIMARANER",
+    "es-Es": "BRACO DE WEIMAR",
+    "value": "BRAQUE WEIMAR"
+  },
+  {
+    "en-Us": "BRACCO GERMAN",
+    "es-Es": "BRACO ALEMAN",
+    "value": "BRAQUE ALLEMAND"
+  },
+  {
+    "en-Us": "BRACCO UNGHRESE - VIZLA",
+    "es-Es": "BRACO HUNGARO - VIZLA",
+    "value": "BRAQUE HONGROIS - VIZLA"
+  },
+  {
+    "en-Us": "BRACCO OF ARIEGE",
+    "es-Es": "BRACO DE ARIEGE",
+    "value": "BRAQUE DE L'ARIEGE"
+  },
+  {
+    "en-Us": "BRACCO OF AUVERGNE",
+    "es-Es": "BRACO DE AUVERNIA",
+    "value": "BRAQUE D'AUVERGNE"
+  },
+  {
+    "en-Us": "BRACCO OF BOURBON",
+    "es-Es": "BRACO DE BORBON",
+    "value": "BRAQUE DU BOURBONNAIS"
+  },
+  {
+    "en-Us": "BRACCO OF PUY",
+    "es-Es": "BRACO DE PUY",
+    "value": "BRAQUE DU PUY"
+  },
+  {
+    "en-Us": "BRAQUE FRANCAIS",
+    "es-Es": "BRACO FRANCÉS",
+    "value": "BRAQUE FRANCAIS"
+  },
+  {
+    "en-Us": "BRACCO SAINT-GERMAIN",
+    "es-Es": "BRACO SAINT-GERMAIN",
+    "value": "BRAQUE SAINT-GERMAIN"
+  },
+  {
+    "en-Us": "BRACCO TIROLES",
+    "es-Es": "BRACO TIROLES",
+    "value": "BRAQUE TIROLES"
+  },
+  {
+    "en-Us": "BRACCO SLOVACCO",
+    "es-Es": "BRACO ESLOVACO",
+    "value": "BRACCO SLOVACCO"
+  },
+  {
+    "en-Us": "BRACCO SLOVACO WIREHAIRED",
+    "es-Es": "BRACO ESLOVACO DE PELO DURO",
+    "value": "BRACCO SLOVACO WIREHAIRED"
+  },
+  {
+    "en-Us": "BRAZILIAN TERRIER",
+    "es-Es": "TERRIER BRASILEÑO",
+    "value": "BRAZILIAN TERRIER"
+  },
+  {
+    "en-Us": "BRIARD",
+    "es-Es": "BRIARD",
+    "value": "BRIARD"
+  },
+  {
+    "en-Us": "BRIQUET GRIFFON VENDÉEN",
+    "es-Es": "BRIQUET GRIFON VENDÉEN",
+    "value": "BRIQUET GRIFFON VENDÉEN"
+  },
+  {
+    "en-Us": "BRITTANY",
+    "es-Es": "BRETAÑA",
+    "value": "BRITTANY"
+  },
+  {
+    "en-Us": "BROHOLMER",
+    "es-Es": "BROHOLMER",
+    "value": "BROHOLMER"
+  },
+  {
+    "en-Us": "BRUNO JURA HOUND",
+    "es-Es": "EL SABUESO DE BRUNO JURA",
+    "value": "BRUNO JURA HOUND"
+  },
+  {
+    "en-Us": "BUCOVINA SHEPHERD DOG",
+    "es-Es": "PERRO PASTOR BUCOVINA",
+    "value": "BUCOVINA SHEPHERD DOG"
+  },
+  {
+    "en-Us": "BULL AND TERRIER",
+    "es-Es": "TORO Y TERRIER",
+    "value": "BULL AND TERRIER"
+  },
+  {
+    "en-Us": "BULL TERRIER (MINIATURE)",
+    "es-Es": "BULL TERRIER (MINIATURA)",
+    "value": "BULL TERRIER (MINIATURE)"
+  },
+  {
+    "en-Us": "BULL TERRIER",
+    "es-Es": "BULL TERRIER",
+    "value": "BULL TERRIER"
+  },
+  {
+    "en-Us": "BULLDOG",
+    "es-Es": "BULDOG",
+    "value": "BULLDOG"
+  },
+  {
+    "en-Us": "BULLENBEISSER",
+    "es-Es": "BULLENBEISSER",
+    "value": "BULLENBEISSER"
+  },
+  {
+    "en-Us": "BULLMASTIFF",
+    "es-Es": "BULLMASTIFF",
+    "value": "BULLMASTIFF"
+  },
+  {
+    "en-Us": "BULLY KUTTA",
+    "es-Es": "BULLY KUTTA",
+    "value": "BULLY KUTTA"
+  },
+  {
+    "en-Us": "BURGOS POINTER",
+    "es-Es": "PUNTERO DE BURGOS",
+    "value": "BURGOS POINTER"
+  },
+  {
+    "en-Us": "CAIRN TERRIER",
+    "es-Es": "TERRIER MOTONERO",
+    "value": "CAIRN TERRIER"
+  },
+  {
+    "en-Us": "CANAAN DOG",
+    "es-Es": "PERRO DE CANAÁN",
+    "value": "CANAAN DOG"
+  },
+  {
+    "en-Us": "CANADIAN ESKIMO DOG",
+    "es-Es": "PERRO ESQUIMAL CANADIENSE",
+    "value": "CANADIAN ESKIMO DOG"
+  },
+  {
+    "en-Us": "CANE CORSO",
+    "es-Es": "CANE CORSO",
+    "value": "CANE CORSO"
+  },
+  {
+    "en-Us": "CARDIGAN WELSH CORGI",
+    "es-Es": "CARDIGAN CORGI GALÉS",
+    "value": "CARDIGAN WELSH CORGI"
+  },
+  {
+    "en-Us": "CAROLINA DOG",
+    "es-Es": "EL PERRO DE CAROLINA",
+    "value": "CAROLINA DOG"
+  },
+  {
+    "en-Us": "CARPATHIAN SHEPHERD DOG",
+    "es-Es": "PERRO PASTOR DE LOS CARPATOS",
+    "value": "CARPATHIAN SHEPHERD DOG"
+  },
+  {
+    "en-Us": "CATAHOULA CUR",
+    "es-Es": "CATAHOULA CUR",
+    "value": "CATAHOULA CUR"
+  },
+  {
+    "en-Us": "CATALAN SHEEPDOG",
+    "es-Es": "PERRO PASTOR CATALÁN",
+    "value": "CATALAN SHEEPDOG"
+  },
+  {
+    "en-Us": "CAUCASIAN SHEPHERD DOG",
+    "es-Es": "PASTOR CAUCÁSICO",
+    "value": "CAUCASIAN SHEPHERD DOG"
+  },
+  {
+    "en-Us": "CAVALIER KING CHARLES SPANIEL",
+    "es-Es": "CAVALIER KING CHARLES SPANIEL",
+    "value": "CAVALIER KING CHARLES SPANIEL"
+  },
+  {
+    "en-Us": "CENTRAL ASIAN SHEPHERD DOG",
+    "es-Es": "PASTOR DE ASIÁTICA CENTRAL",
+    "value": "CENTRAL ASIAN SHEPHERD DOG"
+  },
+  {
+    "en-Us": "CESKY FOUSEK",
+    "es-Es": "CESKY FOUSEK",
+    "value": "CESKY FOUSEK"
+  },
+  {
+    "en-Us": "CESKY TERRIER",
+    "es-Es": "CESKY TERRIER",
+    "value": "CESKY TERRIER"
+  },
+  {
+    "en-Us": "CHESAPEAKE BAY RETRIEVER",
+    "es-Es": "PERDERO DE LA BAHIA DE CHESAPEAKE",
+    "value": "CHESAPEAKE BAY RETRIEVER"
+  },
+  {
+    "en-Us": "CHIEN FRANÇAIS BLANC ET NOIR",
+    "es-Es": "CHIEN FRANÇAIS BLANCO Y NEGRO",
+    "value": "CHIEN FRANÇAIS BLANC ET NOIR"
+  },
+  {
+    "en-Us": "CHIEN FRANÇAIS BLANC ET ORANGE",
+    "es-Es": "CHIEN FRANÇAIS BLANCO Y NARANJA",
+    "value": "CHIEN FRANÇAIS BLANC ET ORANGE"
+  },
+  {
+    "en-Us": "CHIEN FRANÇAIS TRICOLORE",
+    "es-Es": "CHIEN FRANÇAIS TRICOLORE",
+    "value": "CHIEN FRANÇAIS TRICOLORE"
+  },
+  {
+    "en-Us": "CHIEN-GRIS",
+    "es-Es": "CHIEN-GRIS",
+    "value": "CHIEN-GRIS"
+  },
+  {
+    "en-Us": "CHIHUAHUA",
+    "es-Es": "CHIHUAHUA",
+    "value": "CHIHUAHUA"
+  },
+  {
+    "en-Us": "CHILEAN FOX TERRIER",
+    "es-Es": "FOX TERRIER CHILENO",
+    "value": "CHILEAN FOX TERRIER"
+  },
+  {
+    "en-Us": "CHINESE CHONGQING DOG",
+    "es-Es": "PERRO CHONGQING CHINO",
+    "value": "CHINESE CHONGQING DOG"
+  },
+  {
+    "en-Us": "CHINESE CRESTED DOG",
+    "es-Es": "PERRO CRISTADO CHINO",
+    "value": "CHINESE CRESTED DOG"
+  },
+  {
+    "en-Us": "CHINESE IMPERIAL DOG",
+    "es-Es": "PERRO IMPERIAL CHINO",
+    "value": "CHINESE IMPERIAL DOG"
+  },
+  {
+    "en-Us": "CHINOOK",
+    "es-Es": "CHINOOK",
+    "value": "CHINOOK"
+  },
+  {
+    "en-Us": "CHIPPIPARAI",
+    "es-Es": "CHIPPIPARAI",
+    "value": "CHIPPIPARAI"
+  },
+  {
+    "en-Us": "CHOW CHOW",
+    "es-Es": "CHOW CHOW",
+    "value": "CHOW CHOW"
+  },
+  {
+    "en-Us": "CIERNY SERY",
+    "es-Es": "SERIE CIERNY",
+    "value": "CIERNY SERY"
+  },
+  {
+    "en-Us": "CIMARRÓN URUGUAYO",
+    "es-Es": "CIMARRÓN URUGUAYO",
+    "value": "CIMARRÓN URUGUAYO"
+  },
+  {
+    "en-Us": "CIRNECO DELL'ETNA",
+    "es-Es": "CIRNECO DELL'ETNA",
+    "value": "CIRNECO DELL'ETNA"
+  },
+  {
+    "en-Us": "CLUMBER SPANIEL",
+    "es-Es": "CLUMBER SPANIEL",
+    "value": "CLUMBER SPANIEL"
+  },
+  {
+    "en-Us": "COMBAI",
+    "es-Es": "COMBAI",
+    "value": "COMBAI"
+  },
+  {
+    "en-Us": "CORDOBA FIGHTING DOG",
+    "es-Es": "PERRO DE PELEA DE CÓRDOBA",
+    "value": "CORDOBA FIGHTING DOG"
+  },
+  {
+    "en-Us": "COTON DE TULEAR",
+    "es-Es": "COTON DE TULEAR",
+    "value": "COTON DE TULEAR"
+  },
+  {
+    "en-Us": "CRETAN HOUND",
+    "es-Es": "SABUEL DE CRETA",
+    "value": "CRETAN HOUND"
+  },
+  {
+    "en-Us": "CROATIAN SHEEPDOG",
+    "es-Es": "PERRO PASTOR CROATA",
+    "value": "CROATIAN SHEEPDOG"
+  },
+  {
+    "en-Us": "CUMBERLAND SHEEPDOG",
+    "es-Es": "EL PERRO PASTOR DE CUMBERLAND",
+    "value": "CUMBERLAND SHEEPDOG"
+  },
+  {
+    "en-Us": "CURLY COATED RETRIEVER",
+    "es-Es": "PERDIGUERO DE PELO RIZADO",
+    "value": "CURLY COATED RETRIEVER"
+  },
+  {
+    "en-Us": "CURSINU",
+    "es-Es": "CURSINU",
+    "value": "CURSINU"
+  },
+  {
+    "en-Us": "CÃO DA SERRA DE AIRES",
+    "es-Es": "CÃO DA SERRA DE AIRES",
+    "value": "CÃO DA SERRA DE AIRES"
+  },
+  {
+    "en-Us": "CÃO DE CASTRO LABOREIRO",
+    "es-Es": "CO DE CASTRO LABOREIRO",
+    "value": "CÃO DE CASTRO LABOREIRO"
+  },
+  {
+    "en-Us": "CÃO FILA DE SÃO MIGUEL",
+    "es-Es": "CÃO FILA DE SÃO MIGUEL",
+    "value": "CÃO FILA DE SÃO MIGUEL"
+  },
+  {
+    "en-Us": "DACHSHUND",
+    "es-Es": "PERRO TEJONERO",
+    "value": "DACHSHUND"
+  },
+  {
+    "en-Us": "DALMATIAN",
+    "es-Es": "DÁLMATA",
+    "value": "DALMATIAN"
+  },
+  {
+    "en-Us": "DANDIE DINMONT TERRIER",
+    "es-Es": "DANDIE DINMONT TERRIER",
+    "value": "DANDIE DINMONT TERRIER"
+  },
+  {
+    "en-Us": "DANISH SWEDISH FARMDOG",
+    "es-Es": "PERRO GRANJERO SUECO DANÉS",
+    "value": "DANISH SWEDISH FARMDOG"
+  },
+  {
+    "en-Us": "DEUTSCHE BRACKE",
+    "es-Es": "DEUTSCHE BRACKE",
+    "value": "DEUTSCHE BRACKE"
+  },
+  {
+    "en-Us": "DOBERMAN PINSCHER",
+    "es-Es": "DOBERMAN PINSCHER",
+    "value": "DOBERMAN PINSCHER"
+  },
+  {
+    "en-Us": "DOGO ARGENTINO",
+    "es-Es": "DOGO ARGENTINO",
+    "value": "DOGO ARGENTINO"
+  },
+  {
+    "en-Us": "DOGO CUBANO",
+    "es-Es": "DOGO CUBANO",
+    "value": "DOGO CUBANO"
+  },
+  {
+    "en-Us": "DOGUE DE BORDEAUX",
+    "es-Es": "DOGO DE BURDEOS",
+    "value": "DOGUE DE BORDEAUX"
+  },
+  {
+    "en-Us": "DRENTSE PATRIJSHOND",
+    "es-Es": "DRENTSE PATRIJSHOND",
+    "value": "DRENTSE PATRIJSHOND"
+  },
+  {
+    "en-Us": "DREVER",
+    "es-Es": "DREVER",
+    "value": "DREVER"
+  },
+  {
+    "en-Us": "DUNKER",
+    "es-Es": "DUNKER",
+    "value": "DUNKER"
+  },
+  {
+    "en-Us": "DUTCH SHEPHERD DOG",
+    "es-Es": "PASTOR HOLANDÉS",
+    "value": "DUTCH SHEPHERD DOG"
+  },
+  {
+    "en-Us": "DUTCH SMOUSHOND",
+    "es-Es": "MOSTON HOLANDÉS",
+    "value": "DUTCH SMOUSHOND"
+  },
+  {
+    "en-Us": "EAST SIBERIAN LAIKA",
+    "es-Es": "LAIKA DE SIBERIA ORIENTAL",
+    "value": "EAST SIBERIAN LAIKA"
+  },
+  {
+    "en-Us": "EAST-EUROPEAN SHEPHERD",
+    "es-Es": "PASTOR DE EUROPA ORIENTAL",
+    "value": "EAST-EUROPEAN SHEPHERD"
+  },
+  {
+    "en-Us": "ELO",
+    "es-Es": "ELO",
+    "value": "ELO"
+  },
+  {
+    "en-Us": "ENGLISH COCKER SPANIEL",
+    "es-Es": "COCKER SPANIEL INGLÉS",
+    "value": "ENGLISH COCKER SPANIEL"
+  },
+  {
+    "en-Us": "ENGLISH FOXHOUND",
+    "es-Es": "RAPOSERO INGLÉS",
+    "value": "ENGLISH FOXHOUND"
+  },
+  {
+    "en-Us": "ENGLISH MASTIFF",
+    "es-Es": "MASTIN INGLES",
+    "value": "ENGLISH MASTIFF"
+  },
+  {
+    "en-Us": "ENGLISH SETTER",
+    "es-Es": "SETTER INGLÉS",
+    "value": "ENGLISH SETTER"
+  },
+  {
+    "en-Us": "ENGLISH SHEPHERD",
+    "es-Es": "PASTOR INGLÉS",
+    "value": "ENGLISH SHEPHERD"
+  },
+  {
+    "en-Us": "ENGLISH SPRINGER SPANIEL",
+    "es-Es": "SPRINGER SPANIEL INGLÉS",
+    "value": "ENGLISH SPRINGER SPANIEL"
+  },
+  {
+    "en-Us": "ENGLISH TOY TERRIER (BLACK &AMP; TAN)",
+    "es-Es": "TERRIER DE JUGUETE INGLÉS (NEGRO Y TAN)",
+    "value": "ENGLISH TOY TERRIER (BLACK &AMP; TAN)"
+  },
+  {
+    "en-Us": "ENGLISH WATER SPANIEL",
+    "es-Es": "SPANIEL DE AGUA INGLÉS",
+    "value": "ENGLISH WATER SPANIEL"
+  },
+  {
+    "en-Us": "ENGLISH WHITE TERRIER",
+    "es-Es": "TERRIER BLANCO INGLÉS",
+    "value": "ENGLISH WHITE TERRIER"
+  },
+  {
+    "en-Us": "ENTLEBUCHER MOUNTAIN DOG",
+    "es-Es": "ENTLEBUCHER PERRO DE MONTAÑA",
+    "value": "ENTLEBUCHER MOUNTAIN DOG"
+  },
+  {
+    "en-Us": "ESTONIAN HOUND",
+    "es-Es": "SABUESO DE ESTONIA",
+    "value": "ESTONIAN HOUND"
+  },
+  {
+    "en-Us": "ESTRELA MOUNTAIN DOG",
+    "es-Es": "ESTRELA PERRO DE MONTAÑA",
+    "value": "ESTRELA MOUNTAIN DOG"
+  },
+  {
+    "en-Us": "EURASIER",
+    "es-Es": "EURASIER",
+    "value": "EURASIER"
+  },
+  {
+    "en-Us": "FIELD SPANIEL",
+    "es-Es": "SPANIEL DE CAMPO",
+    "value": "FIELD SPANIEL"
+  },
+  {
+    "en-Us": "FILA BRASILEIRO",
+    "es-Es": "FILA BRASILEIRO",
+    "value": "FILA BRASILEIRO"
+  },
+  {
+    "en-Us": "FINNISH HOUND",
+    "es-Es": "SABUEL FINLANDÉS",
+    "value": "FINNISH HOUND"
+  },
+  {
+    "en-Us": "FINNISH LAPPHUND",
+    "es-Es": "LAPPHUND FINLANDÉS",
+    "value": "FINNISH LAPPHUND"
+  },
+  {
+    "en-Us": "FINNISH SPITZ",
+    "es-Es": "SPITZ FINLANDÉS",
+    "value": "FINNISH SPITZ"
+  },
+  {
+    "en-Us": "FLAT-COATED RETRIEVER",
+    "es-Es": "PERDIGUERO DE PELO PLANO",
+    "value": "FLAT-COATED RETRIEVER"
+  },
+  {
+    "en-Us": "FORMOSAN MOUNTAIN DOG",
+    "es-Es": "PERRO DE MONTAÑA DE FORMOSA",
+    "value": "FORMOSAN MOUNTAIN DOG"
+  },
+  {
+    "en-Us": "FOX TERRIER (SMOOTH)",
+    "es-Es": "FOX TERRIER (LISO)",
+    "value": "FOX TERRIER (SMOOTH)"
+  },
+  {
+    "en-Us": "FRENCH BULLDOG",
+    "es-Es": "BULLDOG FRANCÉS",
+    "value": "FRENCH BULLDOG"
+  },
+  {
+    "en-Us": "AUSTRALIAN BULLDOG",
+    "es-Es": "BULLDOG AUSTRALIANO",
+    "value": "AUSTRALIAN BULLDOG"
+  },
+  {
+    "en-Us": "CATAHOULA BULLDOG",
+    "es-Es": "BULLDOG CATAHOULA",
+    "value": "CATAHOULA BULLDOG"
+  },
+  {
+    "en-Us": "ALAPAHA BLUE BLOOD BULLDOG",
+    "es-Es": "BULLDOG ALAPAHA DE SANGRE AZUL",
+    "value": "ALAPAHA BLUE BLOOD BULLDOG"
+  },
+  {
+    "en-Us": "VICTORIAN BULLDOG",
+    "es-Es": "BULLDOG VICTORIANO",
+    "value": "VICTORIAN BULLDOG"
+  },
+  {
+    "en-Us": "CAMPEIRO BULLDOG",
+    "es-Es": "BULLDOG CAMPEIRO",
+    "value": "CAMPEIRO BULLDOG"
+  },
+  {
+    "en-Us": "VALLEY BULLDOG",
+    "es-Es": "BULLDOG DEL VALLE",
+    "value": "VALLEY BULLDOG"
+  },
+  {
+    "en-Us": "CONTINENTAL BULLDOG",
+    "es-Es": "BULLDOG CONTINENTAL",
+    "value": "CONTINENTAL BULLDOG"
+  },
+  {
+    "en-Us": "BULLMASTIFF",
+    "es-Es": "BULLMASTIFF",
+    "value": "BULLMASTIFF"
+  },
+  {
+    "en-Us": "PITUBULL",
+    "es-Es": "PITUBULL",
+    "value": "PITUBULL"
+  },
+  {
+    "en-Us": "FRENCH SPANIEL",
+    "es-Es": "SPANIEL FRANCÉS",
+    "value": "FRENCH SPANIEL"
+  },
+  {
+    "en-Us": "GALGO ESPAÑOL",
+    "es-Es": "GALGO ESPAÑOL",
+    "value": "GALGO ESPAÑOL"
+  },
+  {
+    "en-Us": "GASCON SAINTONGEOIS",
+    "es-Es": "GASCON SAINTONGEOIS",
+    "value": "GASCON SAINTONGEOIS"
+  },
+  {
+    "en-Us": "GERMAN LONGHAIRED POINTER",
+    "es-Es": "PUNTER ALEMÁN DE PELO LARGO",
+    "value": "GERMAN LONGHAIRED POINTER"
+  },
+  {
+    "en-Us": "GERMAN PINSCHER",
+    "es-Es": "PINSCHER ALEMÁN",
+    "value": "GERMAN PINSCHER"
+  },
+  {
+    "en-Us": "GERMAN SHEPHERD",
+    "es-Es": "PASTOR ALEMÁN",
+    "value": "GERMAN SHEPHERD"
+  },
+  {
+    "en-Us": "GERMAN SHORTHAIRED POINTER",
+    "es-Es": "PUNTER DE PELO CORTO ALEMÁN",
+    "value": "GERMAN SHORTHAIRED POINTER"
+  },
+  {
+    "en-Us": "GERMAN SPANIEL",
+    "es-Es": "SPANIEL ALEMÁN",
+    "value": "GERMAN SPANIEL"
+  },
+  {
+    "en-Us": "GERMAN SPITZ",
+    "es-Es": "SPITZ ALEMÁN",
+    "value": "GERMAN SPITZ"
+  },
+  {
+    "en-Us": "GERMAN WIREHAIRED POINTER",
+    "es-Es": "PUNTERO DE PELO ALAMBRE ALEMÁN",
+    "value": "GERMAN WIREHAIRED POINTER"
+  },
+  {
+    "en-Us": "GIANT SCHNAUZER",
+    "es-Es": "SCHNAUZER GIGANTE",
+    "value": "GIANT SCHNAUZER"
+  },
+  {
+    "en-Us": "GLEN OF IMAAL TERRIER",
+    "es-Es": "CAÑADA DE IMAAL TERRIER",
+    "value": "GLEN OF IMAAL TERRIER"
+  },
+  {
+    "en-Us": "GOLDEN RETRIEVER",
+    "es-Es": "GOLDEN RETRIEVER",
+    "value": "GOLDEN RETRIEVER"
+  },
+  {
+    "en-Us": "GORDON SETTER",
+    "es-Es": "SETTER DE GORDON",
+    "value": "GORDON SETTER"
+  },
+  {
+    "en-Us": "GRAN MASTÍN DE BORÍNQUEN",
+    "es-Es": "GRAN MASTÍN DE BORÍNQUEN",
+    "value": "GRAN MASTÍN DE BORÍNQUEN"
+  },
+  {
+    "en-Us": "GRAND ANGLO-FRANÇAIS BLANC ET NOIR",
+    "es-Es": "GRAN ANGLO-FRANÇAIS BLANC ET NOIR",
+    "value": "GRAND ANGLO-FRANÇAIS BLANC ET NOIR"
+  },
+  {
+    "en-Us": "GRAND ANGLO-FRANÇAIS BLANC ET ORANGE",
+    "es-Es": "GRAN ANGLO-FRANÇAIS BLANCO Y NARANJA",
+    "value": "GRAND ANGLO-FRANÇAIS BLANC ET ORANGE"
+  },
+  {
+    "en-Us": "GRAND ANGLO-FRANÇAIS TRICOLORE",
+    "es-Es": "GRAN ANGLO-FRANÇAIS TRICOLORE",
+    "value": "GRAND ANGLO-FRANÇAIS TRICOLORE"
+  },
+  {
+    "en-Us": "GRAND BASSET GRIFFON VENDÉEN",
+    "es-Es": "GRAN BASSET GRIFON VENDÉEN",
+    "value": "GRAND BASSET GRIFFON VENDÉEN"
+  },
+  {
+    "en-Us": "GRAND BLEU DE GASCOGNE",
+    "es-Es": "GRANDE AZUL DE GASCÓGNE",
+    "value": "GRAND BLEU DE GASCOGNE"
+  },
+  {
+    "en-Us": "GRAND GRIFFON VENDÉEN",
+    "es-Es": "GRAN GRIFO VENDÉEN",
+    "value": "GRAND GRIFFON VENDÉEN"
+  },
+  {
+    "en-Us": "GREAT DANE",
+    "es-Es": "GRAN DANÉS",
+    "value": "GREAT DANE"
+  },
+  {
+    "en-Us": "GREAT PYRENEES",
+    "es-Es": "GRANES PIRINEOS",
+    "value": "GREAT PYRENEES"
+  },
+  {
+    "en-Us": "GREATER SWISS MOUNTAIN DOG",
+    "es-Es": "GRAN PERRO DE MONTAÑA SUIZO",
+    "value": "GREATER SWISS MOUNTAIN DOG"
+  },
+  {
+    "en-Us": "GREEK HAREHOUND",
+    "es-Es": "EL LIEBRE GRIEGO",
+    "value": "GREEK HAREHOUND"
+  },
+  {
+    "en-Us": "GREENLAND DOG",
+    "es-Es": "PERRO DE GROENLANDIA",
+    "value": "GREENLAND DOG"
+  },
+  {
+    "en-Us": "GREYHOUND",
+    "es-Es": "GALGO",
+    "value": "GREYHOUND"
+  },
+  {
+    "en-Us": "GRIFFON BLEU DE GASCOGNE",
+    "es-Es": "GRIFFON BLEU DE GASCOGNE",
+    "value": "GRIFFON BLEU DE GASCOGNE"
+  },
+  {
+    "en-Us": "GRIFFON BRUXELLOIS",
+    "es-Es": "GRIFÓN BRUXELLOIS",
+    "value": "GRIFFON BRUXELLOIS"
+  },
+  {
+    "en-Us": "GRIFFON FAUVE DE BRETAGNE",
+    "es-Es": "GRIFON FAUVE DE BRETAGNE",
+    "value": "GRIFFON FAUVE DE BRETAGNE"
+  },
+  {
+    "en-Us": "GRIFFON NIVERNAIS",
+    "es-Es": "GRIFO NIVERNAIS",
+    "value": "GRIFFON NIVERNAIS"
+  },
+  {
+    "en-Us": "HAMILTONSTÖVARE",
+    "es-Es": "HAMILTONSTÖVARE",
+    "value": "HAMILTONSTÖVARE"
+  },
+  {
+    "en-Us": "HANOVER HOUND",
+    "es-Es": "SABUESO DE HANOVER",
+    "value": "HANOVER HOUND"
+  },
+  {
+    "en-Us": "HARE INDIAN DOG",
+    "es-Es": "LIEBRE PERRO INDIO",
+    "value": "HARE INDIAN DOG"
+  },
+  {
+    "en-Us": "HARRIER",
+    "es-Es": "AGUILUCHO",
+    "value": "HARRIER"
+  },
+  {
+    "en-Us": "HAVANESE",
+    "es-Es": "HABANESA",
+    "value": "HAVANESE"
+  },
+  {
+    "en-Us": "HAWAIIAN POI DOG",
+    "es-Es": "PERRO PDI HAWAIANO",
+    "value": "HAWAIIAN POI DOG"
+  },
+  {
+    "en-Us": "HIMALAYAN SHEEPDOG",
+    "es-Es": "PERRO PASTOR DEL HIMALAYA",
+    "value": "HIMALAYAN SHEEPDOG"
+  },
+  {
+    "en-Us": "HOKKAIDO",
+    "es-Es": "HOKKAIDO",
+    "value": "HOKKAIDO"
+  },
+  {
+    "en-Us": "HOVAWART",
+    "es-Es": "HOVAWART",
+    "value": "HOVAWART"
+  },
+  {
+    "en-Us": "HUNTAWAY",
+    "es-Es": "CAZAR",
+    "value": "HUNTAWAY"
+  },
+  {
+    "en-Us": "HYGENHUND",
+    "es-Es": "Hygenhund",
+    "value": "HYGENHUND"
+  },
+  {
+    "en-Us": "IBIZAN HOUND",
+    "es-Es": "SABUESO IBIZÁN",
+    "value": "IBIZAN HOUND"
+  },
+  {
+    "en-Us": "ICELANDIC SHEEPDOG",
+    "es-Es": "PERRO PASTOR ISLANDÉS",
+    "value": "ICELANDIC SHEEPDOG"
+  },
+  {
+    "en-Us": "INDIAN PARIAH DOG",
+    "es-Es": "INDIO",
+    "value": "INDIAN PARIAH DOG"
+  },
+  {
+    "en-Us": "INDIAN SPITZ",
+    "es-Es": "SPITZ INDIO",
+    "value": "INDIAN SPITZ"
+  },
+  {
+    "en-Us": "IRISH RED AND WHITE SETTER",
+    "es-Es": "SETTER IRLANDÉS ROJO Y BLANCO",
+    "value": "IRISH RED AND WHITE SETTER"
+  },
+  {
+    "en-Us": "IRISH SETTER",
+    "es-Es": "SETTER IRLANDÉS",
+    "value": "IRISH SETTER"
+  },
+  {
+    "en-Us": "IRISH TERRIER",
+    "es-Es": "TERRIER IRLANDÉS",
+    "value": "IRISH TERRIER"
+  },
+  {
+    "en-Us": "IRISH WATER SPANIEL",
+    "es-Es": "SPANIEL DE AGUA IRLANDÉS",
+    "value": "IRISH WATER SPANIEL"
+  },
+  {
+    "en-Us": "IRISH WOLFHOUND",
+    "es-Es": "LOBO IRLANDÉS",
+    "value": "IRISH WOLFHOUND"
+  },
+  {
+    "en-Us": "ISTRIAN COARSE-HAIRED HOUND",
+    "es-Es": "SABUESO DE PELO GRUESO DE ISTRIA",
+    "value": "ISTRIAN COARSE-HAIRED HOUND"
+  },
+  {
+    "en-Us": "ISTRIAN SHORTHAIRED HOUND",
+    "es-Es": "EL SABUESO DE PELO CORTO DE ISTRIA",
+    "value": "ISTRIAN SHORTHAIRED HOUND"
+  },
+  {
+    "en-Us": "ITALIAN GREYHOUND",
+    "es-Es": "GALGO ITALIANO",
+    "value": "ITALIAN GREYHOUND"
+  },
+  {
+    "en-Us": "JACK RUSSELL TERRIER",
+    "es-Es": "JACK RUSSELL TERRIER",
+    "value": "JACK RUSSELL TERRIER"
+  },
+  {
+    "en-Us": "JAGDTERRIER",
+    "es-Es": "JAGD TERRIER",
+    "value": "JAGDTERRIER"
+  },
+  {
+    "en-Us": "JÄMTHUND",
+    "es-Es": "JÄMTHUND",
+    "value": "JÄMTHUND"
+  },
+  {
+    "en-Us": "KAI KEN",
+    "es-Es": "KAI KEN",
+    "value": "KAI KEN"
+  },
+  {
+    "en-Us": "KAIKADI",
+    "es-Es": "KAIKADI",
+    "value": "KAIKADI"
+  },
+  {
+    "en-Us": "KANNI",
+    "es-Es": "KANNI",
+    "value": "KANNI"
+  },
+  {
+    "en-Us": "KARELIAN BEAR DOG",
+    "es-Es": "PERRO OSO KARELIAN",
+    "value": "KARELIAN BEAR DOG"
+  },
+  {
+    "en-Us": "KARST SHEPHERD",
+    "es-Es": "PASTOR KARST",
+    "value": "KARST SHEPHERD"
+  },
+  {
+    "en-Us": "KEESHOND",
+    "es-Es": "KEESHOND",
+    "value": "KEESHOND"
+  },
+  {
+    "en-Us": "KERRY BEAGLE",
+    "es-Es": "BEAGLE DE KERRY",
+    "value": "KERRY BEAGLE"
+  },
+  {
+    "en-Us": "KERRY BLUE TERRIER",
+    "es-Es": "TERRIER AZUL DE KERRY",
+    "value": "KERRY BLUE TERRIER"
+  },
+  {
+    "en-Us": "KING CHARLES SPANIEL",
+    "es-Es": "EL PERRO DE AGUAS DEL REY CARLOS",
+    "value": "KING CHARLES SPANIEL"
+  },
+  {
+    "en-Us": "KING SHEPHERD",
+    "es-Es": "REY PASTOR",
+    "value": "KING SHEPHERD"
+  },
+  {
+    "en-Us": "KINTAMANI",
+    "es-Es": "KINTAMANI",
+    "value": "KINTAMANI"
+  },
+  {
+    "en-Us": "KISHU",
+    "es-Es": "KISHU",
+    "value": "KISHU"
+  },
+  {
+    "en-Us": "KOMONDOR",
+    "es-Es": "KOMONDOR",
+    "value": "KOMONDOR"
+  },
+  {
+    "en-Us": "KOOIKERHONDJE",
+    "es-Es": "KOOIKERHONDJE",
+    "value": "KOOIKERHONDJE"
+  },
+  {
+    "en-Us": "KOOLIE",
+    "es-Es": "KOOLIE",
+    "value": "KOOLIE"
+  },
+  {
+    "en-Us": "KOREAN JINDO DOG",
+    "es-Es": "PERRO JINDO COREANO",
+    "value": "KOREAN JINDO DOG"
+  },
+  {
+    "en-Us": "KROMFOHRLÄNDER",
+    "es-Es": "KROMFOHRLANDER",
+    "value": "KROMFOHRLÄNDER"
+  },
+  {
+    "en-Us": "KUMAON MASTIFF",
+    "es-Es": "MASTIN KUMAON",
+    "value": "KUMAON MASTIFF"
+  },
+  {
+    "en-Us": "KURĪ",
+    "es-Es": "KURĪ",
+    "value": "KURĪ"
+  },
+  {
+    "en-Us": "KUVASZ",
+    "es-Es": "KUVASZ",
+    "value": "KUVASZ"
+  },
+  {
+    "en-Us": "KYI-LEO",
+    "es-Es": "KYI-LEO",
+    "value": "KYI-LEO"
+  },
+  {
+    "en-Us": "LABRADOR HUSKY",
+    "es-Es": "LABRADOR HUSKY",
+    "value": "LABRADOR HUSKY"
+  },
+  {
+    "en-Us": "LABRADOR RETRIEVER",
+    "es-Es": "LABRADOR RETRIEVER",
+    "value": "LABRADOR RETRIEVER"
+  },
+  {
+    "en-Us": "LAGOTTO ROMAGNOLO",
+    "es-Es": "LAGOTTO ROMAGNOLO",
+    "value": "LAGOTTO ROMAGNOLO"
+  },
+  {
+    "en-Us": "LAKELAND TERRIER",
+    "es-Es": "TERRIER DEL LAGO",
+    "value": "LAKELAND TERRIER"
+  },
+  {
+    "en-Us": "LANCASHIRE HEELER",
+    "es-Es": "LANCASHIRE HEELER",
+    "value": "LANCASHIRE HEELER"
+  },
+  {
+    "en-Us": "LANDSEER",
+    "es-Es": "LANDSEER",
+    "value": "LANDSEER"
+  },
+  {
+    "en-Us": "LAPPONIAN HERDER",
+    "es-Es": "PASTOR LAPONIO",
+    "value": "LAPPONIAN HERDER"
+  },
+  {
+    "en-Us": "LARGE MÜNSTERLÄNDER",
+    "es-Es": "GRAN MÜNSTERLÄNDER",
+    "value": "LARGE MÜNSTERLÄNDER"
+  },
+  {
+    "en-Us": "LEONBERGER",
+    "es-Es": "LEONBERGER",
+    "value": "LEONBERGER"
+  },
+  {
+    "en-Us": "LHASA APSO",
+    "es-Es": "LASA APSO",
+    "value": "LHASA APSO"
+  },
+  {
+    "en-Us": "LITHUANIAN HOUND",
+    "es-Es": "SABUEL LITUANO",
+    "value": "LITHUANIAN HOUND"
+  },
+  {
+    "en-Us": "LONGHAIRED WHIPPET",
+    "es-Es": "GALGO DE PELO LARGO",
+    "value": "LONGHAIRED WHIPPET"
+  },
+  {
+    "en-Us": "LÖWCHEN",
+    "es-Es": "Löwchen",
+    "value": "LÖWCHEN"
+  },
+  {
+    "en-Us": "MAHRATTA GREYHOUND",
+    "es-Es": "GALGO MAHRATTA",
+    "value": "MAHRATTA GREYHOUND"
+  },
+  {
+    "en-Us": "MALTESE",
+    "es-Es": "MALTÉS",
+    "value": "MALTESE"
+  },
+  {
+    "en-Us": "MANCHESTER TERRIER",
+    "es-Es": "MANCHESTER TERRIER",
+    "value": "MANCHESTER TERRIER"
+  },
+  {
+    "en-Us": "MAREMMA SHEEPDOG",
+    "es-Es": "EL PERRO PASTOR DE MAREMMA",
+    "value": "MAREMMA SHEEPDOG"
+  },
+  {
+    "en-Us": "MCNAB",
+    "es-Es": "MCNAB",
+    "value": "MCNAB"
+  },
+  {
+    "en-Us": "MEXICAN HAIRLESS DOG",
+    "es-Es": "PERRO SIN PELO MEXICANO",
+    "value": "MEXICAN HAIRLESS DOG"
+  },
+  {
+    "en-Us": "MINIATURE AMERICAN SHEPHERD",
+    "es-Es": "PASTOR AMERICANO EN MINIATURA",
+    "value": "MINIATURE AMERICAN SHEPHERD"
+  },
+  {
+    "en-Us": "MINIATURE AUSTRALIAN SHEPHERD",
+    "es-Es": "PASTOR AUSTRALIANO EN MINIATURA",
+    "value": "MINIATURE AUSTRALIAN SHEPHERD"
+  },
+  {
+    "en-Us": "MINIATURE FOX TERRIER",
+    "es-Es": "FOX TERRIER MINIATURA",
+    "value": "MINIATURE FOX TERRIER"
+  },
+  {
+    "en-Us": "MINIATURE PINSCHER",
+    "es-Es": "PINSCHER MINIATURA",
+    "value": "MINIATURE PINSCHER"
+  },
+  {
+    "en-Us": "MINIATURE SCHNAUZER",
+    "es-Es": "SCHNAUZER MINIATURA",
+    "value": "MINIATURE SCHNAUZER"
+  },
+  {
+    "en-Us": "MINIATURE SHAR PEI",
+    "es-Es": "SHAR PEI EN MINIATURA",
+    "value": "MINIATURE SHAR PEI"
+  },
+  {
+    "en-Us": "MOLOSSUS",
+    "es-Es": "MOLOSO",
+    "value": "MOLOSSUS"
+  },
+  {
+    "en-Us": "MONTENEGRIN MOUNTAIN HOUND",
+    "es-Es": "SABUEL MONTENEGRINO DE LA MONTAÑA",
+    "value": "MONTENEGRIN MOUNTAIN HOUND"
+  },
+  {
+    "en-Us": "MOSCOW WATCHDOG",
+    "es-Es": "EL PERRO GUARDIÁN DE MOSCÚ",
+    "value": "MOSCOW WATCHDOG"
+  },
+  {
+    "en-Us": "MOSCOW WATER DOG",
+    "es-Es": "PERRO DE AGUA DE MOSCÚ",
+    "value": "MOSCOW WATER DOG"
+  },
+  {
+    "en-Us": "MOUNTAIN CUR",
+    "es-Es": "CUR DE MONTAÑA",
+    "value": "MOUNTAIN CUR"
+  },
+  {
+    "en-Us": "MUCUCHIES",
+    "es-Es": "MUCUCHIES",
+    "value": "MUCUCHIES"
+  },
+  {
+    "en-Us": "MUDHOL HOUND",
+    "es-Es": "SABUESO DE MUDHOL",
+    "value": "MUDHOL HOUND"
+  },
+  {
+    "en-Us": "MUDI",
+    "es-Es": "MUDI",
+    "value": "MUDI"
+  },
+  {
+    "en-Us": "NEAPOLITAN MASTIFF",
+    "es-Es": "MASTIN NAPOLITANO",
+    "value": "NEAPOLITAN MASTIFF"
+  },
+  {
+    "en-Us": "NEW ZEALAND HEADING DOG",
+    "es-Es": "PERRO DE CABEZA DE NUEVA ZELANDA",
+    "value": "NEW ZEALAND HEADING DOG"
+  },
+  {
+    "en-Us": "NEWFOUNDLAND",
+    "es-Es": "TERRANOVA",
+    "value": "NEWFOUNDLAND"
+  },
+  {
+    "en-Us": "NORFOLK SPANIEL",
+    "es-Es": "SPANIEL DE NORFOLK",
+    "value": "NORFOLK SPANIEL"
+  },
+  {
+    "en-Us": "NORFOLK TERRIER",
+    "es-Es": "TERRIER NORFOLK",
+    "value": "NORFOLK TERRIER"
+  },
+  {
+    "en-Us": "NORRBOTTENSPETS",
+    "es-Es": "NORRBOTTENSPETS",
+    "value": "NORRBOTTENSPETS"
+  },
+  {
+    "en-Us": "NORTH COUNTRY BEAGLE",
+    "es-Es": "BEAGLE DEL NORTE DEL PAÍS",
+    "value": "NORTH COUNTRY BEAGLE"
+  },
+  {
+    "en-Us": "NORTHERN INUIT DOG",
+    "es-Es": "PERRO INUIT DEL NORTE",
+    "value": "NORTHERN INUIT DOG"
+  },
+  {
+    "en-Us": "NORWEGIAN BUHUND",
+    "es-Es": "BUHUND NORUEGO",
+    "value": "NORWEGIAN BUHUND"
+  },
+  {
+    "en-Us": "NORWEGIAN ELKHOUND",
+    "es-Es": "ELKHOUND NORUEGO",
+    "value": "NORWEGIAN ELKHOUND"
+  },
+  {
+    "en-Us": "NORWEGIAN LUNDEHUND",
+    "es-Es": "LUNDEHUND NORUEGO",
+    "value": "NORWEGIAN LUNDEHUND"
+  },
+  {
+    "en-Us": "NORWICH TERRIER",
+    "es-Es": "TERRIER DEL NORUECO",
+    "value": "NORWICH TERRIER"
+  },
+  {
+    "en-Us": "OLD CROATIAN SIGHTHOUND",
+    "es-Es": "VIEJO LEGAL CROATA",
+    "value": "OLD CROATIAN SIGHTHOUND"
+  },
+  {
+    "en-Us": "OLD DANISH POINTER",
+    "es-Es": "PUNTERO DANÉS ANTIGUO",
+    "value": "OLD DANISH POINTER"
+  },
+  {
+    "en-Us": "OLD ENGLISH SHEEPDOG",
+    "es-Es": "EL ANTIGUO PERRO PASTOR INGLÉS",
+    "value": "OLD ENGLISH SHEEPDOG"
+  },
+  {
+    "en-Us": "OLD ENGLISH TERRIER",
+    "es-Es": "TERRIER INGLÉS ANTIGUO",
+    "value": "OLD ENGLISH TERRIER"
+  },
+  {
+    "en-Us": "OLD GERMAN SHEPHERD DOG",
+    "es-Es": "VIEJO PERRO PASTOR ALEMÁN",
+    "value": "OLD GERMAN SHEPHERD DOG"
+  },
+  {
+    "en-Us": "OLDE ENGLISH BULLDOGGE",
+    "es-Es": "ANTIGUO BULLDOG INGLÉS",
+    "value": "OLDE ENGLISH BULLDOGGE"
+  },
+  {
+    "en-Us": "ENGLISH BULLDOGGE",
+    "es-Es": "BULLDOG INGLÉS",
+    "value": "ENGLISH BULLDOGGE"
+  },
+  {
+    "en-Us": "OTTERHOUND",
+    "es-Es": "OTTERHOUND",
+    "value": "OTTERHOUND"
+  },
+  {
+    "en-Us": "PACHON NAVARRO",
+    "es-Es": "PACHON NAVARRO",
+    "value": "PACHON NAVARRO"
+  },
+  {
+    "en-Us": "PAISLEY TERRIER",
+    "es-Es": "TERRIER DE PAISLEY",
+    "value": "PAISLEY TERRIER"
+  },
+  {
+    "en-Us": "PANDIKONA",
+    "es-Es": "PANDIKONA",
+    "value": "PANDIKONA"
+  },
+  {
+    "en-Us": "PAPILLON",
+    "es-Es": "PAPILLON",
+    "value": "PAPILLON"
+  },
+  {
+    "en-Us": "PARSON RUSSELL TERRIER",
+    "es-Es": "PARSON RUSSELL TERRIER",
+    "value": "PARSON RUSSELL TERRIER"
+  },
+  {
+    "en-Us": "PATTERDALE TERRIER",
+    "es-Es": "TERRIER PATERDALE",
+    "value": "PATTERDALE TERRIER"
+  },
+  {
+    "en-Us": "PEKINGESE",
+    "es-Es": "PEKINÉS",
+    "value": "PEKINGESE"
+  },
+  {
+    "en-Us": "PEMBROKE WELSH CORGI",
+    "es-Es": "CORGI GALÉS DE PEMBROKE",
+    "value": "PEMBROKE WELSH CORGI"
+  },
+  {
+    "en-Us": "PERRO DE PRESA CANARIO",
+    "es-Es": "PERRO DE PRESA CANARIO",
+    "value": "PERRO DE PRESA CANARIO"
+  },
+  {
+    "en-Us": "PERRO DE PRESA MALLORQUIN",
+    "es-Es": "PERRO DE PRESA MALLORQUIN",
+    "value": "PERRO DE PRESA MALLORQUIN"
+  },
+  {
+    "en-Us": "PERUVIAN HAIRLESS DOG",
+    "es-Es": "PERRO PERUANO SIN PELO",
+    "value": "PERUVIAN HAIRLESS DOG"
+  },
+  {
+    "en-Us": "PETIT BASSET GRIFFON VENDÉEN",
+    "es-Es": "PETIT BASSET GRIFON VENDÉEN",
+    "value": "PETIT BASSET GRIFFON VENDÉEN"
+  },
+  {
+    "en-Us": "PETIT BLEU DE GASCOGNE",
+    "es-Es": "PETIT BLEU DE GASCOGNE",
+    "value": "PETIT BLEU DE GASCOGNE"
+  },
+  {
+    "en-Us": "PHALÈNE",
+    "es-Es": "FALENA",
+    "value": "PHALÈNE"
+  },
+  {
+    "en-Us": "PHARAOH HOUND",
+    "es-Es": "EL PERRO DEL FARAON",
+    "value": "PHARAOH HOUND"
+  },
+  {
+    "en-Us": "PHU QUOC RIDGEBACK DOG",
+    "es-Es": "PHU QUOC RIDGEBACK PERRO",
+    "value": "PHU QUOC RIDGEBACK DOG"
+  },
+  {
+    "en-Us": "PICARDY SPANIEL",
+    "es-Es": "SPANIEL DE PICARDIA",
+    "value": "PICARDY SPANIEL"
+  },
+  {
+    "en-Us": "PLOTT HOUND",
+    "es-Es": "PLOTT HOUND",
+    "value": "PLOTT HOUND"
+  },
+  {
+    "en-Us": "PODENCO CANARIO",
+    "es-Es": "PODENCO CANARIO",
+    "value": "PODENCO CANARIO"
+  },
+  {
+    "en-Us": "POINTER (DOG BREED)",
+    "es-Es": "POINTER (RAZA DE PERRO)",
+    "value": "POINTER (DOG BREED)"
+  },
+  {
+    "en-Us": "POLISH GREYHOUND",
+    "es-Es": "GALGO POLACO",
+    "value": "POLISH GREYHOUND"
+  },
+  {
+    "en-Us": "POLISH HOUND",
+    "es-Es": "SABUESO POLACO",
+    "value": "POLISH HOUND"
+  },
+  {
+    "en-Us": "POLISH HUNTING DOG",
+    "es-Es": "PERRO DE CAZA POLACO",
+    "value": "POLISH HUNTING DOG"
+  },
+  {
+    "en-Us": "POLISH LOWLAND SHEEPDOG",
+    "es-Es": "PASTOR POLACO DE LAS TIERRAS BAJAS",
+    "value": "POLISH LOWLAND SHEEPDOG"
+  },
+  {
+    "en-Us": "POLISH TATRA SHEEPDOG",
+    "es-Es": "PERRO PASTOR TATRA POLACO",
+    "value": "POLISH TATRA SHEEPDOG"
+  },
+  {
+    "en-Us": "POMERANIAN",
+    "es-Es": "POMERANIAN",
+    "value": "POMERANIAN"
+  },
+  {
+    "en-Us": "PONT-AUDEMER SPANIEL",
+    "es-Es": "PONT-AUDEMER SPANIEL",
+    "value": "PONT-AUDEMER SPANIEL"
+  },
+  {
+    "en-Us": "POODLE",
+    "es-Es": "CANICHE",
+    "value": "POODLE"
+  },
+  {
+    "en-Us": "PORCELAINE",
+    "es-Es": "PORCELANA}",
+    "value": "PORCELAINE"
+  },
+  {
+    "en-Us": "PORTUGUESE PODENGO",
+    "es-Es": "PODENGO PORTUGUÉS",
+    "value": "PORTUGUESE PODENGO"
+  },
+  {
+    "en-Us": "PORTUGUESE POINTER",
+    "es-Es": "PUNTERO PORTUGUÉS",
+    "value": "PORTUGUESE POINTER"
+  },
+  {
+    "en-Us": "PORTUGUESE WATER DOG",
+    "es-Es": "PERRO DE AGUA PORTUGUÉS",
+    "value": "PORTUGUESE WATER DOG"
+  },
+  {
+    "en-Us": "POSAVAC HOUND",
+    "es-Es": "SABUESO DE POSAVAC",
+    "value": "POSAVAC HOUND"
+  },
+  {
+    "en-Us": "PRAŽSKÝ KRYSAŘÍK",
+    "es-Es": "PRAŽSKÝ KRYSAŘÍK",
+    "value": "PRAŽSKÝ KRYSAŘÍK"
+  },
+  {
+    "en-Us": "PUDELPOINTER",
+    "es-Es": "PUDELPOINTER",
+    "value": "PUDELPOINTER"
+  },
+  {
+    "en-Us": "PUG",
+    "es-Es": "PUG",
+    "value": "PUG"
+  },
+  {
+    "en-Us": "PULI",
+    "es-Es": "PULI",
+    "value": "PULI"
+  },
+  {
+    "en-Us": "PUMI",
+    "es-Es": "PUMI",
+    "value": "PUMI"
+  },
+  {
+    "en-Us": "PUNGSAN DOG",
+    "es-Es": "PERRO PUNGSAN",
+    "value": "PUNGSAN DOG"
+  },
+  {
+    "en-Us": "PYRENEAN MASTIFF",
+    "es-Es": "MASTIN DEL PIRINEO",
+    "value": "PYRENEAN MASTIFF"
+  },
+  {
+    "en-Us": "PYRENEAN SHEPHERD",
+    "es-Es": "PASTOR DEL PIRINEO",
+    "value": "PYRENEAN SHEPHERD"
+  },
+  {
+    "en-Us": "RAFEIRO DO ALENTEJO",
+    "es-Es": "RAFEIRO DEL ALENTEJO",
+    "value": "RAFEIRO DO ALENTEJO"
+  },
+  {
+    "en-Us": "RAJAPALAYAM",
+    "es-Es": "RAJAPALAYAM",
+    "value": "RAJAPALAYAM"
+  },
+  {
+    "en-Us": "RAMPUR GREYHOUND",
+    "es-Es": "GALGO RAMPUR",
+    "value": "RAMPUR GREYHOUND"
+  },
+  {
+    "en-Us": "RASTREADOR BRASILEIRO",
+    "es-Es": "RASTREADOR BRASILEIRO",
+    "value": "RASTREADOR BRASILEIRO"
+  },
+  {
+    "en-Us": "RAT TERRIER",
+    "es-Es": "TERRIER DE RATA",
+    "value": "RAT TERRIER"
+  },
+  {
+    "en-Us": "RATONERO BODEGUERO ANDALUZ",
+    "es-Es": "RATONERO BODEGUERO ANDALUZ",
+    "value": "RATONERO BODEGUERO ANDALUZ"
+  },
+  {
+    "en-Us": "REDBONE COONHOUND",
+    "es-Es": "COONHOUND ROJO",
+    "value": "REDBONE COONHOUND"
+  },
+  {
+    "en-Us": "RHODESIAN RIDGEBACK",
+    "es-Es": "RIDGEBACK DE RODESIA",
+    "value": "RHODESIAN RIDGEBACK"
+  },
+  {
+    "en-Us": "ROTTWEILER",
+    "es-Es": "ROTWEILER",
+    "value": "ROTTWEILER"
+  },
+  {
+    "en-Us": "ROUGH COLLIE",
+    "es-Es": "COLLIE RUGOSO",
+    "value": "ROUGH COLLIE"
+  },
+  {
+    "en-Us": "RUSSELL TERRIER",
+    "es-Es": "RUSSELL TERRIER",
+    "value": "RUSSELL TERRIER"
+  },
+  {
+    "en-Us": "RUSSIAN SPANIEL",
+    "es-Es": "SPANIEL RUSO",
+    "value": "RUSSIAN SPANIEL"
+  },
+  {
+    "en-Us": "RUSSIAN TRACKER",
+    "es-Es": "RASTREADOR RUSO",
+    "value": "RUSSIAN TRACKER"
+  },
+  {
+    "en-Us": "RUSSO-EUROPEAN LAIKA",
+    "es-Es": "LAIKA RUSSO-EUROPEA",
+    "value": "RUSSO-EUROPEAN LAIKA"
+  },
+  {
+    "en-Us": "SABUESO ESPAÑOL",
+    "es-Es": "SABUESO ESPAÑOL",
+    "value": "SABUESO ESPAÑOL"
+  },
+  {
+    "en-Us": "SAINT-USUGE SPANIEL",
+    "es-Es": "SAN-USUGE SPANIEL",
+    "value": "SAINT-USUGE SPANIEL"
+  },
+  {
+    "en-Us": "SAKHALIN HUSKY",
+    "es-Es": "SAKHALIN HUSKY",
+    "value": "SAKHALIN HUSKY"
+  },
+  {
+    "en-Us": "SALUKI",
+    "es-Es": "SALUKI",
+    "value": "SALUKI"
+  },
+  {
+    "en-Us": "SAMOYED",
+    "es-Es": "SAMOYEDO",
+    "value": "SAMOYED"
+  },
+  {
+    "en-Us": "SAPSALI",
+    "es-Es": "SAPSALI",
+    "value": "SAPSALI"
+  },
+  {
+    "en-Us": "SCHAPENDOES",
+    "es-Es": "SCHAPENDOES",
+    "value": "SCHAPENDOES"
+  },
+  {
+    "en-Us": "SCHILLERSTÖVARE",
+    "es-Es": "SCHILLERSTÖVARE",
+    "value": "SCHILLERSTÖVARE"
+  },
+  {
+    "en-Us": "SCHIPPERKE",
+    "es-Es": "SCHIPPERKE",
+    "value": "SCHIPPERKE"
+  },
+  {
+    "en-Us": "SCHWEIZER LAUFHUND",
+    "es-Es": "SCHWEIZER LAUFHUND",
+    "value": "SCHWEIZER LAUFHUND"
+  },
+  {
+    "en-Us": "SCHWEIZERISCHER NIEDERLAUFHUND",
+    "es-Es": "SCHWEIZERISCHER NIEDERLAUFHUND",
+    "value": "SCHWEIZERISCHER NIEDERLAUFHUND"
+  },
+  {
+    "en-Us": "SCOTCH COLLIE",
+    "es-Es": "COLLIE ESCOCÉS",
+    "value": "SCOTCH COLLIE"
+  },
+  {
+    "en-Us": "SCOTTISH DEERHOUND",
+    "es-Es": "SAGUERO DE CIERVO ESCOCÉS",
+    "value": "SCOTTISH DEERHOUND"
+  },
+  {
+    "en-Us": "SCOTTISH TERRIER",
+    "es-Es": "TERRIER ESCOCÉS",
+    "value": "SCOTTISH TERRIER"
+  },
+  {
+    "en-Us": "SEALYHAM TERRIER",
+    "es-Es": "TERRIER SEALYHAM",
+    "value": "SEALYHAM TERRIER"
+  },
+  {
+    "en-Us": "SEGUGIO ITALIANO",
+    "es-Es": "SEGUGIO ITALIANO",
+    "value": "SEGUGIO ITALIANO"
+  },
+  {
+    "en-Us": "SEPPALA SIBERIAN SLEDDOG",
+    "es-Es": "SEPPALA SLEDDOG SIBERIANO",
+    "value": "SEPPALA SIBERIAN SLEDDOG"
+  },
+  {
+    "en-Us": "SERBIAN HOUND",
+    "es-Es": "SAGUERO SERBIO",
+    "value": "SERBIAN HOUND"
+  },
+  {
+    "en-Us": "SERBIAN TRICOLOUR HOUND",
+    "es-Es": "SALBERO SERBIO TRICOLOR",
+    "value": "SERBIAN TRICOLOUR HOUND"
+  },
+  {
+    "en-Us": "SHAR PEI",
+    "es-Es": "SHAR PEI",
+    "value": "SHAR PEI"
+  },
+  {
+    "en-Us": "SHETLAND SHEEPDOG",
+    "es-Es": "EL PERRO PASTOR SHETLAND",
+    "value": "SHETLAND SHEEPDOG"
+  },
+  {
+    "en-Us": "SHIBA INU",
+    "es-Es": "SHIBA INU",
+    "value": "SHIBA INU"
+  },
+  {
+    "en-Us": "SHIH TZU",
+    "es-Es": "SHIH TZU",
+    "value": "SHIH TZU"
+  },
+  {
+    "en-Us": "SHIKOKU",
+    "es-Es": "SHIKOKU",
+    "value": "SHIKOKU"
+  },
+  {
+    "en-Us": "SHILOH SHEPHERD DOG",
+    "es-Es": "EL PERRO PASTOR DE SHILOH",
+    "value": "SHILOH SHEPHERD DOG"
+  },
+  {
+    "en-Us": "SIBERIAN HUSKY",
+    "es-Es": "HUSKY SIBERIANO",
+    "value": "SIBERIAN HUSKY"
+  },
+  {
+    "en-Us": "SILKEN WINDHOUND",
+    "es-Es": "VELABRITOS DE SEDA",
+    "value": "SILKEN WINDHOUND"
+  },
+  {
+    "en-Us": "SINHALA HOUND",
+    "es-Es": "SABUESO SINHALA",
+    "value": "SINHALA HOUND"
+  },
+  {
+    "en-Us": "SKYE TERRIER",
+    "es-Es": "TERRIER DEL CIELO",
+    "value": "SKYE TERRIER"
+  },
+  {
+    "en-Us": "SLOUGHI",
+    "es-Es": "SLOUGHI",
+    "value": "SLOUGHI"
+  },
+  {
+    "en-Us": "SLOVAK CUVAC",
+    "es-Es": "CUVAC ESLOVACO",
+    "value": "SLOVAK CUVAC"
+  },
+  {
+    "en-Us": "SLOVAKIAN ROUGH-HAIRED POINTER",
+    "es-Es": "PUNTERO DE PELO RUGOSO ESLOVAQUIO",
+    "value": "SLOVAKIAN ROUGH-HAIRED POINTER"
+  },
+  {
+    "en-Us": "SMALL GREEK DOMESTIC DOG",
+    "es-Es": "PEQUEÑO PERRO DOMÉSTICO GRIEGO",
+    "value": "SMALL GREEK DOMESTIC DOG"
+  },
+  {
+    "en-Us": "SMALL MÜNSTERLÄNDER",
+    "es-Es": "PEQUEÑO MÜNSTERLÄNDER",
+    "value": "SMALL MÜNSTERLÄNDER"
+  },
+  {
+    "en-Us": "SMOOTH COLLIE",
+    "es-Es": "COLLIE LISO",
+    "value": "SMOOTH COLLIE"
+  },
+  {
+    "en-Us": "SOUTH RUSSIAN OVCHARKA",
+    "es-Es": "OVCHARKA DEL SUR DE RUSIA",
+    "value": "SOUTH RUSSIAN OVCHARKA"
+  },
+  {
+    "en-Us": "SOUTHERN HOUND",
+    "es-Es": "SABUESO DEL SUR",
+    "value": "SOUTHERN HOUND"
+  },
+  {
+    "en-Us": "SPANISH MASTIFF",
+    "es-Es": "MASTIN ESPAÑOL",
+    "value": "SPANISH MASTIFF"
+  },
+  {
+    "en-Us": "SPANISH WATER DOG",
+    "es-Es": "PERRO DE AGUA ESPAÑOL",
+    "value": "SPANISH WATER DOG"
+  },
+  {
+    "en-Us": "SPINONE ITALIANO",
+    "es-Es": "SPINONE ITALIANO",
+    "value": "SPINONE ITALIANO"
+  },
+  {
+    "en-Us": "SPORTING LUCAS TERRIER",
+    "es-Es": "DEPORTIVO LUCAS TERRIER",
+    "value": "SPORTING LUCAS TERRIER"
+  },
+  {
+    "en-Us": "ST. BERNARD",
+    "es-Es": "SAN BERNARDO",
+    "value": "ST. BERNARD"
+  },
+  {
+    "en-Us": "ST. JOHN'S WATER DOG",
+    "es-Es": "EL PERRO DE AGUA DE SAN JUAN",
+    "value": "ST. JOHN'S WATER DOG"
+  },
+  {
+    "en-Us": "STABYHOUN",
+    "es-Es": "STABYHOUN",
+    "value": "STABYHOUN"
+  },
+  {
+    "en-Us": "STAFFORDSHIRE BULL TERRIER",
+    "es-Es": "STAFFORDSHIRE BULL TERRIER",
+    "value": "STAFFORDSHIRE BULL TERRIER"
+  },
+  {
+    "en-Us": "STANDARD SCHNAUZER",
+    "es-Es": "SCHNAUZER ESTÁNDAR",
+    "value": "STANDARD SCHNAUZER"
+  },
+  {
+    "en-Us": "STEPHENS CUR",
+    "es-Es": "STEPHENS CUR",
+    "value": "STEPHENS CUR"
+  },
+  {
+    "en-Us": "STYRIAN COARSE-HAIRED HOUND",
+    "es-Es": "SAGUERO DE PELO GRUESO DE ESTIRIA",
+    "value": "STYRIAN COARSE-HAIRED HOUND"
+  },
+  {
+    "en-Us": "SUSSEX SPANIEL",
+    "es-Es": "SPANIEL DE SUSSEX",
+    "value": "SUSSEX SPANIEL"
+  },
+  {
+    "en-Us": "SWEDISH LAPPHUND",
+    "es-Es": "LAPPHUND SUECO",
+    "value": "SWEDISH LAPPHUND"
+  },
+  {
+    "en-Us": "SWEDISH VALLHUND",
+    "es-Es": "VALHUND SUECO",
+    "value": "SWEDISH VALLHUND"
+  },
+  {
+    "en-Us": "TAHLTAN BEAR DOG",
+    "es-Es": "PERRO OSO TAHLTAN",
+    "value": "TAHLTAN BEAR DOG"
+  },
+  {
+    "en-Us": "TAIGAN",
+    "es-Es": "TAIGÁN",
+    "value": "TAIGAN"
+  },
+  {
+    "en-Us": "TALBOT",
+    "es-Es": "TALBOT",
+    "value": "TALBOT"
+  },
+  {
+    "en-Us": "TAMASKAN DOG",
+    "es-Es": "PERRO TAMASCO",
+    "value": "TAMASKAN DOG"
+  },
+  {
+    "en-Us": "TEDDY ROOSEVELT TERRIER",
+    "es-Es": "TEDDY ROOSEVELT TERRIER",
+    "value": "TEDDY ROOSEVELT TERRIER"
+  },
+  {
+    "en-Us": "TELOMIAN",
+    "es-Es": "TELOMIANO",
+    "value": "TELOMIAN"
+  },
+  {
+    "en-Us": "TENTERFIELD TERRIER",
+    "es-Es": "TERRIER DE TENTERFIELD",
+    "value": "TENTERFIELD TERRIER"
+  },
+  {
+    "en-Us": "THAI BANGKAEW DOG",
+    "es-Es": "PERRO BANGKAEW TAILANDÉS",
+    "value": "THAI BANGKAEW DOG"
+  },
+  {
+    "en-Us": "THAI RIDGEBACK",
+    "es-Es": "RIDGEBACK TAILANDÉS",
+    "value": "THAI RIDGEBACK"
+  },
+  {
+    "en-Us": "TIBETAN MASTIFF",
+    "es-Es": "MASTÍN TIBETANO",
+    "value": "TIBETAN MASTIFF"
+  },
+  {
+    "en-Us": "TIBETAN SPANIEL",
+    "es-Es": "SPANIEL TIBETANO",
+    "value": "TIBETAN SPANIEL"
+  },
+  {
+    "en-Us": "TIBETAN TERRIER",
+    "es-Es": "TERRIER TIBETANO",
+    "value": "TIBETAN TERRIER"
+  },
+  {
+    "en-Us": "TORNJAK",
+    "es-Es": "TORNJAK",
+    "value": "TORNJAK"
+  },
+  {
+    "en-Us": "TOSA",
+    "es-Es": "TOSA",
+    "value": "TOSA"
+  },
+  {
+    "en-Us": "TOY BULLDOG",
+    "es-Es": "TOY BULLDOG",
+    "value": "TOY BULLDOG"
+  },
+  {
+    "en-Us": "TOY FOX TERRIER",
+    "es-Es": "FOX TERRIER DE JUGUETE",
+    "value": "TOY FOX TERRIER"
+  },
+  {
+    "en-Us": "TOY MANCHESTER TERRIER",
+    "es-Es": "MANCHESTER TERRIER DE JUGUETE",
+    "value": "TOY MANCHESTER TERRIER"
+  },
+  {
+    "en-Us": "TOY TRAWLER SPANIEL",
+    "es-Es": "SPANIEL DE ARRASTRE DE JUGUETE",
+    "value": "TOY TRAWLER SPANIEL"
+  },
+  {
+    "en-Us": "TRANSYLVANIAN HOUND",
+    "es-Es": "SABUESO DE TRANSILVANO",
+    "value": "TRANSYLVANIAN HOUND"
+  },
+  {
+    "en-Us": "TREEING CUR",
+    "es-Es": "CUR DE ARBOLES",
+    "value": "TREEING CUR"
+  },
+  {
+    "en-Us": "TREEING WALKER COONHOUND",
+    "es-Es": "COONHOUND ANDADOR DE ARBOLES",
+    "value": "TREEING WALKER COONHOUND"
+  },
+  {
+    "en-Us": "TRIGG HOUND",
+    "es-Es": "SABUESO DE DISPARO",
+    "value": "TRIGG HOUND"
+  },
+  {
+    "en-Us": "TWEED WATER SPANIEL",
+    "es-Es": "SPANIEL DE AGUA DE TWEED",
+    "value": "TWEED WATER SPANIEL"
+  },
+  {
+    "en-Us": "TYROLEAN HOUND",
+    "es-Es": "SABUEL TIROLÉS",
+    "value": "TYROLEAN HOUND"
+  },
+  {
+    "en-Us": "VIZSLA",
+    "es-Es": "VIZSLA",
+    "value": "VIZSLA"
+  },
+  {
+    "en-Us": "VOLPINO ITALIANO",
+    "es-Es": "VOLPINO ITALIANO",
+    "value": "VOLPINO ITALIANO"
+  },
+  {
+    "en-Us": "WEIMARANER",
+    "es-Es": "WEIMARANER",
+    "value": "WEIMARANER"
+  },
+  {
+    "en-Us": "WELSH SHEEPDOG",
+    "es-Es": "PERRO PASTOR GALÉS",
+    "value": "WELSH SHEEPDOG"
+  },
+  {
+    "en-Us": "WELSH SPRINGER SPANIEL",
+    "es-Es": "SPANIEL SPRINGER GALÉS",
+    "value": "WELSH SPRINGER SPANIEL"
+  },
+  {
+    "en-Us": "WELSH TERRIER",
+    "es-Es": "TERRIER GALÉS",
+    "value": "WELSH TERRIER"
+  },
+  {
+    "en-Us": "WEST HIGHLAND WHITE TERRIER",
+    "es-Es": "TERRIER BLANCO DE LAS TIERRAS ALTAS DEL OESTE",
+    "value": "WEST HIGHLAND WHITE TERRIER"
+  },
+  {
+    "en-Us": "WEST SIBERIAN LAIKA",
+    "es-Es": "LAIKA DE SIBERIA OCCIDENTAL",
+    "value": "WEST SIBERIAN LAIKA"
+  },
+  {
+    "en-Us": "WESTPHALIAN DACHSBRACKE",
+    "es-Es": "Dachsbrack de Westfalia",
+    "value": "WESTPHALIAN DACHSBRACKE"
+  },
+  {
+    "en-Us": "WETTERHOUN",
+    "es-Es": "WETTERHUN",
+    "value": "WETTERHOUN"
+  },
+  {
+    "en-Us": "WHIPPET",
+    "es-Es": "LEBREL",
+    "value": "WHIPPET"
+  },
+  {
+    "en-Us": "WHITE SHEPHERD",
+    "es-Es": "PASTOR BLANCO",
+    "value": "WHITE SHEPHERD"
+  },
+  {
+    "en-Us": "WIRE FOX TERRIER",
+    "es-Es": "FOX TERRIER DE ALAMBRE",
+    "value": "WIRE FOX TERRIER"
+  },
+  {
+    "en-Us": "WIREHAIRED POINTING GRIFFON",
+    "es-Es": "GRIFO SEÑALADOR DE PELO ALAMBRE",
+    "value": "WIREHAIRED POINTING GRIFFON"
+  },
+  {
+    "en-Us": "WIREHAIRED VIZSLA",
+    "es-Es": "VIZSLA DE PELO DURO",
+    "value": "WIREHAIRED VIZSLA"
+  },
+  {
+    "en-Us": "YORKSHIRE TERRIER",
+    "es-Es": "YORKSHIRE TERRIER",
+    "value": "YORKSHIRE TERRIER"
+  },
+  {
+    "en-Us": "ŠARPLANINAC",
+    "es-Es": "ŠARPLANINAC",
+    "value": "ŠARPLANINAC"
+  },
+  {
+    "en-Us": "BLUE NOSE PITBULL",
+    "es-Es": "PITBULL NARIZ AZUL",
+    "value": "BLUE NOSE PITBULL"
+  },
+  {
+    "en-Us": "AMERICAN BULLY",
+    "es-Es": "BULLY AMERICANO",
+    "value": "AMERICAN BULLY"
+  },
+  {
+    "en-Us": "CHAMUCO PITBULL",
+    "es-Es": "CHAMUCO PITBULL",
+    "value": "CHAMUCO PITBULL"
+  },
+  {
+    "en-Us": "GAMER PITBULL",
+    "es-Es": "GAMER PITBULL",
+    "value": "GAMER PITBULLL"
+  },
+  {
+    "en-Us": "COLBY PITBULL",
+    "es-Es": "COLBY PITBULL",
+    "value": "COLBY PITBULL"
+  },
+  {
+    "en-Us": "JOHNSON PITBULL",
+    "es-Es": "JOHNSON PITBULL",
+    "value": "JOHNSON PITBULL"
+  },
+  {
+    "en-Us": "MONSTER BLUE PITBULL",
+    "es-Es": "MONSTRUO PITBULL AZUL",
+    "value": "MONSTER BLUE PITBULL"
+  },
+  {
+    "en-Us": "PYNAT PITBULL",
+    "es-Es": "PYNAT PITBULL",
+    "value": "PYNAT PITBULL"
+  },
+  {
+    "en-Us": "SPIKE PITBULL",
+    "es-Es": "SPIKE PITBULL",
+    "value": "SPIKE PITBULL"
+  },
+  {
+    "en-Us": "RED NOSE PITBULL",
+    "es-Es": "PITBULL NARIZ ROJA",
+    "value": "RED NOSE PITBULL"
+  },
+  {
+    "en-Us": "STUFFAWLER PITBULL",
+    "es-Es": "STUFFAWLER PITBULL",
+    "value": "STUFFAWLER PITBULL"
+  },
+  {
+    "en-Us": "VILLALIBERTY PITBULL",
+    "es-Es": "VILLALIBERTY PITBULL",
+    "value": "VILLALIBERTY PITBULL"
+  },
+  {
+    "en-Us": "PITBULL",
+    "es-Es": "PITBULL",
+    "value": "PITBULL"
+  },
+  {
+    "en-Us": "CHUG",
+    "es-Es": "CHUG",
+    "value": "CHUG"
+  },
+  {
+    "en-Us": "JUG",
+    "es-Es": "JUG",
+    "value": "JUG"
+  },
+  {
+    "en-Us": "SHUG",
+    "es-Es": "SHUG",
+    "value": "SHUG"
+  },
+  {
+    "en-Us": "PUGADOR",
+    "es-Es": "PUGADOR",
+    "value": "PUGADOR"
+  },
+  {
+    "en-Us": "PUGALIER",
+    "es-Es": "PUGALIER",
+    "value": "PUGALIER"
+  },
+  {
+    "en-Us": "BULLPUG",
+    "es-Es": "BULLPUG",
+    "value": "BULLPUG"
+  },
+  {
+    "en-Us": "PUGSKY O HUG",
+    "es-Es": "PUGSKY O HUG",
+    "value": "PUGSKY O HUG"
+  },
+  {
+    "en-Us": "BUGG",
+    "es-Es": "BUGG",
+    "value": "BUGG"
+  },
+  {
+    "en-Us": "PUG TZU",
+    "es-Es": "PUG TZU",
+    "value": "PUG TZU"
+  },
+  {
+    "en-Us": "SCHNUG",
+    "es-Es": "SCHNUG",
+    "value": "SCHNUG"
+  },
+  {
+    "en-Us": "POM-A-PUG",
+    "es-Es": "POM-A-PUG",
+    "value": "POM-A-PUG"
+  },
+  {
+    "en-Us": "PUGGLE",
+    "es-Es": "PUGGLE",
+    "value": "PUGGLE"
+  },
+  {
+    "en-Us": "DAUG",
+    "es-Es": "DAUG",
+    "value": "DAUG"
+  },
+  {
+    "en-Us": "PUGINESE",
+    "es-Es": "PUGINESE",
+    "value": "PUGINESE"
+  },
+  {
+    "en-Us": "PORGI",
+    "es-Es": "PORGI",
+    "value": "PORGI"
+  },
+  {
+    "en-Us": "PUG GRIFÓN",
+    "es-Es": "PUG GRIFÓN",
+    "value": "PUG GRIFÓN"
+  },
+  {
+    "en-Us": "POXER",
+    "es-Es": "POXER",
+    "value": "POXER"
+  },
+  {
+    "en-Us": "PUGSHIRE",
+    "es-Es": "PUGSHIRE",
+    "value": "PUGSHIRE"
+  },
+  {
+    "en-Us": "SHEPUG AUSTRALIANO",
+    "es-Es": "SHEPUG AUSTRALIANO",
+    "value": "SHEPUG AUSTRALIANO"
+  },
+  {
+    "en-Us": "PUG-A-MO",
+    "es-Es": "PUG-A-MO",
+    "value": "PUG-A-MO"
+  },
+  {
+    "en-Us": "BASSUGG",
+    "es-Es": "BASSUGG",
+    "value": "BASSUGG"
+  },
+  {
+    "en-Us": "PUSHON",
+    "es-Es": "PUSHON",
+    "value": "PUSHON"
+  },
+  {
+    "en-Us": "PUGESE",
+    "es-Es": "PUGESE",
+    "value": "PUGESE"
+  },
+  {
+    "en-Us": "PUGILLON",
+    "es-Es": "PUGILLON",
+    "value": "PUGILLON"
+  },
+  {
+    "en-Us": "PUGAPOO",
+    "es-Es": "PUGAPOO",
+    "value": "PUGAPOO"
+  },
+  {
+    "en-Us": "JAPUG",
+    "es-Es": "JAPUG",
+    "value": "JAPUG"
+  },
+  {
+    "en-Us": "ORI PEI",
+    "es-Es": "ORI PEI",
+    "value": "ORI PEI"
+  },
+  {
+    "en-Us": "BULLY FUSION",
+    "es-Es": "FUSION BULLY",
+    "value": "BULLY FUSION"
+  },
+  {
+    "en-Us": "SIAM",
+    "es-Es": "SIAMES",
+    "value": "SIAM"
+  },
+  {
+    "en-Us": "STANDARD DACHSHUND",
+    "es-Es": "PERRO SALCHICHA ESTÁNDAR",
+    "value": "STANDARD DACHSHUND"
+  },
+  {
+    "en-Us": "MINIATURE DACHSHUND",
+    "es-Es": "PERRO SALCHICHA MINIATURA",
+    "value": "MINIATURE DACHSHUND"
+  },
+  {
+    "en-Us": "KANINCHEN DACHSHUND",
+    "es-Es": "PERRO SALCHICHA KANINCHEN",
+    "value": "KANINCHEN DACHSHUND"
+  },
+  {
+    "en-Us": "SHORTHAIR DACHSHUND",
+    "es-Es": "SALCHICHA DE PELO CORTO",
+    "value": "SHORTHAIR DACHSHUND"
+  },
+  {
+    "en-Us": "LONGHAIRED DACHSHUND",
+    "es-Es": "SALCHICHA DE PELO LARGO",
+    "value": "LONGHAIRED DACHSHUND"
+  },
+  {
+    "en-Us": "WICKED DACHSHUND",
+    "es-Es": "SALCHICHA DE PELO DURO",
+    "value": "WICKED DACHSHUND"
+  },
+  {
+    "en-Us": "BICHON HAVANESE o HABANERO",
+    "es-Es": "BICHON HABANERO O HAVANESE",
+    "value": "BICHON HAVANESE o HABANERO"
+  },
+  {
+    "en-Us": "AMERICAN BULLY EXOTIC",
+    "es-Es": "AMERICAN BULLY EXOTIC",
+    "value": "AMERICAN BULLY EXOTIC"
+  },
+  {
+    "en-Us": "JACK RUSEEL HAIR ROUGH",
+    "es-Es": "JACK RUSELL PELO DURO",
+    "value": "JACK RUSEEL HAIR ROUGH"
+  },
+  {
+    "en-Us": "JACK RUSSELL HAIR SMOOTH",
+    "es-Es": "JACK RUSSELL PELO CORTO",
+    "value": "JACK RUSSELL HAIR SMOOTH"
+  },
+  {
+    "en-Us": "JACK RUSSELL BROKEN HAIR",
+    "es-Es": "JACK RUSSELL PELO BROKEN",
+    "value": "JACK RUSSELL BROKEN HAIR"
+  }
+]

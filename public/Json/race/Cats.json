@@ -1,0 +1,542 @@
+[
+  {
+    "en-Us": "HALF BLOOD",
+    "es-Es": "MESTIZO",
+    "value": "HALF BLOOD"
+  },
+  {
+    "en-Us": "ABESSINIER",
+    "es-Es": "ABESSINIER",
+    "value": "ABESSINIER"
+  },
+  {
+    "en-Us": "AMERICAN BOBTAIL LONGHAIR",
+    "es-Es": "BOBTAIL AMERICANO DE PELO LARGO",
+    "value": "AMERICAN BOBTAIL LONGHAIR"
+  },
+  {
+    "en-Us": "AMERICAN BOBTAIL SHORTHAIR",
+    "es-Es": "BOBTAIL AMERICANO DE PELO CORTO",
+    "value": "AMERICAN BOBTAIL SHORTHAIR"
+  },
+  {
+    "en-Us": "AMERICAN CURL LONGHAIR",
+    "es-Es": "RIZO AMERICANO DE PELO LARGO",
+    "value": "AMERICAN CURL LONGHAIR"
+  },
+  {
+    "en-Us": "AMERICAN CURL SHORTHAIR",
+    "es-Es": "RIZO AMERICANO DE PELO CORTO",
+    "value": "AMERICAN CURL SHORTHAIR"
+  },
+  {
+    "en-Us": "AMERICAN SHORTHAIR",
+    "es-Es": "AMERICANO DE PELO CORTO",
+    "value": "AMERICAN SHORTHAIR"
+  },
+  {
+    "en-Us": "AMERICAN WIREHAIR",
+    "es-Es": "PELO DE ALAMBRE AMERICANO",
+    "value": "AMERICAN WIREHAIR"
+  },
+  {
+    "en-Us": "ANATOLI",
+    "es-Es": "ANATOLI",
+    "value": "ANATOLI"
+  },
+  {
+    "en-Us": "ANGORAKATZE",
+    "es-Es": "ANGORAKATZÉ",
+    "value": "ANGORAKATZE"
+  },
+  {
+    "en-Us": "ARABISCHE MAU",
+    "es-Es": "ARABISCHE MAU",
+    "value": "ARABISCHE MAU"
+  },
+  {
+    "en-Us": "ASIAN",
+    "es-Es": "ASIÁTICO",
+    "value": "ASIAN"
+  },
+  {
+    "en-Us": "AUSTRALIAN MIST",
+    "es-Es": "NIEBLA AUSTRALIANA",
+    "value": "AUSTRALIAN MIST"
+  },
+  {
+    "en-Us": "BALINESE",
+    "es-Es": "BALINESA",
+    "value": "BALINESE"
+  },
+  {
+    "en-Us": "BENGAL",
+    "es-Es": "BENGALA",
+    "value": "BENGAL"
+  },
+  {
+    "en-Us": "BIRMA",
+    "es-Es": "BIRMA",
+    "value": "BIRMA"
+  },
+  {
+    "en-Us": "BOHEMIAN REX",
+    "es-Es": "BOHEMIO REX",
+    "value": "BOHEMIAN REX"
+  },
+  {
+    "en-Us": "BOMBAY",
+    "es-Es": "BOMBAY",
+    "value": "BOMBAY"
+  },
+  {
+    "en-Us": "BRASILIANISCH KURZHAAR",
+    "es-Es": "BRASILANISCH KURZHAAR",
+    "value": "BRASILIANISCH KURZHAAR"
+  },
+  {
+    "en-Us": "BRITISCH KURZHAAR",
+    "es-Es": "KURZHAAR BRITÁNICO",
+    "value": "BRITISCH KURZHAAR"
+  },
+  {
+    "en-Us": "BRITISCH LANGHAAR (HIGHLANDER)",
+    "es-Es": "LANGHAAR BRITÁNICO (MONTAÑESES)",
+    "value": "BRITISCH LANGHAAR (HIGHLANDER)"
+  },
+  {
+    "en-Us": "BURMA",
+    "es-Es": "BIRMANIA",
+    "value": "BURMA"
+  },
+  {
+    "en-Us": "BURMILLA",
+    "es-Es": "BURMILLA",
+    "value": "BURMILLA"
+  },
+  {
+    "en-Us": "CALIFORNIA SPANGLED",
+    "es-Es": "CALIFORNIA LENTEJUELAS",
+    "value": "CALIFORNIA SPANGLED"
+  },
+  {
+    "en-Us": "CEYLON-KATZE",
+    "es-Es": "CEILÁN-KATZE",
+    "value": "CEYLON-KATZE"
+  },
+  {
+    "en-Us": "CHANTILLY",
+    "es-Es": "CHANTILLY",
+    "value": "CHANTILLY"
+  },
+  {
+    "en-Us": "CHARTREUX",
+    "es-Es": "CHARTREUX",
+    "value": "CHARTREUX"
+  },
+  {
+    "en-Us": "CHAUSIE",
+    "es-Es": "CHAUSIE",
+    "value": "CHAUSIE"
+  },
+  {
+    "en-Us": "COLOURPOINT",
+    "es-Es": "PUNTO DE COLOR",
+    "value": "COLOURPOINT"
+  },
+  {
+    "en-Us": "CORNISH REX",
+    "es-Es": "CORNISH REX",
+    "value": "CORNISH REX"
+  },
+  {
+    "en-Us": "CYMRIC",
+    "es-Es": "IDIOMA CÉLTICO",
+    "value": "CYMRIC"
+  },
+  {
+    "en-Us": "DEUTSCH LANGHAAR",
+    "es-Es": "DEUTSCH LANGHAAR",
+    "value": "DEUTSCH LANGHAAR"
+  },
+  {
+    "en-Us": "DEVON REX",
+    "es-Es": "DEVON REX",
+    "value": "DEVON REX"
+  },
+  {
+    "en-Us": "DON SPHYNX",
+    "es-Es": "DON ESFINGE",
+    "value": "DON SPHYNX"
+  },
+  {
+    "en-Us": "EUROPÄISCH KURZHAAR",
+    "es-Es": "EUROPAISCH KURZHAAR",
+    "value": "EUROPÄISCH KURZHAAR"
+  },
+  {
+    "en-Us": "EXOTIC LONGHAIR",
+    "es-Es": "PELO LARGO EXÓTICO",
+    "value": "EXOTIC LONGHAIR"
+  },
+  {
+    "en-Us": "EXOTIC SHORTHAIR",
+    "es-Es": "PELO CORTO EXÓTICO",
+    "value": "EXOTIC SHORTHAIR"
+  },
+  {
+    "en-Us": "FOLDEX",
+    "es-Es": "FOLDEX",
+    "value": "FOLDEX"
+  },
+  {
+    "en-Us": "FOREIGN WHITE",
+    "es-Es": "BLANCO EXTRANJERO",
+    "value": "FOREIGN WHITE"
+  },
+  {
+    "en-Us": "GERMAN REX",
+    "es-Es": "REX ALEMÁN",
+    "value": "GERMAN REX"
+  },
+  {
+    "en-Us": "HAVANA",
+    "es-Es": "LA HABANA",
+    "value": "HAVANA"
+  },
+  {
+    "en-Us": "JAPANESE BOBTAIL LONGHAIR",
+    "es-Es": "BOBTAIL JAPONÉS DE PELO LARGO",
+    "value": "JAPANESE BOBTAIL LONGHAIR"
+  },
+  {
+    "en-Us": "JAPANESE BOBTAIL SHORTHAIR",
+    "es-Es": "BOBTAIL JAPONÉS DE PELO CORTO",
+    "value": "JAPANESE BOBTAIL SHORTHAIR"
+  },
+  {
+    "en-Us": "JAVANESE",
+    "es-Es": "JAVANÉS",
+    "value": "JAVANESE"
+  },
+  {
+    "en-Us": "KANAANI",
+    "es-Es": "KANAANI",
+    "value": "KANAANI"
+  },
+  {
+    "en-Us": "KARELIAN BOBTAIL LONGHAIR",
+    "es-Es": "BOBTAIL DE CARELIA DE PELO LARGO",
+    "value": "KARELIAN BOBTAIL LONGHAIR"
+  },
+  {
+    "en-Us": "KARTÄUSER-KATZE",
+    "es-Es": "KARTÄUSER-KATZE",
+    "value": "KARTÄUSER-KATZE"
+  },
+  {
+    "en-Us": "KHAO MANEE",
+    "es-Es": "KHAO MANEE",
+    "value": "KHAO MANEE"
+  },
+  {
+    "en-Us": "KORAT",
+    "es-Es": "KORAT",
+    "value": "KORAT"
+  },
+  {
+    "en-Us": "KURILEN BOBTAIL",
+    "es-Es": "COLA CORTA DE KURILÉN",
+    "value": "KURILEN BOBTAIL"
+  },
+  {
+    "en-Us": "KURILEN BOBTAIL",
+    "es-Es": "COLA CORTA DE KURILÉN",
+    "value": "KURILEN BOBTAIL"
+  },
+  {
+    "en-Us": "LA PERM LONGHAIR",
+    "es-Es": "LA PERM PELO LARGO",
+    "value": "LA PERM LONGHAIR"
+  },
+  {
+    "en-Us": "LA PERM SHORTHAIR",
+    "es-Es": "LA PERM PELO CORTO",
+    "value": "LA PERM SHORTHAIR"
+  },
+  {
+    "en-Us": "MAINE COON",
+    "es-Es": "MAINE COON",
+    "value": "MAINE COON"
+  },
+  {
+    "en-Us": "MALTESERKATZE",
+    "es-Es": "MALTESERKATZE",
+    "value": "MALTESERKATZE"
+  },
+  {
+    "en-Us": "MANDARIN",
+    "es-Es": "MANDARÍN",
+    "value": "MANDARIN"
+  },
+  {
+    "en-Us": "MANX",
+    "es-Es": "DE LA ISLA DE MAN",
+    "value": "MANX"
+  },
+  {
+    "en-Us": "MEKONG BOBTAIL",
+    "es-Es": "BOBTAIL DEL MEKONG",
+    "value": "MEKONG BOBTAIL"
+  },
+  {
+    "en-Us": "MINSKIN",
+    "es-Es": "MINSKIN",
+    "value": "MINSKIN"
+  },
+  {
+    "en-Us": "MUNCHKIN LONGHAIR",
+    "es-Es": "MUNCHKIN DE PELO LARGO",
+    "value": "MUNCHKIN LONGHAIR"
+  },
+  {
+    "en-Us": "MUNCHKIN SHORTHAIR",
+    "es-Es": "MUNCHKIN DE PELO CORTO",
+    "value": "MUNCHKIN SHORTHAIR"
+  },
+  {
+    "en-Us": "NEBELUNG",
+    "es-Es": "NEBELUNG",
+    "value": "NEBELUNG"
+  },
+  {
+    "en-Us": "NEVA MASQUERADE",
+    "es-Es": "NEVA MASQUERADE ",
+    "value": "NEVA MASQUERADE"
+  },
+  {
+    "en-Us": "NON POINTED HIMALAYAN",
+    "es-Es": "HIMALAYA NO PUNTIAGUDO",
+    "value": "NON POINTED HIMALAYAN"
+  },
+  {
+    "en-Us": "NORWEGISCHE WALDKATZE",
+    "es-Es": "NORWEGISCHE WALDKATZE",
+    "value": "NORWEGISCHE WALDKATZE"
+  },
+  {
+    "en-Us": "OCICAT",
+    "es-Es": "OCICAT",
+    "value": "OCICAT"
+  },
+  {
+    "en-Us": "OJOS AZULES LANGHAAR",
+    "es-Es": "OJOS AZULES LANGHAAR",
+    "value": "OJOS AZULES LANGHAAR"
+  },
+  {
+    "en-Us": "OJOS AZULES",
+    "es-Es": "OJOS AZULES",
+    "value": "OJOS AZULES"
+  },
+  {
+    "en-Us": "OREGON REX",
+    "es-Es": "OREGÓN REX",
+    "value": "OREGON REX"
+  },
+  {
+    "en-Us": "ORIENTALISCH KURZHAAR",
+    "es-Es": "ORIENTALISCH KURZHAAR",
+    "value": "ORIENTALISCH KURZHAAR"
+  },
+  {
+    "en-Us": "ORIENTALISCH LANGHAAR",
+    "es-Es": "ORIENTALISCH LANGHAAR",
+    "value": "ORIENTALISCH LANGHAAR"
+  },
+  {
+    "en-Us": "PERSER",
+    "es-Es": "PERSER",
+    "value": "PERSER"
+  },
+  {
+    "en-Us": "PETERBALD",
+    "es-Es": "PETERBALDO",
+    "value": "PETERBALD"
+  },
+  {
+    "en-Us": "PIXIEBOB LONGHAIR",
+    "es-Es": "PIXIEBOB PELO LARGO",
+    "value": "PIXIEBOB LONGHAIR"
+  },
+  {
+    "en-Us": "PIXIEBOB SHORTHAIR",
+    "es-Es": "PIXIEBOB DE PELO CORTO",
+    "value": "PIXIEBOB SHORTHAIR"
+  },
+  {
+    "en-Us": "RAGAMUFFIN",
+    "es-Es": "GRANUJA",
+    "value": "RAGAMUFFIN"
+  },
+  {
+    "en-Us": "RAGDOLL",
+    "es-Es": "MUÑECA DE TRAPO",
+    "value": "RAGDOLL"
+  },
+  {
+    "en-Us": "RUSSISCH BLAU",
+    "es-Es": "RUSSISCH BLAU",
+    "value": "RUSSISCH BLAU"
+  },
+  {
+    "en-Us": "SAFARI",
+    "es-Es": "SAFARI",
+    "value": "SAFARI"
+  },
+  {
+    "en-Us": "SAVANNAH",
+    "es-Es": "SABANA",
+    "value": "SAVANNAH"
+  },
+  {
+    "en-Us": "SCOTTISH FOLD LONGHAIR",
+    "es-Es": "PLIEGUE ESCOCÉS DE PELO LARGO",
+    "value": "SCOTTISH FOLD LONGHAIR"
+  },
+  {
+    "en-Us": "SCOTTISH FOLD SHORTHAIR",
+    "es-Es": "PLIEGUE ESCOCÉS DE PELO CORTO",
+    "value": "SCOTTISH FOLD SHORTHAIR"
+  },
+  {
+    "en-Us": "SELKIRK REX LONGHAIR",
+    "es-Es": "SELKIRK REX DE PELO LARGO",
+    "value": "SELKIRK REX LONGHAIR"
+  },
+  {
+    "en-Us": "SELKIRK REX SHORTHAIR",
+    "es-Es": "SELKIRK REX DE PELO CORTO",
+    "value": "SELKIRK REX SHORTHAIR"
+  },
+  {
+    "en-Us": "SERENGETI",
+    "es-Es": "SERENGUETI",
+    "value": "SERENGETI"
+  },
+  {
+    "en-Us": "SEYCHELLOIS LONGHAIR",
+    "es-Es": "SEYCHELLES DE PELO LARGO",
+    "value": "SEYCHELLOIS LONGHAIR"
+  },
+  {
+    "en-Us": "SEYCHELLOIS SHORTHAIR",
+    "es-Es": "SEYCHELLES DE PELO CORTO",
+    "value": "SEYCHELLOIS SHORTHAIR"
+  },
+  {
+    "en-Us": "SIAM",
+    "es-Es": "SIAMES",
+    "value": "SIAMES"
+  },
+  {
+    "en-Us": "SIBIRISCHE KATZE",
+    "es-Es": "SIBIRISCHE KATZE",
+    "value": "SIBIRISCHE KATZE"
+  },
+  {
+    "en-Us": "SINGAPURA",
+    "es-Es": "SINGAPURA",
+    "value": "SINGAPURA"
+  },
+  {
+    "en-Us": "SNOWSHOE LONGHAIR",
+    "es-Es": "RAQUETA DE NIEVE DE PELO LARGO",
+    "value": "SNOWSHOE LONGHAIR"
+  },
+  {
+    "en-Us": "SNOWSHOE",
+    "es-Es": "RAQUETA DE NIEVE",
+    "value": "SNOWSHOE"
+  },
+  {
+    "en-Us": "SOKOKE",
+    "es-Es": "SOKOKE",
+    "value": "SOKOKE"
+  },
+  {
+    "en-Us": "SOMALI",
+    "es-Es": "SOMALÍ",
+    "value": "SOMALI"
+  },
+  {
+    "en-Us": "SPHYNX",
+    "es-Es": "ESFINGE",
+    "value": "SPHYNX"
+  },
+  {
+    "en-Us": "THAI",
+    "es-Es": "TAILANDÉS",
+    "value": "THAI"
+  },
+  {
+    "en-Us": "TIBETER",
+    "es-Es": "TIBETANO",
+    "value": "TIBETER"
+  },
+  {
+    "en-Us": "TIFFANIE",
+    "es-Es": "TIFFANY",
+    "value": "TIFFANIE"
+  },
+  {
+    "en-Us": "TONKANESE",
+    "es-Es": "TONKANÉS",
+    "value": "TONKANESE"
+  },
+  {
+    "en-Us": "TOYGER",
+    "es-Es": "JUGUETERO",
+    "value": "TOYGER"
+  },
+  {
+    "en-Us": "TÜRKISCH ANGORA",
+    "es-Es": "ANGORA TURCO",
+    "value": "TÜRKISCH ANGORA"
+  },
+  {
+    "en-Us": "TÜRKISCH VAN",
+    "es-Es": "TÜRKISCH VAN",
+    "value": "TÜRKISCH VAN"
+  },
+  {
+    "en-Us": "TÜRKISCH VANKEDISI",
+    "es-Es": "TÜRKISCH VANKEDISI",
+    "value": "TÜRKISCH VANKEDISI"
+  },
+  {
+    "en-Us": "URAL REX LANGHAAR",
+    "es-Es": "URAL REX LANGHAAR",
+    "value": "URAL REX LANGHAAR"
+  },
+  {
+    "en-Us": "URAL REX",
+    "es-Es": "URAL REX",
+    "value": "URAL REX"
+  },
+  {
+    "en-Us": "ÄGYPTISCHE MAU",
+    "es-Es": "AGYPTISCHE MAU",
+    "value": "ÄGYPTISCHE MAU"
+  },
+  {
+    "en-Us": "MALHADO",
+    "es-Es": "CALICÓ",
+    "value": "MALHADO"
+  },
+  {
+    "en-Us": "TORTOISESHELL",
+    "es-Es": "CAREY",
+    "value": "TORTOISESHELL"
+  }
+]

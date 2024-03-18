@@ -1,0 +1,32 @@
+[
+  {
+    "en-Us": "DOG",
+    "es-Es": "PERRO",
+    "value": "DOG"
+  },
+  {
+    "en-Us": "CAT",
+    "es-Es": "GATO",
+    "value": "CAT"
+  },
+  {
+    "en-Us": "RABBIT",
+    "es-Es": "CONEJO",
+    "value": "RABBIT"
+  },
+  {
+    "en-Us": "MACAW",
+    "es-Es": "GUACAMAYO",
+    "value": "MACAW"
+  },
+  {
+    "en-Us": "FERRET",
+    "es-Es": "HURÓN",
+    "value": "FERRET"
+  },
+  {
+    "en-Us": "GUINEA PIG",
+    "es-Es": "COBAYA (CUY)",
+    "value": "GUINEA_PIG"
+  }
+]

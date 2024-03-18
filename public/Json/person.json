@@ -1,0 +1,15 @@
+{
+    "person":[
+        {
+            "en-Us": "NATURAL",
+			"es-Es": "NATURAL",
+            "value": "NATURAL"
+        },
+        {
+            "en-Us": "LEGAL",
+			"es-Es": "JURIDICO",
+            "value": "LEGAL"
+        }
+    ]
+
+}

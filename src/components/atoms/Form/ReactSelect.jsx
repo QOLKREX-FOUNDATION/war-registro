@@ -1,0 +1,108 @@
+import Select from "react-select";
+import { useStateContext } from "../../../contexts/ContextProvider";
+export const ReactSelect = ({
+	name = false,
+	value = {},
+	onChange = () => false,
+	options = [],
+	required = false,
+	isMulti = false,
+	readOnly = false,
+	id = false,
+}) => {
+	const { currentColor, currentMode } = useStateContext();
+
+	const style = {
+		fontSize: "0.75rem",
+		lineHeight: "1rem",
+		color: "black"
+	};
+
+	const customStyles = {
+		indicatorSeparator: (provided, state) => ({
+			...provided,
+			...style,
+		}),
+		input: (provided, state) => ({
+			...provided,
+			...style,
+		}),
+		dropdownIndicator: (provided, state) => ({
+			...provided,
+			...style,
+		}),
+		indicatorsContainer: (provided, state) => ({
+			...provided,
+			...style,
+
+		}),
+		valueContainer: (provided, state) => ({
+			...provided,
+			...style,
+		}),
+		singleValue: (provided, state) => ({
+			...provided,
+			...style,
+
+		}),
+		multiValue: (provided, state) => {
+			let colour = state.data?.hex ? state.data.hex : "hsl(0, 0%, 90%)";
+			return {
+				...provided,
+				...style,
+				backgroundColor: `${ colour }`,
+				fontWeight: "bold",
+			};
+		},
+		multiValueLabel: (provided, state) => ({
+			...provided,
+			...style,
+		}),
+		multiValueRemove: (provided, state) => ({
+			...provided,
+			...style,
+		}),
+		control: (base) => ({
+			...base,
+			fontSize: "0.75rem",
+			margin: 0,
+		}),
+		option: (provided, state) => ({
+			...provided,
+			backgroundColor: currentMode === 'Light' ? "white" : "white",
+			color: currentMode === 'Light' ? "black" : "black",
+		}),
+		container: (provided, state) => ({
+			...provided,
+			...style,
+		}),
+		width: (provided, state) => ({
+			...provided,
+			...style,
+		}),
+	};
+
+	return (
+		<div className=" relative w-full dark:text-black">
+			{
+				name &&
+				<label className="text-gray-700 text-xs">
+					<p className="capitalize mb-2" style={{ color: currentColor }}>
+						{name}
+						{required && <span className="text-red-500 required-dot"> *</span>}
+					</p>
+				</label>
+			}
+			<Select
+				id={id && id}
+				isDisabled={readOnly}
+				styles={customStyles}
+				options={options}
+				value={value}
+				onChange={onChange}
+				isMulti={isMulti}
+				className="dark:bg-gray-800 dark:text-gray-100 "
+			/>
+		</div>
+	);
+};

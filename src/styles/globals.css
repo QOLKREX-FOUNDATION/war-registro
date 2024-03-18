@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(216, 216, 216);
+  border-radius: 40px;
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.bg-gradient-to-r {
+  background-image: linear-gradient(
+    to right,
+    rgb(251, 113, 133),
+    rgb(217, 70, 239),
+    rgb(99, 102, 241)
+  );
+}
+
+/* ---custom autocomplete input--- */
+/* input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+input:-webkit-autofill {
+  -webkit-text-fill-color: rgb(255, 191, 0) !important;
+} */
+
+.input-text {
+  @apply px-2 py-1 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent text-black dark:bg-gray-800 dark:text-white;
+}
+
+.active-tab {
+  @apply border-blue-600 text-blue-600 dark:text-blue-500 dark:border-blue-500;
+}
+
+.inactive-tab {
+  @apply hover:text-gray-600 hover:border-gray-300 dark:hover:text-gray-300;
+}
+
+.svg-active {
+  @apply text-blue-600 dark:text-blue-500;
+}
+
+.svg-inactive {
+  @apply text-gray-400 group-hover:text-gray-500 dark:text-gray-500 dark:group-hover:text-gray-300;
+}
+
+/* ---custom tooltip--- */
+
+.tooltip {
+  position: relative; /* Necesario para el posicionamiento del tooltip */
+  /*cursor: help;*/ /* Cambia el cursor al puntero de ayuda */
+}
+
+/* Estilos del tooltip visible */
+.tooltip:hover::before {
+  content: attr(
+    data-tooltip
+  ); /* Mostrar el contenido del atributo data-tooltip */
+  position: absolute;
+  bottom: 100%; /* Coloca el tooltip encima del elemento */
+  left: 50%; /* Posición en el centro horizontal del elemento */
+  transform: translateX(-50%); /* Centra el tooltip horizontalmente */
+  padding: 8px;
+  background-color: #333;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 14px;
+  white-space: nowrap; /* Evita el salto de línea si el contenido es largo */
+  opacity: 0.9;
+}
+
+/* Flecha del tooltip */
+.tooltip:hover::after {
+  content: "";
+  position: absolute;
+  bottom: 34px; /* Posiciona la flecha justo debajo del tooltip */
+  left: 50%;
+  margin-left: -8px; /* Centra la flecha horizontalmente */
+  border-width: 8px 8px 0;
+  border-style: solid;
+  border-color: #333 transparent transparent;
+}
+
+.text-balance {
+  text-wrap: balance;
+}

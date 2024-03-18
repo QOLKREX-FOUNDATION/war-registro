@@ -1,0 +1,194 @@
+.container {
+    box-sizing: border-box;
+    display: flex;
+    height: 100%;
+    position: relative;
+}
+
+.erLogo {
+    left: 79%;
+    position: absolute;
+    top: 3%;
+}
+
+.firulaix {
+    left: 80%;
+    position: absolute;
+    top: 22%;
+}
+
+.firulaixT {
+    left: 10%;
+    position: absolute;
+    top: 0%;
+}
+
+.coin {
+    left: 80%;
+    position: absolute;
+    top: 70%;
+}
+
+.war {
+    left: 22%;
+    position: absolute;
+    top: 3%;
+}
+
+.warAlt {
+    left: 6%;
+    position: absolute;
+    top: 12%;
+}
+
+.backgroundFiru {
+    left: 40%;
+    position: absolute;
+    top: 25%;
+}
+
+.text {
+    color: #333;
+    font-weight: bold;
+    position: absolute;
+    width: 25%;
+}
+
+.textAlt {
+    color: #555;
+    position: absolute;
+    width: 100%;
+}
+
+.textAltOrange {
+    color: #E5BB00;
+}
+
+.date {
+    left: 64.5%;
+    top: 2.8%;
+}
+
+.title {
+    left: 24%;
+    top: 21%;
+}
+
+.name {
+    left: 24.5%;
+    top: 24.69%;
+    width: 50%;
+}
+
+.address {
+    left: 24%;
+    top: 33%;
+    width: 20%;
+}
+
+.petName {
+    left: 24%;
+    top: 39.1%;
+    width: 55%;
+    text-align: left;
+}
+
+.pet {
+    border-color: #E5BB00;
+    left: 28%;
+    text-align: center;
+    top: 46.7%;
+    width: 15%;
+}
+
+.race {
+    border-color: #E5BB00;
+    left: 36%;
+    text-align: center;
+    top: 52.5%;
+    width: 30%;
+}
+
+.gender {
+    border-color: #E5BB00;
+    left: 59%;
+    text-align: center;
+    top: 46.7%;
+    width: 15%;
+}
+
+.textOne {
+    left: 25%;
+    top: 59%;
+    width: 55%;
+}
+
+.signature {
+    left: 25%;
+    text-align: center;
+    top: 73%;
+    width: 20%;
+}
+
+.signatureEr {
+    left: 57%;
+    text-align: center;
+    top: 73%;
+    width: 20%;
+}
+
+.textTwo {
+    left: 25%;
+    text-align: center;
+    top: 80%;
+    width: 55%;
+}
+
+.textThree {
+    right: 64%;
+    transform: rotate(270deg);
+    text-align: center;
+    top: 45%;
+    width: 65%;
+}
+
+.copyRight {
+    right: 65%;
+    transform: rotate(270deg);
+    text-align: center;
+    top: 45%;
+    width: 60%;
+}
+
+.website {
+    color: #225889;
+    right: 61%;
+    transform: rotate(270deg);
+    text-align: center;
+    top: 45%;
+    width: 65%;
+}
+
+.registeringEntity {
+    left: 29%;
+    text-align: center;
+    text-orientation: upright;
+    top: 5%;
+    width: 65%;
+    writing-mode: vertical-rl;
+}
+
+.qr {
+	left: 79%;
+	position: absolute;
+	top:45%;
+}
+
+.hash {
+    word-wrap: break-word;
+    width:22.5%; 
+}
+
+.opacity {
+    opacity: 0;
+}

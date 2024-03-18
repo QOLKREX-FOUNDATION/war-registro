@@ -1,0 +1,27 @@
+[
+	{
+		"en-Us": "CALICIVIRUS",
+		"es-Es": "CALICIVIRUS",
+		"value": "CALICIVIRUS"
+	},
+	{
+		"en-Us": "RHINOTRACHEITIS",
+		"es-Es": "RINOTRAQUEITIS",
+		"value": "RHINOTRACHEITIS"
+	},
+	{
+		"en-Us": "PANLEUKOPENIA",
+		"es-Es": "PANLEUCOPIA",
+		"value": "PANLEUKOPENIA"
+	},
+	{
+		"en-Us": "LEUKEMIA",
+		"es-Es": "LEUCEMIA",
+		"value": "LEUKEMIA"
+	},
+	{
+		"en-Us": "RAGE",
+		"es-Es": "RABIA",
+		"value": "RAGE"
+	}
+]

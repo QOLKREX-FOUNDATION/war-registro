@@ -1,0 +1,79 @@
+[
+  { "inputs": [], "stateMutability": "nonpayable", "type": "constructor" },
+  {
+    "inputs": [{ "internalType": "string", "name": "_cod", "type": "string" }],
+    "name": "deleteSearch",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "string", "name": "_cod", "type": "string" }],
+    "name": "getSearch",
+    "outputs": [
+      {
+        "components": [
+          { "internalType": "string", "name": "specie", "type": "string" },
+          { "internalType": "uint256", "name": "tokenId", "type": "uint256" },
+          {
+            "internalType": "uint256",
+            "name": "idRegisteringEntity",
+            "type": "uint256"
+          }
+        ],
+        "internalType": "struct Search.Info",
+        "name": "",
+        "type": "tuple"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "string", "name": "_cod", "type": "string" }],
+    "name": "getSearchContracts",
+    "outputs": [{ "internalType": "string", "name": "", "type": "string" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "string", "name": "_cod", "type": "string" }],
+    "name": "getSearchId",
+    "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "string", "name": "_cod", "type": "string" }],
+    "name": "getSearchIdRegisteringEntity",
+    "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "_idRegisteringEntity",
+        "type": "uint256"
+      },
+      { "internalType": "uint256", "name": "_tokenId", "type": "uint256" },
+      { "internalType": "string", "name": "_cod", "type": "string" },
+      { "internalType": "string", "name": "_specie", "type": "string" }
+    ],
+    "name": "setSearch",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "string", "name": "_cod", "type": "string" },
+      { "internalType": "uint256", "name": "_idTransfer", "type": "uint256" }
+    ],
+    "name": "transferEr",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]

@@ -1,0 +1,20 @@
+{
+	"type": [
+		{
+			"en-Us": "ADOPTER",
+			"es-Es": "ADOPTANTE"
+		},
+		{
+			"en-Us": "SHELTER",
+			"es-Es": "ALBERGUE"
+		},
+		{
+			"en-Us": "RESCASTITE",
+			"es-Es": "RESCASTISTA"
+		},
+		{
+			"en-Us": "BREEDER",
+			"es-Es": "CRIADOR"
+		}
+	]
+}

@@ -1,0 +1,1666 @@
+[
+  {
+    "en-Us": "ALMOND",
+    "es-Es": "ALMENDRA",
+    "value": "ALMOND",
+    "hex": "#EFDECD",
+    "rgb": "(239, 222, 205)"
+  },
+  {
+    "en-Us": "ANTIQUE BRASS",
+    "es-Es": "LATÓN ANTIGUO",
+    "value": "ANTIQUE BRASS",
+    "hex": "#CD9575",
+    "rgb": "(205, 149, 117)"
+  },
+  {
+    "en-Us": "APRICOT",
+    "es-Es": "ALBARICOQUE",
+    "value": "APRICOT",
+    "hex": "#FDD9B5",
+    "rgb": "(253, 217, 181)"
+  },
+  {
+    "en-Us": "AQUAMARINE",
+    "es-Es": "AGUAMARINA",
+    "value": "AQUAMARINE",
+    "hex": "#78DBE2",
+    "rgb": "(120, 219, 226)"
+  },
+  {
+    "en-Us": "ASPARAGUS",
+    "es-Es": "ESPÁRRAGOS",
+    "value": "ASPARAGUS",
+    "hex": "#87A96B",
+    "rgb": "(135, 169, 107)"
+  },
+  {
+    "en-Us": "ATOMIC TANGERINE",
+    "es-Es": "MANDARINA ATÓMICA",
+    "value": "ATOMIC TANGERINE",
+    "hex": "#FFA474",
+    "rgb": "(255, 164, 116)"
+  },
+  {
+    "en-Us": "BANANA MANIA",
+    "es-Es": "MANÍA DEL BANANO",
+    "value": "BANANA MANIA",
+    "hex": "#FAE7B5",
+    "rgb": "(250, 231, 181)"
+  },
+  {
+    "en-Us": "BEAVER",
+    "es-Es": "CASTOR",
+    "value": "BEAVER",
+    "hex": "#9F8170",
+    "rgb": "(159, 129, 112)"
+  },
+  {
+    "en-Us": "BEIGE",
+    "es-Es": "BEIGE",
+    "value": "BEIGE",
+    "hex": "#f5f5dc",
+    "rgb": "(245, 245, 220)"
+  },
+  {
+    "en-Us": "BITTERSWEET",
+    "es-Es": "AGRIDULCE",
+    "value": "BITTERSWEET",
+    "hex": "#FD7C6E",
+    "rgb": "(253, 124, 110)"
+  },
+  {
+    "en-Us": "BLACK",
+    "es-Es": "NEGRO",
+    "value": "BLACK",
+    "hex": "#000000",
+    "rgb": "(0,0,0)"
+  },
+  {
+    "en-Us": "BLIZZARD BLUE",
+    "es-Es": "VENTISCA AZUL",
+    "value": "BLIZZARD BLUE",
+    "hex": "#ACE5EE",
+    "rgb": "(172, 229, 238)"
+  },
+  {
+    "en-Us": "BLUE",
+    "es-Es": "AZUL",
+    "value": "BLUE",
+    "hex": "#1F75FE",
+    "rgb": "(31, 117, 254)"
+  },
+  {
+    "en-Us": "BLUE BELL",
+    "es-Es": "CAMPANA AZUL",
+    "value": "BLUE BELL",
+    "hex": "#A2A2D0",
+    "rgb": "(162, 162, 208)"
+  },
+  {
+    "en-Us": "BLUE GRAY",
+    "es-Es": "GRIS AZULADO",
+    "value": "BLUE GRAY",
+    "hex": "#6699CC",
+    "rgb": "(102, 153, 204)"
+  },
+  {
+    "en-Us": "BLUE GREEN",
+    "es-Es": "AZUL VERDE",
+    "value": "BLUE GREEN",
+    "hex": "#0D98BA",
+    "rgb": "(13, 152, 186)"
+  },
+  {
+    "en-Us": "BLUE VIOLET",
+    "es-Es": "VIOLETA AZUL",
+    "value": "BLUE VIOLET",
+    "hex": "#7366BD",
+    "rgb": "(115, 102, 189)"
+  },
+  {
+    "en-Us": "BLUSH",
+    "es-Es": "SONROJO",
+    "value": "BLUSH",
+    "hex": "#DE5D83",
+    "rgb": "(222, 93, 131)"
+  },
+  {
+    "en-Us": "BRICK RED",
+    "es-Es": "ROJO LADRILLO",
+    "value": "BRICK RED",
+    "hex": "#CB4154",
+    "rgb": "(203, 65, 84)"
+  },
+  {
+    "en-Us": "BROWN",
+    "es-Es": "MARRÓN",
+    "value": "BROWN",
+    "hex": "#B4674D",
+    "rgb": "(180, 103, 77)"
+  },
+  {
+    "en-Us": "BURNT ORANGE",
+    "es-Es": "NARANJA QUEMADA",
+    "value": "BURNT ORANGE",
+    "hex": "#FF7F49",
+    "rgb": "(255, 127, 73)"
+  },
+  {
+    "en-Us": "BURNT SIENNA",
+    "es-Es": "SIENA TOSTADO",
+    "value": "BURNT SIENNA",
+    "hex": "#EA7E5D",
+    "rgb": "(234, 126, 93)"
+  },
+  {
+    "en-Us": "CADET BLUE",
+    "es-Es": "CADET AZUL",
+    "value": "CADET BLUE",
+    "hex": "#B0B7C6",
+    "rgb": "(176, 183, 198)"
+  },
+  {
+    "en-Us": "CANARY",
+    "es-Es": "CANARIO",
+    "value": "CANARY",
+    "hex": "#FFFF99",
+    "rgb": "(255, 255, 153)"
+  },
+  {
+    "en-Us": "CARIBBEAN GREEN",
+    "es-Es": "VERDE DEL CARIBE",
+    "value": "CARIBBEAN GREEN",
+    "hex": "#1CD3A2",
+    "rgb": "(28, 211, 162)"
+  },
+  {
+    "en-Us": "CARNATION PINK",
+    "es-Es": "ROSA CLAVEL",
+    "value": "CARNATION PINK",
+    "hex": "#FFAACC",
+    "rgb": "(255, 170, 204)"
+  },
+  {
+    "en-Us": "CERISE",
+    "es-Es": "CEREZA",
+    "value": "CERISE",
+    "hex": "#DD4492",
+    "rgb": "(221, 68, 146)"
+  },
+  {
+    "en-Us": "CERULEAN",
+    "es-Es": "AZUL CLARO",
+    "value": "CERULEAN",
+    "hex": "#1DACD6",
+    "rgb": "(29, 172, 214)"
+  },
+  {
+    "en-Us": "CHESTNUT",
+    "es-Es": "CASTAÑA",
+    "value": "CHESTNUT",
+    "hex": "#BC5D58",
+    "rgb": "(188, 93, 88)"
+  },
+  {
+    "en-Us": "COPPER",
+    "es-Es": "COBRE",
+    "value": "COPPER",
+    "hex": "#DD9475",
+    "rgb": "(221, 148, 117)"
+  },
+  {
+    "en-Us": "CORNFLOWER",
+    "es-Es": "FLORECIMIENTO DE MAÍZ",
+    "value": "CORNFLOWER",
+    "hex": "#9ACEEB",
+    "rgb": "(154, 206, 235)"
+  },
+  {
+    "en-Us": "COTTON CANDY",
+    "es-Es": "ALGODÓN DE AZÚCAR",
+    "value": "COTTON CANDY",
+    "hex": "#FFBCD9",
+    "rgb": "(255, 188, 217)"
+  },
+  {
+    "en-Us": "CREAM",
+    "es-Es": "CREMA",
+    "value": "CREAM",
+    "hex": "#FFFFBF",
+    "rgb": "(255, 255, 191)"
+  },
+  {
+    "en-Us": "CARAMEL CREAM",
+    "es-Es": "CREMA CARAMELO",
+    "value": "CARAMEL CREAM",
+    "hex": "#F0E0C9",
+    "rgb": "(240, 224, 201)"
+  },
+  {
+    "en-Us": "DANDELION",
+    "es-Es": "DIENTE DE LEÓN",
+    "value": "DANDELION",
+    "hex": "#FDDB6D",
+    "rgb": "(253, 219, 109)"
+  },
+  {
+    "en-Us": "DENIM",
+    "es-Es": "MEZCLILLA",
+    "value": "DENIM",
+    "hex": "#2B6CC4",
+    "rgb": "(43, 108, 196)"
+  },
+  {
+    "en-Us": "DESERT SAND",
+    "es-Es": "ARENA DEL DESIERTO",
+    "value": "DESERT SAND",
+    "hex": "#EFCDB8",
+    "rgb": "(239, 205, 184)"
+  },
+  {
+    "en-Us": "EGGPLANT",
+    "es-Es": "BERENJENA",
+    "value": "EGGPLANT",
+    "hex": "#6E5160",
+    "rgb": "(110, 81, 96)"
+  },
+  {
+    "en-Us": "ELECTRIC LIME",
+    "es-Es": "CAL ELÉCTRICA",
+    "value": "ELECTRIC LIME",
+    "hex": "#CEFF1D",
+    "rgb": "(206, 255, 29)"
+  },
+  {
+    "en-Us": "FERN",
+    "es-Es": "HELECHO",
+    "value": "FERN",
+    "hex": "#71BC78",
+    "rgb": "(113, 188, 120)"
+  },
+  {
+    "en-Us": "FOREST GREEN",
+    "es-Es": "BOSQUE VERDE",
+    "value": "FOREST GREEN",
+    "hex": "#6DAE81",
+    "rgb": "(109, 174, 129)"
+  },
+  {
+    "en-Us": "FUCHSIA",
+    "es-Es": "FUCSIA",
+    "value": "FUCHSIA",
+    "hex": "#C364C5",
+    "rgb": "(195, 100, 197)"
+  },
+  {
+    "en-Us": "FUZZY WUZZY",
+    "es-Es": "FUZZY WUZZY",
+    "value": "FUZZY WUZZY",
+    "hex": "#CC6666",
+    "rgb": "(204, 102, 102)"
+  },
+  {
+    "en-Us": "GOLD",
+    "es-Es": "ORO",
+    "value": "GOLD",
+    "hex": "#E7C697",
+    "rgb": "(231, 198, 151)"
+  },
+  {
+    "en-Us": "GOLDENROD",
+    "es-Es": "VARA DE ORO",
+    "value": "GOLDENROD",
+    "hex": "#FCD975",
+    "rgb": "(252, 217, 117)"
+  },
+  {
+    "en-Us": "GRANNY SMITH APPLE",
+    "es-Es": "MANZANA GRANNY SMITH",
+    "value": "GRANNY SMITH APPLE",
+    "hex": "#A8E4A0",
+    "rgb": "(168, 228, 160)"
+  },
+  {
+    "en-Us": "GRAY",
+    "es-Es": "GRIS",
+    "value": "GRAY",
+    "hex": "#95918C",
+    "rgb": "(149, 145, 140)"
+  },
+  {
+    "en-Us": "GREEN",
+    "es-Es": "VERDE",
+    "value": "GREEN",
+    "hex": "#1CAC78",
+    "rgb": "(28, 172, 120)"
+  },
+  {
+    "en-Us": "GREEN BLUE",
+    "es-Es": "VERDE AZUL",
+    "value": "GREEN BLUE",
+    "hex": "#1164B4",
+    "rgb": "(17, 100, 180)"
+  },
+  {
+    "en-Us": "GREEN YELLOW",
+    "es-Es": "VERDE AMARILLO",
+    "value": "GREEN YELLOW",
+    "hex": "#F0E891",
+    "rgb": "(240, 232, 145)"
+  },
+  {
+    "en-Us": "HOT MAGENTA",
+    "es-Es": "MAGENTA CALIENTE",
+    "value": "HOT MAGENTA",
+    "hex": "#FF1DCE",
+    "rgb": "(255, 29, 206)"
+  },
+  {
+    "en-Us": "INCHWORM",
+    "es-Es": "GUSANO",
+    "value": "INCHWORM",
+    "hex": "#B2EC5D",
+    "rgb": "(178, 236, 93)"
+  },
+  {
+    "en-Us": "INDIGO",
+    "es-Es": "ÍNDIGO",
+    "value": "INDIGO",
+    "hex": "#5D76CB",
+    "rgb": "(93, 118, 203)"
+  },
+  {
+    "en-Us": "JAZZBERRY JAM",
+    "es-Es": "MERMELADA DE JAZZBERRY",
+    "value": "JAZZBERRY JAM",
+    "hex": "#CA3767",
+    "rgb": "(202, 55, 103)"
+  },
+  {
+    "en-Us": "JUNGLE GREEN",
+    "es-Es": "VERDE JUNGLA",
+    "value": "JUNGLE GREEN",
+    "hex": "#3BB08F",
+    "rgb": "(59, 176, 143)"
+  },
+  {
+    "en-Us": "LASER LEMON",
+    "es-Es": "LÁSER LIMÓN",
+    "value": "LASER LEMON",
+    "hex": "#FEFE22",
+    "rgb": "(254, 254, 34)"
+  },
+  {
+    "en-Us": "LAVENDER",
+    "es-Es": "LAVANDA",
+    "value": "LAVENDER",
+    "hex": "#FCB4D5",
+    "rgb": "(252, 180, 213)"
+  },
+  {
+    "en-Us": "LEMON YELLOW",
+    "es-Es": "LIMON AMARILLO",
+    "value": "LEMON YELLOW",
+    "hex": "#FFF44F",
+    "rgb": "(255, 244, 79)"
+  },
+  {
+    "en-Us": "MACARONI AND CHEESE",
+    "es-Es": "MACARRONES CON QUESO",
+    "value": "MACARONI AND CHEESE",
+    "hex": "#FFBD88",
+    "rgb": "(255, 189, 136)"
+  },
+  {
+    "en-Us": "MAGENTA",
+    "es-Es": "MAGENTA",
+    "value": "MAGENTA",
+    "hex": "#F664AF",
+    "rgb": "(246, 100, 175)"
+  },
+  {
+    "en-Us": "MAGIC MINT",
+    "es-Es": "MENTA MÁGICA",
+    "value": "MAGIC MINT",
+    "hex": "#AAF0D1",
+    "rgb": "(170, 240, 209)"
+  },
+  {
+    "en-Us": "MAHOGANY",
+    "es-Es": "CAOBA",
+    "value": "MAHOGANY",
+    "hex": "#CD4A4C",
+    "rgb": "(205, 74, 76)"
+  },
+  {
+    "en-Us": "MAIZE",
+    "es-Es": "MAÍZ",
+    "value": "MAIZE",
+    "hex": "#EDD19C",
+    "rgb": "(237, 209, 156)"
+  },
+  {
+    "en-Us": "MANATEE",
+    "es-Es": "MANATÍ",
+    "value": "MANATEE",
+    "hex": "#979AAA",
+    "rgb": "(151, 154, 170)"
+  },
+  {
+    "en-Us": "MANGO TANGO",
+    "es-Es": "MANGO-TANGO",
+    "value": "MANGO TANGO",
+    "hex": "#FF8243",
+    "rgb": "(255, 130, 67)"
+  },
+  {
+    "en-Us": "MAROON",
+    "es-Es": "GRANATE",
+    "value": "MAROON",
+    "hex": "#C8385A",
+    "rgb": "(200, 56, 90)"
+  },
+  {
+    "en-Us": "MAUVELOUS",
+    "es-Es": "MAUVELO",
+    "value": "MAUVELOUS",
+    "hex": "#EF98AA",
+    "rgb": "(239, 152, 170)"
+  },
+  {
+    "en-Us": "MELON",
+    "es-Es": "MELÓN",
+    "value": "MELON",
+    "hex": "#FDBCB4",
+    "rgb": "(253, 188, 180)"
+  },
+  {
+    "en-Us": "MIDNIGHT BLUE",
+    "es-Es": "AZUL MEDIANOCHE",
+    "value": "MIDNIGHT BLUE",
+    "hex": "#1A4876",
+    "rgb": "(26, 72, 118)"
+  },
+  {
+    "en-Us": "MOUNTAIN MEADOW",
+    "es-Es": "PRADERA DE MONTAÑA",
+    "value": "MOUNTAIN MEADOW",
+    "hex": "#30BA8F",
+    "rgb": "(48, 186, 143)"
+  },
+  {
+    "en-Us": "MULBERRY",
+    "es-Es": "MORA",
+    "value": "MULBERRY",
+    "hex": "#C54B8C",
+    "rgb": "(197, 75, 140)"
+  },
+  {
+    "en-Us": "NAVY BLUE",
+    "es-Es": "AZUL MARINO",
+    "value": "NAVY BLUE",
+    "hex": "#1974D2",
+    "rgb": "(25, 116, 210)"
+  },
+  {
+    "en-Us": "NEON CARROT",
+    "es-Es": "ZANAHORIA DE FLUO",
+    "value": "NEON CARROT",
+    "hex": "#FFA343",
+    "rgb": "(255, 163, 67)"
+  },
+  {
+    "en-Us": "OLIVE GREEN",
+    "es-Es": "VERDE OLIVA",
+    "value": "OLIVE GREEN",
+    "hex": "#BAB86C",
+    "rgb": "(186, 184, 108)"
+  },
+  {
+    "en-Us": "ORANGE",
+    "es-Es": "NARANJA",
+    "value": "ORANGE",
+    "hex": "#FF7538",
+    "rgb": "(255, 117, 56)"
+  },
+  {
+    "en-Us": "ORANGE RED",
+    "es-Es": "ROJO NARANJA",
+    "value": "ORANGE RED",
+    "hex": "#FF2B2B",
+    "rgb": "(255, 43, 43)"
+  },
+  {
+    "en-Us": "ORANGE YELLOW",
+    "es-Es": "NARANJA AMARILLO",
+    "value": "ORANGE YELLOW",
+    "hex": "#F8D568",
+    "rgb": "(248, 213, 104)"
+  },
+  {
+    "en-Us": "ORCHID",
+    "es-Es": "ORQUÍDEA",
+    "value": "ORCHID",
+    "hex": "#E6A8D7",
+    "rgb": "(230, 168, 215)"
+  },
+  {
+    "en-Us": "OUTER SPACE",
+    "es-Es": "ESPACIO EXTERIOR",
+    "value": "OUTER SPACE",
+    "hex": "#414A4C",
+    "rgb": "(65, 74, 76)"
+  },
+  {
+    "en-Us": "OUTRAGEOUS ORANGE",
+    "es-Es": "NARANJA EXTRAÑA",
+    "value": "OUTRAGEOUS ORANGE",
+    "hex": "#FF6E4A",
+    "rgb": "(255, 110, 74)"
+  },
+  {
+    "en-Us": "PACIFIC BLUE",
+    "es-Es": "PACIFICO AZUL",
+    "value": "PACIFIC BLUE",
+    "hex": "#1CA9C9",
+    "rgb": "(28, 169, 201)"
+  },
+  {
+    "en-Us": "PEACH",
+    "es-Es": "DURAZNO",
+    "value": "PEACH",
+    "hex": "#FFCFAB",
+    "rgb": "(255, 207, 171)"
+  },
+  {
+    "en-Us": "PERIWINKLE",
+    "es-Es": "BÍGARO",
+    "value": "PERIWINKLE",
+    "hex": "#C5D0E6",
+    "rgb": "(197, 208, 230)"
+  },
+  {
+    "en-Us": "PIGGY PINK",
+    "es-Es": "PIGGY ROSA",
+    "value": "PIGGY PINK",
+    "hex": "#FDDDE6",
+    "rgb": "(253, 221, 230)"
+  },
+  {
+    "en-Us": "PINE GREEN",
+    "es-Es": "PINO VERDE",
+    "value": "PINE GREEN",
+    "hex": "#158078",
+    "rgb": "(21, 128, 120)"
+  },
+  {
+    "en-Us": "PINK FLAMINGO",
+    "es-Es": "FLAMENCO ROSA",
+    "value": "PINK FLAMINGO",
+    "hex": "#FC74FD",
+    "rgb": "(252, 116, 253)"
+  },
+  {
+    "en-Us": "PINK SHERBET",
+    "es-Es": "SORBETE ROSA",
+    "value": "PINK SHERBET",
+    "hex": "#F78FA7",
+    "rgb": "(247, 143, 167)"
+  },
+  {
+    "en-Us": "PLUM",
+    "es-Es": "CIRUELA",
+    "value": "PLUM",
+    "hex": "#8E4585",
+    "rgb": "(142, 69, 133)"
+  },
+  {
+    "en-Us": "PURPLE HEART",
+    "es-Es": "CORAZÓN PURPURA",
+    "value": "PURPLE HEART",
+    "hex": "#7442C8",
+    "rgb": "(116, 66, 200)"
+  },
+  {
+    "en-Us": "PURPLE MOUNTAIN'S MAJESTY",
+    "es-Es": "MAJESTAD DE LA MONTAÑA PÚRPURA",
+    "value": "PURPLE MOUNTAIN'S MAJESTY",
+    "hex": "#9D81BA",
+    "rgb": "(157, 129, 186)"
+  },
+  {
+    "en-Us": "PURPLE PIZZAZZ",
+    "es-Es": "PIZZA MORADA",
+    "value": "PURPLE PIZZAZZ",
+    "hex": "#FE4EDA",
+    "rgb": "(254, 78, 218)"
+  },
+  {
+    "en-Us": "RADICAL RED",
+    "es-Es": "ROJO RADICAL",
+    "value": "RADICAL RED",
+    "hex": "#FF496C",
+    "rgb": "(255, 73, 108)"
+  },
+  {
+    "en-Us": "RAW SIENNA",
+    "es-Es": "SIENA NATURAL",
+    "value": "RAW SIENNA",
+    "hex": "#D68A59",
+    "rgb": "(214, 138, 89)"
+  },
+  {
+    "en-Us": "RAW UMBER",
+    "es-Es": "SOMBRA NATURAL",
+    "value": "RAW UMBER",
+    "hex": "#714B23",
+    "rgb": "(113, 75, 35)"
+  },
+  {
+    "en-Us": "RAZZLE DAZZLE ROSE",
+    "es-Es": "RAZZLE DAZZLE ROSA",
+    "value": "RAZZLE DAZZLE ROSE",
+    "hex": "#FF48D0",
+    "rgb": "(255, 72, 208)"
+  },
+  {
+    "en-Us": "RAZZMATAZZ",
+    "es-Es": "RAZZMATAZZ",
+    "value": "RAZZMATAZZ",
+    "hex": "#E3256B",
+    "rgb": "(227, 37, 107)"
+  },
+  {
+    "en-Us": "RED",
+    "es-Es": "ROJO",
+    "value": "RED",
+    "hex": "#EE204D",
+    "rgb": "(238,32 ,77 )"
+  },
+  {
+    "en-Us": "RED ORANGE",
+    "es-Es": "NARANJA ROJA",
+    "value": "RED ORANGE",
+    "hex": "#FF5349",
+    "rgb": "(255, 83, 73)"
+  },
+  {
+    "en-Us": "RED VIOLET",
+    "es-Es": "ROJO VIOLÁCEO",
+    "value": "RED VIOLET",
+    "hex": "#C0448F",
+    "rgb": "(192, 68, 143)"
+  },
+  {
+    "en-Us": "ROBIN'S EGG BLUE",
+    "es-Es": "HUEVO DE ROBIN AZUL",
+    "value": "ROBIN'S EGG BLUE",
+    "hex": "#1FCECB",
+    "rgb": "(31, 206, 203)"
+  },
+  {
+    "en-Us": "ROYAL PURPLE",
+    "es-Es": "MORADO REAL",
+    "value": "ROYAL PURPLE",
+    "hex": "#7851A9",
+    "rgb": "(120, 81, 169)"
+  },
+  {
+    "en-Us": "SALMON",
+    "es-Es": "SALMÓN",
+    "value": "SALMON",
+    "hex": "#FF9BAA",
+    "rgb": "(255, 155, 170)"
+  },
+  {
+    "en-Us": "SALT AND PEPPER",
+    "es-Es": "SAL Y PIMIENTA",
+    "value": "SALT AND PEPPER",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "SCARLET",
+    "es-Es": "ESCARLATA",
+    "value": "SCARLET",
+    "hex": "#FC2847",
+    "rgb": "(252, 40, 71)"
+  },
+  {
+    "en-Us": "SCREAMIN' GREEN",
+    "es-Es": "GRITO VERDE",
+    "value": "SCREAMIN' GREEN",
+    "hex": "#76FF7A",
+    "rgb": "(118, 255, 122)"
+  },
+  {
+    "en-Us": "SEA GREEN",
+    "es-Es": "MAR VERDE",
+    "value": "SEA GREEN",
+    "hex": "#9FE2BF",
+    "rgb": "(159, 226, 191)"
+  },
+  {
+    "en-Us": "SEPIA",
+    "es-Es": "SEPIA",
+    "value": "SEPIA",
+    "hex": "#A5694F",
+    "rgb": "(165, 105, 79)"
+  },
+  {
+    "en-Us": "SHADOW",
+    "es-Es": "SOMBRA",
+    "value": "SHADOW",
+    "hex": "#8A795D",
+    "rgb": "(138, 121, 93)"
+  },
+  {
+    "en-Us": "SHAMROCK",
+    "es-Es": "TRÉBOL",
+    "value": "SHAMROCK",
+    "hex": "#45CEA2",
+    "rgb": "(69, 206, 162)"
+  },
+  {
+    "en-Us": "SHOCKING PINK",
+    "es-Es": "ROSA IMPACTANTE",
+    "value": "SHOCKING PINK",
+    "hex": "#FB7EFD",
+    "rgb": "(251, 126, 253)"
+  },
+  {
+    "en-Us": "SILVER",
+    "es-Es": "PLATA",
+    "value": "SILVER",
+    "hex": "#CDC5C2",
+    "rgb": "(205, 197, 194)"
+  },
+  {
+    "en-Us": "SKY BLUE",
+    "es-Es": "CIELO AZUL",
+    "value": "SKY BLUE",
+    "hex": "#80DAEB",
+    "rgb": "(128, 218, 235)"
+  },
+  {
+    "en-Us": "SPRING GREEN",
+    "es-Es": "PRIMAVERA VERDE",
+    "value": "SPRING GREEN",
+    "hex": "#ECEABE",
+    "rgb": "(236, 234, 190)"
+  },
+  {
+    "en-Us": "SUNGLOW",
+    "es-Es": "LUZ DE SOL",
+    "value": "SUNGLOW",
+    "hex": "#FFCF48",
+    "rgb": "(255, 207, 72)"
+  },
+  {
+    "en-Us": "SUNSET ORANGE",
+    "es-Es": "NARANJA PUESTA DE SOL",
+    "value": "SUNSET ORANGE",
+    "hex": "#FD5E53",
+    "rgb": "(253, 94, 83)"
+  },
+  {
+    "en-Us": "TAN",
+    "es-Es": "BRONCEARSE",
+    "value": "TAN",
+    "hex": "#FAA76C",
+    "rgb": "(250, 167, 108)"
+  },
+  {
+    "en-Us": "TEAL BLUE",
+    "es-Es": "AZUL VERDE",
+    "value": "TEAL BLUE",
+    "hex": "#18A7B5",
+    "rgb": "(24, 167, 181)"
+  },
+  {
+    "en-Us": "THISTLE",
+    "es-Es": "CARDO",
+    "value": "THISTLE",
+    "hex": "#EBC7DF",
+    "rgb": "(235, 199, 223)"
+  },
+  {
+    "en-Us": "TICKLE ME PINK",
+    "es-Es": "HAZME COSQUILLAS ROSA",
+    "value": "TICKLE ME PINK",
+    "hex": "#FC89AC",
+    "rgb": "(252, 137, 172)"
+  },
+  {
+    "en-Us": "TIMBERWOLF",
+    "es-Es": "LOBO DE MADERA",
+    "value": "TIMBERWOLF",
+    "hex": "#DBD7D2",
+    "rgb": "(219, 215, 210)"
+  },
+  {
+    "en-Us": "TROPICAL RAIN FOREST",
+    "es-Es": "BOSQUE TROPICAL",
+    "value": "TROPICAL RAIN FOREST",
+    "hex": "#17806D",
+    "rgb": "(23, 128, 109)"
+  },
+  {
+    "en-Us": "TUMBLEWEED",
+    "es-Es": "CARROZA",
+    "value": "TUMBLEWEED",
+    "hex": "#DEAA88",
+    "rgb": "(222, 170, 136)"
+  },
+  {
+    "en-Us": "TURQUOISE BLUE",
+    "es-Es": "AZUL TURQUESA",
+    "value": "TURQUOISE BLUE",
+    "hex": "#77DDE7",
+    "rgb": "(119, 221, 231)"
+  },
+  {
+    "en-Us": "UNMELLOW YELLOW",
+    "es-Es": "AMARILLO UNMELLOW",
+    "value": "UNMELLOW YELLOW",
+    "hex": "#FFFF66",
+    "rgb": "(255, 255, 102)"
+  },
+  {
+    "en-Us": "VIOLET (PURPLE)",
+    "es-Es": "MORADO VIOLETA)",
+    "value": "VIOLET (PURPLE)",
+    "hex": "#926EAE",
+    "rgb": "(146, 110, 174)"
+  },
+  {
+    "en-Us": "VIOLET BLUE",
+    "es-Es": "AZUL VIOLETA",
+    "value": "VIOLET BLUE",
+    "hex": "#324AB2",
+    "rgb": "(50, 74, 178)"
+  },
+  {
+    "en-Us": "VIOLET RED",
+    "es-Es": "ROJO VIOLETA",
+    "value": "VIOLET RED",
+    "hex": "#F75394",
+    "rgb": "(247, 83, 148)"
+  },
+  {
+    "en-Us": "VIVID TANGERINE",
+    "es-Es": "MANDARINA VIVA",
+    "value": "VIVID TANGERINE",
+    "hex": "#FFA089",
+    "rgb": "(255, 160, 137)"
+  },
+  {
+    "en-Us": "VIVID VIOLET",
+    "es-Es": "VIOLETA VIVA",
+    "value": "VIVID VIOLET",
+    "hex": "#8F509D",
+    "rgb": "(143, 80, 157)"
+  },
+  {
+    "en-Us": "WHITE",
+    "es-Es": "BLANCO",
+    "value": "WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "WILD BLUE YONDER",
+    "es-Es": "AZUL SALVAJE MAS ALLÁ",
+    "value": "WILD BLUE YONDER",
+    "hex": "#A2ADD0",
+    "rgb": "(162, 173, 208)"
+  },
+  {
+    "en-Us": "WILD STRAWBERRY",
+    "es-Es": "FRESA SALVAJE",
+    "value": "WILD STRAWBERRY",
+    "hex": "#FF43A4",
+    "rgb": "(255, 67, 164)"
+  },
+  {
+    "en-Us": "WILD WATERMELON",
+    "es-Es": "SANDIA SALVAJE",
+    "value": "WILD WATERMELON",
+    "hex": "#FC6C85",
+    "rgb": "(252, 108, 133)"
+  },
+  {
+    "en-Us": "WISTERIA",
+    "es-Es": "GLICIAS",
+    "value": "WISTERIA",
+    "hex": "#CDA4DE",
+    "rgb": "(205, 164, 222)"
+  },
+  {
+    "en-Us": "YELLOW",
+    "es-Es": "AMARILLO",
+    "value": "YELLOW",
+    "hex": "#FCE883",
+    "rgb": "(252, 232, 131)"
+  },
+  {
+    "en-Us": "YELLOW GREEN",
+    "es-Es": "AMARILLO VERDE",
+    "value": "YELLOW GREEN",
+    "hex": "#C5E384",
+    "rgb": "(197, 227, 132)"
+  },
+  {
+    "en-Us": "YELLOW ORANGE",
+    "es-Es": "AMARILLO NARANJA",
+    "value": "YELLOW ORANGE",
+    "hex": "#FFAE42",
+    "rgb": "(255, 174, 66)"
+  },
+  {
+    "en-Us": "CHOCOLATE LILAC COLOUR",
+    "es-Es": "COLOR LILA CHOCOLATE",
+    "value": "CHOCOLATE LILAC COLOUR",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "EXCESSIVE DARKENING OF THE MANTLE",
+    "es-Es": "OSCURECIMIENTO EXCESIVO DEL MANTO",
+    "value": "EXCESSIVE DARKENING OF THE MANTLE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DISPROPORTIONATE DISPROPORTION OF THE BODY",
+    "es-Es": "DESPROPORCIÓN DESPROPORCIONADA DEL CUERPO",
+    "value": "DISPROPORTIONATE DISPROPORTION OF THE BODY",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "EYES SMALL AND DISTANT",
+    "es-Es": "OJOS PEQUEÑOS Y DISTANTES",
+    "value": "EYES SMALL AND DISTANT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "EYES OF DIFFERENT COLORS (FOR EXAMPLE, BLUE AND YELLOW)",
+    "es-Es": "OJOS DE DISTINTOS COLORES (POR EJEMPLO, AZUL Y AMARILLO)",
+    "value": "EYES OF DIFFERENT COLORS (FOR EXAMPLE, BLUE AND YELLOW)",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "EARS SHORT AND ROUNDED",
+    "es-Es": "OREJAS CORTAS Y REDONDAS",
+    "value": "EARS SHORT AND ROUNDED",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CARE OF THE EYE COLOR ON THE GREEN OR YELLOW SIDE",
+    "es-Es": "CUIDADO DEL COLOR DE OJOS DEL LADO VERDE O AMARILLO",
+    "value": "CARE OF THE EYE COLOR ON THE GREEN OR YELLOW SIDE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "SEAL POINT",
+    "es-Es": "PUNTO DE FOCA",
+    "value": "SEAL POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "RED POINT",
+    "es-Es": "PUNTO ROJO",
+    "value": "RED POINT",
+    "hex": "#FF0000",
+    "rgb": "(255, 0, 0)"
+  },
+  {
+    "en-Us": "TORTIE POINT",
+    "es-Es": "PUNTO DE TORTUGA",
+    "value": "TORTIE POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "SEAL POINT AND WHITE",
+    "es-Es": "PUNTO DE SELLADO Y BLANCO",
+    "value": "SEAL POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "RED POINT AND WHITE",
+    "es-Es": "PUNTO ROJO Y BLANCO",
+    "value": "RED POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "TORTIE POINT AND WHITE",
+    "es-Es": "TORTIE PUNTO Y BLANCO",
+    "value": "TORTIE POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE POINT",
+    "es-Es": "PUNTO AZUL",
+    "value": "BLUE POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE POINT AND CREAM",
+    "es-Es": "PUNTO DE CREMA",
+    "value": "BLUE POINT AND CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE POINT AND WHITE",
+    "es-Es": "PUNTO AZUL Y CREMA",
+    "value": "BLUE POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CREAM POINT AND WHITE",
+    "es-Es": "PUNTO AZUL Y BLANCO",
+    "value": "CREAM POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE POINT AND WHITE CREAM",
+    "es-Es": "PUNTO AZUL Y CREMA BLANCO",
+    "value": "BLUE POINT AND WHITE CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE POINT AND WHITE CREAM",
+    "es-Es": "PUNTO CREMA Y BLANCO",
+    "value": "BLUE POINT AND WHITE CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "TABBY",
+    "es-Es": "ATIGRADO",
+    "value": "TABBY",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "SEAL TABBY POINT",
+    "es-Es": "SEAL PUNTO DE TABBY",
+    "value": "SEAL TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "RED TABBY POINT",
+    "es-Es": "PUNTO TABBY ROJO",
+    "value": "RED TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "TABBY POINT AND WHITE SEAL",
+    "es-Es": "PUNTO TABBY Y SELLO BLANCO",
+    "value": "TABBY POINT AND WHITE SEAL",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "RED TABBY DOT AND WHITE",
+    "es-Es": "PUNTO TABBY ROJO Y BLANCO",
+    "value": "RED TABBY DOT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CHOCOLATE POINT",
+    "es-Es": "PUNTO DE CHOCOLATE",
+    "value": "CHOCOLATE POINT",
+    "hex": "#D2691E",
+    "rgb": "(210, 105, 30)"
+  },
+
+  {
+    "en-Us": "TORBIE AND WHITE",
+    "es-Es": "TORBIE Y BLANCO",
+    "value": "TORBIE AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE TABBY POINT",
+    "es-Es": "PUNTO TABBY AZUL",
+    "value": "BLUE TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CREAM TABBY POINT",
+    "es-Es": "PUNTO TABBY CREMA",
+    "value": "CREAM TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "LILAC PONT",
+    "es-Es": "PUNTO LILA",
+    "value": "LILAC PONT",
+    "hex": "#D29BFD",
+    "rgb": "(210, 155, 253)"
+  },
+
+  {
+    "en-Us": "BLUE CREAM TABBY POINT",
+    "es-Es": "PUNTO TABBY CREMA AZUL",
+    "value": "BLUE CREAM TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE TABBY DOT AND WHITE",
+    "es-Es": "TABBY AZUL PUNTO Y BLANCO",
+    "value": "BLUE TABBY DOT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "DOT AND WHITE TABBY CREAM",
+    "es-Es": "CREMA DOT Y WHITE TABBY",
+    "value": "DOT AND WHITE TABBY CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE POINT AND WHITE TABBY CREAM",
+    "es-Es": "CREMA PUNTO AZUL Y TABBY BLANCO",
+    "value": "BLUE POINT AND WHITE TABBY CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "SEAL SMOKE POINT",
+    "es-Es": "SELLO PUNTO DE HUMO",
+    "value": "SEAL SMOKE POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "RED SMOKE POINT",
+    "es-Es": "PUNTO DE HUMO ROJO",
+    "value": "RED SMOKE POINT",
+    "hex": "#FF0000",
+    "rgb": "(255, 0, 0)"
+  },
+
+  {
+    "en-Us": "TORTIE SMOKE POINT",
+    "es-Es": "PUNTO DE HUMO TORTIE",
+    "value": "TORTIE SMOKE POINT",
+    "hex": "#FF0000",
+    "rgb": "(255, 0, 0)"
+  },
+
+  {
+    "en-Us": "SEAL SMOKE POINT AND WHITE",
+    "es-Es": "SELLO PUNTO DE HUMO Y BLANCO",
+    "value": "SEAL SMOKE POINT AND WHITE",
+    "hex": "#FF0000",
+    "rgb": "(255, 0, 0)"
+  },
+
+  {
+    "en-Us": "RED SMOKE POINT AND WHITE",
+    "es-Es": "PUNTO DE HUMO ROJO Y BLANCO",
+    "value": "RED SMOKE POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "TORTIE SMOKE POINT AND WHITE",
+    "es-Es": "TORTIE PUNTO DE HUMO Y BLANCO",
+    "value": "TORTIE SMOKE POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE SMOKE POINT",
+    "es-Es": "PUNTO DE HUMO AZUL",
+    "value": "BLUE SMOKE POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CREAM SMOKE POINT",
+    "es-Es": "PUNTO DE HUMO CREMA",
+    "value": "CREAM SMOKE POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CREAM BLUE SMOKE POINT",
+    "es-Es": "PUNTO DE HUMO AZUL CREMA",
+    "value": "CREAM BLUE SMOKE POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE SMOKE POINT AND WHITE",
+    "es-Es": "PUNTO DE HUMO AZUL Y BLANCO",
+    "value": "BLUE SMOKE POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CREAM SMOKE POINT AND WHITE",
+    "es-Es": "PUNTO DE HUMO CREMA Y BLANCO",
+    "value": "CREAM SMOKE POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CREAM BLUE SMOKE POINT AND WHITE",
+    "es-Es": "PUNTO DE HUMO AZUL CREMA Y BLANCO",
+    "value": "CREAM BLUE SMOKE POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "SEAL SILVER TABBY POINT",
+    "es-Es": "SELLO PUNTO TABBY PLATA",
+    "value": "SEAL SILVER TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "RED SILVER TABBY POINT",
+    "es-Es": "PUNTA TABBY PLATA ROJA",
+    "value": "RED SILVER TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLACK SILVER TORTIE TABBY POINT",
+    "es-Es": "PUNTO TABBY TORTIE NEGRO PLATA",
+    "value": "BLACK SILVER TORTIE TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "SEAL SILVER TABBY DOT AND WHITE",
+    "es-Es": "SELLO TABBY PLATA PUNTO Y BLANCO",
+    "value": "SEAL SILVER TABBY DOT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "RED SILVER TABBY DOT AND WHITE",
+    "es-Es": "TABBY PUNTO PLATA ROJO Y BLANCO",
+    "value": "RED SILVER TABBY DOT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLACK SILVER TORTIE TABBY DOT AND WHITE",
+    "es-Es": "TORTIE NEGRO PLATA TABBY PUNTO Y BLANCO",
+    "value": "BLACK SILVER TORTIE TABBY DOT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE SILVER TABBY POINT",
+    "es-Es": "PUNTO TABBY PLATA AZUL",
+    "value": "BLUE SILVER TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CREAM SILVER TABBY POINT",
+    "es-Es": "PUNTO TABBY PLATA CREMA",
+    "value": "CREAM SILVER TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CREAM BLUE SILVER TABBY POINT",
+    "es-Es": "PUNTO TABBY PLATA AZUL CREMA",
+    "value": "CREAM BLUE SILVER TABBY POINT",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "BLUE SILVER TABBY DOT AND WHITE",
+    "es-Es": "TABBY PLATA AZUL PUNTO Y BLANCO",
+    "value": "BLUE SILVER TABBY DOT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "POINT AND WHITE TABBY SILVER CREAM",
+    "es-Es": "CREMA PUNTO Y WHITE TABBY SILVER",
+    "value": "POINT AND WHITE TABBY SILVER CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+
+  {
+    "en-Us": "CREAM BLUE SILVER TABBY POINT AND WHITE",
+    "es-Es": "PUNTO TABBY PLATA AZUL CREMA Y BLANCO",
+    "value": "CREAM BLUE SILVER TABBY POINT AND WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND RED",
+    "es-Es": "SALCHICHA ROJO",
+    "value": "DACHSHUND RED",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND CREAM",
+    "es-Es": "SALCHICHA CREMA",
+    "value": "DACHSHUND CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND BLACK",
+    "es-Es": "SALCHICHA NEGRO",
+    "value": "DACHSHUND BLACK",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND CHOCOLATE",
+    "es-Es": "SALCHICHA CHOCOLATE",
+    "value": "DACHSHUND CHOCOLATE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND RED SABLE",
+    "es-Es": "SALCHICHA LEONADO",
+    "value": "DACHSHUND RED SABLE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND BLACK & CREAM",
+    "es-Es": "SALCHICHA NEGRO Y CREMA",
+    "value": "DACHSHUND BLACK & CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND BLACK & TAN",
+    "es-Es": "SALCHICHA NEGRO Y TOSTADO",
+    "value": "DACHSHUND BLACK & TAN",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND CHOCOLATE & TAN",
+    "es-Es": "SALCHICHA CHOCOLATE Y TOSTADO",
+    "value": "DACHSHUND CHOCOLATE & TAN",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND BLUE & CREAM",
+    "es-Es": "SALCHICHA AZUL Y CREMA",
+    "value": "DACHSHUND BLUE & CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND BLUE & TAN",
+    "es-Es": "SALCHICHA AZUL Y TOSTADO",
+    "value": "DACHSHUND BLUE & TAN",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND CHOCOLATE & CREAM",
+    "es-Es": "SALCHICHA CHOCOLATE Y CREMA",
+    "value": "DACHSHUND CHOCOLATE & CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND CHOCOLATE & CREAM",
+    "es-Es": "SALCHICHA LEONADO Y CREMA",
+    "value": "FAWN SAUSAGE AND CREAM",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND CHOCOLATE & CREAM",
+    "es-Es": "SALCHICHA LEONADO Y TOSTADO",
+    "value": "FAWN AND TOASTED SAUSAGE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND CHOCOLATE & CREAM",
+    "es-Es": "SALCHICHA TRIGO",
+    "value": "WHEAT SAUSAGE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DACHSHUND CHOCOLATE & CREAM",
+    "es-Es": "SALCHICHA AGUTÍ",
+    "value": "AGOUTI SAUSAGE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "SABLE FERRET",
+    "es-Es": "HURÓN SABLE",
+    "value": "SABLE FERRET",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "BLACK SABLE FERRET",
+    "es-Es": "HURÓN SABLE NEGRO",
+    "value": "BLACK SABLE FERRET",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "CHOCOLATE FERRET",
+    "es-Es": "HURÓN CHOCOLATE",
+    "value": "CHOCOLATE FERRET",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "CHAMPAGNE FERRET",
+    "es-Es": "HURÓN CHAMPÁN",
+    "value": "CHAMPAGNE FERRET",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "CINNAMON OR BEIGE FERRET",
+    "es-Es": "HURÓN CANELA O BEIGE",
+    "value": "CINNAMON OR BEIGE FERRET",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "ALBINO FERRET",
+    "es-Es": "HURÓN ALBINO",
+    "value": "ALBINO FERRET",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "SILVER FERRET",
+    "es-Es": "HURÓN PLATA",
+    "value": "SILVER FERRET",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "AGOUTI",
+    "es-Es": "ALBINA",
+    "value": "AGOUTI",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "LETHAL WHITE",
+    "es-Es": "BLANCA LETAL",
+    "value": "LETHAL WHITE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "SELF",
+    "es-Es": "SELF",
+    "value": "SELF",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "AGOUTI",
+    "es-Es": "AGUTÍ",
+    "value": "AGOUTI",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "BELTED",
+    "es-Es": "CAÑIDA",
+    "value": "BELTED",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DUTCH",
+    "es-Es": "HOLANDESA",
+    "value": "DUTCH",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "BRINDLE",
+    "es-Es": "ABIGARRADA",
+    "value": "BRINDLE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "TORTOISHELL",
+    "es-Es": "CAREY",
+    "value": "TORTOISHELL",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "TRICOLOR",
+    "es-Es": "TRICOLOR",
+    "value": "TRICOLOR",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "HIMALAYAN",
+    "es-Es": "HIMALAYA",
+    "value": "HIMALAYAN",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "ROAN",
+    "es-Es": "RUANA",
+    "value": "ROAN",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "DALMATION",
+    "es-Es": "DÁLMATA",
+    "value": "DALMATION",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "MAGPIE",
+    "es-Es": "URRACA",
+    "value": "MAGPIE",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "HARLEQUIN",
+    "es-Es": "ARLEQUÍN",
+    "value": "HARLEQUIN",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  },
+  {
+    "en-Us": "CANDY",
+    "es-Es": "CARAMELO",
+    "value": "CANDY",
+    "hex": "#FFFFFF",
+    "rgb": "(255, 255, 255)"
+  }
+]

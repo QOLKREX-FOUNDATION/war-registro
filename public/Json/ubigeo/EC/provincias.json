@@ -1,0 +1,102 @@
+[
+  {
+    "id": "01",
+    "name": "AZUAY"
+  },
+  {
+    "id": "02",
+    "name": "BOLIVAR"
+  },
+  {
+    "id": "03",
+    "name": "CANAR"
+  },
+  {
+    "id": "04",
+    "name": "CARCHI"
+  },
+  {
+    "id": "05",
+    "name": "COTOPAXI"
+  },
+  {
+    "id": "06",
+    "name": "CHIMBORAZO"
+  },
+  {
+    "id": "07",
+    "name": "EL ORO"
+  },
+  {
+    "id": "08",
+    "name": "ESMERALDAS"
+  },
+  {
+    "id": "09",
+    "name": "GUAYAS"
+  },
+  {
+    "id": 10,
+    "name": "IMBABURA"
+  },
+  {
+    "id": 11,
+    "name": "LOJA"
+  },
+  {
+    "id": 12,
+    "name": "LOS RIOS"
+  },
+  {
+    "id": 13,
+    "name": "MANABI"
+  },
+  {
+    "id": 14,
+    "name": "MORONA SANTIAGO"
+  },
+  {
+    "id": 15,
+    "name": "NAPO"
+  },
+  {
+    "id": 16,
+    "name": "PASTAZA"
+  },
+  {
+    "id": 17,
+    "name": "PICHINCHA"
+  },
+  {
+    "id": 18,
+    "name": "TUNGURAHUA"
+  },
+  {
+    "id": 19,
+    "name": "ZAMORA CHINCHIPE"
+  },
+  {
+    "id": 20,
+    "name": "GALAPAGOS"
+  },
+  {
+    "id": 21,
+    "name": "SUCUMBIOS"
+  },
+  {
+    "id": 22,
+    "name": "ORELLANA"
+  },
+  {
+    "id": 23,
+    "name": "SANTO DOMINGO DE LOS TSACHILAS"
+  },
+  {
+    "id": 24,
+    "name": "SANTA ELENA"
+  },
+  {
+    "id": 90,
+    "name": "ZONAS NO DELIMITADAS"
+  }
+]

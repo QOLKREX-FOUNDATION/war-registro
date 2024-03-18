@@ -1,0 +1,26 @@
+
+
+.title {
+	background-color: #3498db;
+	color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.option {
+	color: #fff;
+    text-align: center;
+    width: 100%;
+}
+
+.true {
+	background: #07bc0c;
+	width: 25px;
+	height: 25px;
+}
+
+.false {
+	background: #e74c3c;
+	width: 25px;
+	height: 25px;
+}

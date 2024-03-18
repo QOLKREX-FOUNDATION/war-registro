@@ -1,0 +1,1492 @@
+[
+  {
+    "id": 0,
+    "name": "LA CEIBA",
+    "department_id": 0
+  },
+  {
+    "id": 1,
+    "name": "EL PORVENIR",
+    "department_id": 0
+  },
+  {
+    "id": 2,
+    "name": "ESPARTA",
+    "department_id": 0
+  },
+  {
+    "id": 3,
+    "name": "JUTIAPA",
+    "department_id": 0
+  },
+  {
+    "id": 4,
+    "name": "LA MASICA",
+    "department_id": 0
+  },
+  {
+    "id": 5,
+    "name": "SAN FRANCISCO",
+    "department_id": 0
+  },
+  {
+    "id": 6,
+    "name": "TELA",
+    "department_id": 0
+  },
+  {
+    "id": 7,
+    "name": "ARIZONA",
+    "department_id": 0
+  },
+  {
+    "id": 0,
+    "name": "TRUJILLO",
+    "department_id": 1
+  },
+  {
+    "id": 1,
+    "name": "BALFATE",
+    "department_id": 1
+  },
+  {
+    "id": 2,
+    "name": "IRIONA",
+    "department_id": 1
+  },
+  {
+    "id": 3,
+    "name": "LIMON",
+    "department_id": 1
+  },
+  {
+    "id": 4,
+    "name": "SABA",
+    "department_id": 1
+  },
+  {
+    "id": 5,
+    "name": "SANTA FE",
+    "department_id": 1
+  },
+  {
+    "id": 6,
+    "name": "SANTA ROSA AGUAN",
+    "department_id": 1
+  },
+  {
+    "id": 7,
+    "name": "SONAGUERA",
+    "department_id": 1
+  },
+  {
+    "id": 8,
+    "name": "TOCOA",
+    "department_id": 1
+  },
+  {
+    "id": 9,
+    "name": "BONITO ORIENTAL",
+    "department_id": 1
+  },
+  {
+    "id": 0,
+    "name": "COMAYAGUA",
+    "department_id": 2
+  },
+  {
+    "id": 1,
+    "name": "AJUTERIQUE",
+    "department_id": 2
+  },
+  {
+    "id": 2,
+    "name": "EL ROSARIO",
+    "department_id": 2
+  },
+  {
+    "id": 3,
+    "name": "ESQUIAS",
+    "department_id": 2
+  },
+  {
+    "id": 4,
+    "name": "HUMUYA",
+    "department_id": 2
+  },
+  {
+    "id": 5,
+    "name": "LA LIBERTAD",
+    "department_id": 2
+  },
+  {
+    "id": 6,
+    "name": "LAMANI",
+    "department_id": 2
+  },
+  {
+    "id": 7,
+    "name": "LA TRINIDAD",
+    "department_id": 2
+  },
+  {
+    "id": 8,
+    "name": "LEJAMANI",
+    "department_id": 2
+  },
+  {
+    "id": 9,
+    "name": "MEAMBAR",
+    "department_id": 2
+  },
+  {
+    "id": 10,
+    "name": "MINAS DE ORO",
+    "department_id": 2
+  },
+  {
+    "id": 11,
+    "name": "OJOS DE AGUA",
+    "department_id": 2
+  },
+  {
+    "id": 12,
+    "name": "SAN JERONIMO",
+    "department_id": 2
+  },
+  {
+    "id": 13,
+    "name": "SAN JOSE DE COMAYAGUA",
+    "department_id": 2
+  },
+  {
+    "id": 14,
+    "name": "SAN JOSE DEL POTRERO",
+    "department_id": 2
+  },
+  {
+    "id": 15,
+    "name": "SAN LUIS",
+    "department_id": 2
+  },
+  {
+    "id": 16,
+    "name": "SAN SEBASTIAN",
+    "department_id": 2
+  },
+  {
+    "id": 17,
+    "name": "SIGUATEPEQUE",
+    "department_id": 2
+  },
+  {
+    "id": 18,
+    "name": "VILLA DE SAN ANTONIO",
+    "department_id": 2
+  },
+  {
+    "id": 19,
+    "name": "LAS LAJAS",
+    "department_id": 2
+  },
+  {
+    "id": 20,
+    "name": "TAULABE",
+    "department_id": 2
+  },
+  {
+    "id": 0,
+    "name": "SANTA ROSA DE COPAN",
+    "department_id": 3
+  },
+  {
+    "id": 1,
+    "name": "CABAÑAS",
+    "department_id": 3
+  },
+  {
+    "id": 2,
+    "name": "CONCEPCION",
+    "department_id": 3
+  },
+  {
+    "id": 3,
+    "name": "COPAN RUINAS",
+    "department_id": 3
+  },
+  {
+    "id": 4,
+    "name": "CORQUIN",
+    "department_id": 3
+  },
+  {
+    "id": 5,
+    "name": "CUCUYAGUA",
+    "department_id": 3
+  },
+  {
+    "id": 6,
+    "name": "DOLORES",
+    "department_id": 3
+  },
+  {
+    "id": 7,
+    "name": "DULCE NOMBRE",
+    "department_id": 3
+  },
+  {
+    "id": 8,
+    "name": "EL PARAISO",
+    "department_id": 3
+  },
+  {
+    "id": 9,
+    "name": "FLORIDA",
+    "department_id": 3
+  },
+  {
+    "id": 10,
+    "name": "LA JIGUA",
+    "department_id": 3
+  },
+  {
+    "id": 11,
+    "name": "LA UNION",
+    "department_id": 3
+  },
+  {
+    "id": 12,
+    "name": "NUEVA ARCADIA",
+    "department_id": 3
+  },
+  {
+    "id": 13,
+    "name": "SAN AGUSTIN",
+    "department_id": 3
+  },
+  {
+    "id": 14,
+    "name": "SAN ANTONIO",
+    "department_id": 3
+  },
+  {
+    "id": 15,
+    "name": "SAN JERONIMO",
+    "department_id": 3
+  },
+  {
+    "id": 16,
+    "name": "SAN JOSE",
+    "department_id": 3
+  },
+  {
+    "id": 17,
+    "name": "SAN JUAN DE OPOA",
+    "department_id": 3
+  },
+  {
+    "id": 18,
+    "name": "SAN NICOLAS",
+    "department_id": 3
+  },
+  {
+    "id": 19,
+    "name": "SAN PEDRO",
+    "department_id": 3
+  },
+  {
+    "id": 20,
+    "name": "SANTA RITA",
+    "department_id": 3
+  },
+  {
+    "id": 21,
+    "name": "TRINIDAD",
+    "department_id": 3
+  },
+  {
+    "id": 22,
+    "name": "VERACRUZ",
+    "department_id": 3
+  },
+  {
+    "id": 0,
+    "name": "SAN PEDRO SULA",
+    "department_id": 4
+  },
+  {
+    "id": 1,
+    "name": "CHOLOMA",
+    "department_id": 4
+  },
+  {
+    "id": 2,
+    "name": "OMOA",
+    "department_id": 4
+  },
+  {
+    "id": 3,
+    "name": "PIMIENTA",
+    "department_id": 4
+  },
+  {
+    "id": 4,
+    "name": "POTRERILLOS",
+    "department_id": 4
+  },
+  {
+    "id": 5,
+    "name": "PUERTO CORTES",
+    "department_id": 4
+  },
+  {
+    "id": 6,
+    "name": "SAN ANTONIO DE CORTES",
+    "department_id": 4
+  },
+  {
+    "id": 7,
+    "name": "SAN FRANCISCO DE YOJOA",
+    "department_id": 4
+  },
+  {
+    "id": 8,
+    "name": "SAN MANUEL",
+    "department_id": 4
+  },
+  {
+    "id": 9,
+    "name": "SANTA CRUZ DE YOJOA",
+    "department_id": 4
+  },
+  {
+    "id": 10,
+    "name": "VILLANUEVA",
+    "department_id": 4
+  },
+  {
+    "id": 11,
+    "name": "LA LIMA",
+    "department_id": 4
+  },
+  {
+    "id": 0,
+    "name": "CHOLUTECA",
+    "department_id": 5
+  },
+  {
+    "id": 1,
+    "name": "APACILAGUA",
+    "department_id": 5
+  },
+  {
+    "id": 2,
+    "name": "CONCEPCION DE MARIA",
+    "department_id": 5
+  },
+  {
+    "id": 3,
+    "name": "DUYURE",
+    "department_id": 5
+  },
+  {
+    "id": 4,
+    "name": "EL CORPUS",
+    "department_id": 5
+  },
+  {
+    "id": 5,
+    "name": "EL TRIUNFO",
+    "department_id": 5
+  },
+  {
+    "id": 6,
+    "name": "MARCOVIA",
+    "department_id": 5
+  },
+  {
+    "id": 7,
+    "name": "MOROLICA",
+    "department_id": 5
+  },
+  {
+    "id": 8,
+    "name": "NAMASIGUE",
+    "department_id": 5
+  },
+  {
+    "id": 9,
+    "name": "OROCUINA",
+    "department_id": 5
+  },
+  {
+    "id": 10,
+    "name": "PESPIRE",
+    "department_id": 5
+  },
+  {
+    "id": 11,
+    "name": "SAN ANTONIO DE FLORES",
+    "department_id": 5
+  },
+  {
+    "id": 12,
+    "name": "SAN ISIDRO",
+    "department_id": 5
+  },
+  {
+    "id": 13,
+    "name": "SAN JOSE",
+    "department_id": 5
+  },
+  {
+    "id": 14,
+    "name": "SAN MARCOS DE COLON",
+    "department_id": 5
+  },
+  {
+    "id": 15,
+    "name": "SANTA ANA DE YUSGUARE",
+    "department_id": 5
+  },
+  {
+    "id": 0,
+    "name": "YUSCARAN",
+    "department_id": 6
+  },
+  {
+    "id": 1,
+    "name": "ALAUCA",
+    "department_id": 6
+  },
+  {
+    "id": 2,
+    "name": "DANLI",
+    "department_id": 6
+  },
+  {
+    "id": 3,
+    "name": "EL PARAISO",
+    "department_id": 6
+  },
+  {
+    "id": 4,
+    "name": "GUINOPE",
+    "department_id": 6
+  },
+  {
+    "id": 5,
+    "name": "JACALEAPA",
+    "department_id": 6
+  },
+  {
+    "id": 6,
+    "name": "LIURE",
+    "department_id": 6
+  },
+  {
+    "id": 7,
+    "name": "MOROCELI",
+    "department_id": 6
+  },
+  {
+    "id": 8,
+    "name": "OROPOLI",
+    "department_id": 6
+  },
+  {
+    "id": 9,
+    "name": "POTRERILLOS",
+    "department_id": 6
+  },
+  {
+    "id": 10,
+    "name": "SAN ANTONIO DE FLORES",
+    "department_id": 6
+  },
+  {
+    "id": 11,
+    "name": "SAN LUCAS",
+    "department_id": 6
+  },
+  {
+    "id": 12,
+    "name": "SAN MATIAS",
+    "department_id": 6
+  },
+  {
+    "id": 13,
+    "name": "SOLEDAD",
+    "department_id": 6
+  },
+  {
+    "id": 14,
+    "name": "TEUPASENTI",
+    "department_id": 6
+  },
+  {
+    "id": 15,
+    "name": "TEXIGUAT",
+    "department_id": 6
+  },
+  {
+    "id": 16,
+    "name": "VADO ANCHO",
+    "department_id": 6
+  },
+  {
+    "id": 17,
+    "name": "YAUYUPE",
+    "department_id": 6
+  },
+  {
+    "id": 18,
+    "name": "TROJES",
+    "department_id": 6
+  },
+  {
+    "id": 0,
+    "name": "DISTRITO CENTRAL",
+    "department_id": 7
+  },
+  {
+    "id": 1,
+    "name": "ALUBAREN",
+    "department_id": 7
+  },
+  {
+    "id": 2,
+    "name": "CEDROS",
+    "department_id": 7
+  },
+  {
+    "id": 3,
+    "name": "CURAREN",
+    "department_id": 7
+  },
+  {
+    "id": 4,
+    "name": "EL PORVENIR",
+    "department_id": 7
+  },
+  {
+    "id": 5,
+    "name": "GUAIMACA",
+    "department_id": 7
+  },
+  {
+    "id": 6,
+    "name": "LA LIBERTAD",
+    "department_id": 7
+  },
+  {
+    "id": 7,
+    "name": "LA VENTA",
+    "department_id": 7
+  },
+  {
+    "id": 8,
+    "name": "LEPATERIQUE",
+    "department_id": 7
+  },
+  {
+    "id": 9,
+    "name": "MARAITA",
+    "department_id": 7
+  },
+  {
+    "id": 10,
+    "name": "MARALE",
+    "department_id": 7
+  },
+  {
+    "id": 11,
+    "name": "NUEVA ARMENIA",
+    "department_id": 7
+  },
+  {
+    "id": 12,
+    "name": "OJOJONA",
+    "department_id": 7
+  },
+  {
+    "id": 13,
+    "name": "ORICA",
+    "department_id": 7
+  },
+  {
+    "id": 14,
+    "name": "REITOCA",
+    "department_id": 7
+  },
+  {
+    "id": 15,
+    "name": "SABANAGRANDE",
+    "department_id": 7
+  },
+  {
+    "id": 16,
+    "name": "SAN ANTONIO DE ORIENTE",
+    "department_id": 7
+  },
+  {
+    "id": 17,
+    "name": "SAN BUENAVENTURA",
+    "department_id": 7
+  },
+  {
+    "id": 18,
+    "name": "SAN IGNACIO",
+    "department_id": 7
+  },
+  {
+    "id": 19,
+    "name": "CANTARRANAS",
+    "department_id": 7
+  },
+  {
+    "id": 20,
+    "name": "SAN MIGUELITO",
+    "department_id": 7
+  },
+  {
+    "id": 21,
+    "name": "SANTA ANA",
+    "department_id": 7
+  },
+  {
+    "id": 22,
+    "name": "SANTA LUCIA",
+    "department_id": 7
+  },
+  {
+    "id": 23,
+    "name": "TALANGA",
+    "department_id": 7
+  },
+  {
+    "id": 24,
+    "name": "TATUMBLA",
+    "department_id": 7
+  },
+  {
+    "id": 25,
+    "name": "VALLE DE ANGELES",
+    "department_id": 7
+  },
+  {
+    "id": 26,
+    "name": "VILLA SAN FRANCISCO",
+    "department_id": 7
+  },
+  {
+    "id": 27,
+    "name": "VALLECILLOS",
+    "department_id": 7
+  },
+  {
+    "id": 0,
+    "name": "PUERTO LEMPIRA",
+    "department_id": 8
+  },
+  {
+    "id": 1,
+    "name": "BRUS LAGUNA",
+    "department_id": 8
+  },
+  {
+    "id": 2,
+    "name": "AHUAS",
+    "department_id": 8
+  },
+  {
+    "id": 3,
+    "name": "JUAN FRANCISCO BULNES",
+    "department_id": 8
+  },
+  {
+    "id": 4,
+    "name": "VILLEDA MORALES",
+    "department_id": 8
+  },
+  {
+    "id": 5,
+    "name": "WAMPUSIRPI",
+    "department_id": 8
+  },
+  {
+    "id": 0,
+    "name": "LA ESPERANZA",
+    "department_id": 9
+  },
+  {
+    "id": 1,
+    "name": "CAMASCA",
+    "department_id": 9
+  },
+  {
+    "id": 2,
+    "name": "COLOMONCAGUA",
+    "department_id": 9
+  },
+  {
+    "id": 3,
+    "name": "CONCEPCION",
+    "department_id": 9
+  },
+  {
+    "id": 4,
+    "name": "DOLORES",
+    "department_id": 9
+  },
+  {
+    "id": 5,
+    "name": "INTIBUCA",
+    "department_id": 9
+  },
+  {
+    "id": 6,
+    "name": "JESUS DE OTORO",
+    "department_id": 9
+  },
+  {
+    "id": 7,
+    "name": "MAGDALENA",
+    "department_id": 9
+  },
+  {
+    "id": 8,
+    "name": "MASAGUARA",
+    "department_id": 9
+  },
+  {
+    "id": 9,
+    "name": "SAN ANTONIO",
+    "department_id": 9
+  },
+  {
+    "id": 10,
+    "name": "SAN ISIDRO",
+    "department_id": 9
+  },
+  {
+    "id": 11,
+    "name": "SAN JUAN",
+    "department_id": 9
+  },
+  {
+    "id": 12,
+    "name": "SAN MARCOS SIERRA",
+    "department_id": 9
+  },
+  {
+    "id": 13,
+    "name": "SAN MIGUELITO",
+    "department_id": 9
+  },
+  {
+    "id": 14,
+    "name": "SANTA LUCIA",
+    "department_id": 9
+  },
+  {
+    "id": 15,
+    "name": "YAMARANGUILA",
+    "department_id": 9
+  },
+  {
+    "id": 16,
+    "name": "SAN FRANCISCO DE OPALACA",
+    "department_id": 9
+  },
+  {
+    "id": 0,
+    "name": "ROATAN",
+    "department_id": 10
+  },
+  {
+    "id": 1,
+    "name": "GUANAJA",
+    "department_id": 10
+  },
+  {
+    "id": 2,
+    "name": "JOSE SANTOS GUARDIOLA",
+    "department_id": 10
+  },
+  {
+    "id": 3,
+    "name": "UTILA",
+    "department_id": 10
+  },
+  {
+    "id": 0,
+    "name": "LA PAZ",
+    "department_id": 11
+  },
+  {
+    "id": 1,
+    "name": "AGUANQUETERIQUE",
+    "department_id": 11
+  },
+  {
+    "id": 2,
+    "name": "CABAÑAS",
+    "department_id": 11
+  },
+  {
+    "id": 3,
+    "name": "CANE",
+    "department_id": 11
+  },
+  {
+    "id": 4,
+    "name": "CHINACLA",
+    "department_id": 11
+  },
+  {
+    "id": 5,
+    "name": "GUAJIQUIRO",
+    "department_id": 11
+  },
+  {
+    "id": 6,
+    "name": "LAUTERIQUE",
+    "department_id": 11
+  },
+  {
+    "id": 7,
+    "name": "MARCALA",
+    "department_id": 11
+  },
+  {
+    "id": 8,
+    "name": "MERCEDES DE ORIENTE",
+    "department_id": 11
+  },
+  {
+    "id": 9,
+    "name": "OPATORO",
+    "department_id": 11
+  },
+  {
+    "id": 10,
+    "name": "SAN ANTONIO DEL NORTE",
+    "department_id": 11
+  },
+  {
+    "id": 11,
+    "name": "SAN JOSE",
+    "department_id": 11
+  },
+  {
+    "id": 12,
+    "name": "SAN JUAN",
+    "department_id": 11
+  },
+  {
+    "id": 13,
+    "name": "SAN PEDRO DE TUTULE",
+    "department_id": 11
+  },
+  {
+    "id": 14,
+    "name": "SANTA ANA",
+    "department_id": 11
+  },
+  {
+    "id": 15,
+    "name": "SANTA ELENA",
+    "department_id": 11
+  },
+  {
+    "id": 16,
+    "name": "SANTA MARIA",
+    "department_id": 11
+  },
+  {
+    "id": 17,
+    "name": "SANTIAGO DE PURINGLA",
+    "department_id": 11
+  },
+  {
+    "id": 18,
+    "name": "YARULA",
+    "department_id": 11
+  },
+  {
+    "id": 0,
+    "name": "GRACIAS",
+    "department_id": 12
+  },
+  {
+    "id": 1,
+    "name": "BELEN",
+    "department_id": 12
+  },
+  {
+    "id": 2,
+    "name": "CANDELARIA",
+    "department_id": 12
+  },
+  {
+    "id": 3,
+    "name": "COLOLACA",
+    "department_id": 12
+  },
+  {
+    "id": 4,
+    "name": "ERANDIQUE",
+    "department_id": 12
+  },
+  {
+    "id": 5,
+    "name": "GUALCINCE",
+    "department_id": 12
+  },
+  {
+    "id": 6,
+    "name": "GUARITA",
+    "department_id": 12
+  },
+  {
+    "id": 7,
+    "name": "LA CAMPA",
+    "department_id": 12
+  },
+  {
+    "id": 8,
+    "name": "LA IGUALA",
+    "department_id": 12
+  },
+  {
+    "id": 9,
+    "name": "LAS FLORES",
+    "department_id": 12
+  },
+  {
+    "id": 10,
+    "name": "LA UNION",
+    "department_id": 12
+  },
+  {
+    "id": 11,
+    "name": "LA VIRTUD",
+    "department_id": 12
+  },
+  {
+    "id": 12,
+    "name": "LEPAERA",
+    "department_id": 12
+  },
+  {
+    "id": 13,
+    "name": "MAPULACA",
+    "department_id": 12
+  },
+  {
+    "id": 14,
+    "name": "PIRAERA",
+    "department_id": 12
+  },
+  {
+    "id": 15,
+    "name": "SAN ANDRES",
+    "department_id": 12
+  },
+  {
+    "id": 16,
+    "name": "SAN FRANCISCO",
+    "department_id": 12
+  },
+  {
+    "id": 17,
+    "name": "SAN JUAN GUARITA",
+    "department_id": 12
+  },
+  {
+    "id": 18,
+    "name": "SAN MANUEL COLOHETE",
+    "department_id": 12
+  },
+  {
+    "id": 19,
+    "name": "SAN RAFAEL",
+    "department_id": 12
+  },
+  {
+    "id": 20,
+    "name": "SAN SEBASTIAN",
+    "department_id": 12
+  },
+  {
+    "id": 21,
+    "name": "SANTA CRUZ",
+    "department_id": 12
+  },
+  {
+    "id": 22,
+    "name": "TALGUA",
+    "department_id": 12
+  },
+  {
+    "id": 23,
+    "name": "TAMBLA",
+    "department_id": 12
+  },
+  {
+    "id": 24,
+    "name": "TOMALA",
+    "department_id": 12
+  },
+  {
+    "id": 25,
+    "name": "VALLADOLID",
+    "department_id": 12
+  },
+  {
+    "id": 26,
+    "name": "VIRGINIA",
+    "department_id": 12
+  },
+  {
+    "id": 27,
+    "name": "SAN MARCOS DE CAIQUIN",
+    "department_id": 12
+  },
+  {
+    "id": 0,
+    "name": "OCOTEPEQUE",
+    "department_id": 13
+  },
+  {
+    "id": 1,
+    "name": "BELEN GUALCHO",
+    "department_id": 13
+  },
+  {
+    "id": 2,
+    "name": "CONCEPCION",
+    "department_id": 13
+  },
+  {
+    "id": 3,
+    "name": "DOLORES MERENDON",
+    "department_id": 13
+  },
+  {
+    "id": 4,
+    "name": "FRATERNIDAD",
+    "department_id": 13
+  },
+  {
+    "id": 5,
+    "name": "LA ENCARNACION",
+    "department_id": 13
+  },
+  {
+    "id": 6,
+    "name": "LA LABOR",
+    "department_id": 13
+  },
+  {
+    "id": 7,
+    "name": "LUCERNA",
+    "department_id": 13
+  },
+  {
+    "id": 8,
+    "name": "MERCEDES",
+    "department_id": 13
+  },
+  {
+    "id": 9,
+    "name": "SAN FERNANDO",
+    "department_id": 13
+  },
+  {
+    "id": 10,
+    "name": "SAN FRANCISCO DEL VALLE",
+    "department_id": 13
+  },
+  {
+    "id": 11,
+    "name": "SAN JORGE",
+    "department_id": 13
+  },
+  {
+    "id": 12,
+    "name": "SAN MARCOS",
+    "department_id": 13
+  },
+  {
+    "id": 13,
+    "name": "SANTA FE",
+    "department_id": 13
+  },
+  {
+    "id": 14,
+    "name": "SENSENTI",
+    "department_id": 13
+  },
+  {
+    "id": 15,
+    "name": "SINUAPA",
+    "department_id": 13
+  },
+  {
+    "id": 0,
+    "name": "JUTICALPA",
+    "department_id": 14
+  },
+  {
+    "id": 1,
+    "name": "CAMPAMENTO",
+    "department_id": 14
+  },
+  {
+    "id": 2,
+    "name": "CATACAMAS",
+    "department_id": 14
+  },
+  {
+    "id": 3,
+    "name": "CONCORDIA",
+    "department_id": 14
+  },
+  {
+    "id": 4,
+    "name": "DULCE NOMBRE DE CULMI",
+    "department_id": 14
+  },
+  {
+    "id": 5,
+    "name": "EL ROSARIO",
+    "department_id": 14
+  },
+  {
+    "id": 6,
+    "name": "ESQUIPULAS DEL NORTE",
+    "department_id": 14
+  },
+  {
+    "id": 7,
+    "name": "GUALACO",
+    "department_id": 14
+  },
+  {
+    "id": 8,
+    "name": "GUARIZAMA",
+    "department_id": 14
+  },
+  {
+    "id": 9,
+    "name": "GUATA",
+    "department_id": 14
+  },
+  {
+    "id": 10,
+    "name": "GUAYAPE",
+    "department_id": 14
+  },
+  {
+    "id": 11,
+    "name": "JANO",
+    "department_id": 14
+  },
+  {
+    "id": 12,
+    "name": "LA UNION",
+    "department_id": 14
+  },
+  {
+    "id": 13,
+    "name": "MANGULILE",
+    "department_id": 14
+  },
+  {
+    "id": 14,
+    "name": "MANTO",
+    "department_id": 14
+  },
+  {
+    "id": 15,
+    "name": "SALAMA",
+    "department_id": 14
+  },
+  {
+    "id": 16,
+    "name": "SAN ESTEBAN",
+    "department_id": 14
+  },
+  {
+    "id": 17,
+    "name": "SAN FRANCISCO DE BECERRA",
+    "department_id": 14
+  },
+  {
+    "id": 18,
+    "name": "SAN FRANCISCO DE LA PAZ",
+    "department_id": 14
+  },
+  {
+    "id": 19,
+    "name": "SANTA MARIA DEL REAL",
+    "department_id": 14
+  },
+  {
+    "id": 20,
+    "name": "SILCA",
+    "department_id": 14
+  },
+  {
+    "id": 21,
+    "name": "YOCON",
+    "department_id": 14
+  },
+  {
+    "id": 22,
+    "name": "PATUCA",
+    "department_id": 14
+  },
+  {
+    "id": 0,
+    "name": "SANTA BARBARA",
+    "department_id": 15
+  },
+  {
+    "id": 1,
+    "name": "ARADA",
+    "department_id": 15
+  },
+  {
+    "id": 2,
+    "name": "ATIMA",
+    "department_id": 15
+  },
+  {
+    "id": 3,
+    "name": "AZACUALPA",
+    "department_id": 15
+  },
+  {
+    "id": 4,
+    "name": "CEGUACA",
+    "department_id": 15
+  },
+  {
+    "id": 5,
+    "name": "SAN JOSE DE COLINAS",
+    "department_id": 15
+  },
+  {
+    "id": 6,
+    "name": "CONCEPCION DEL NORTE",
+    "department_id": 15
+  },
+  {
+    "id": 7,
+    "name": "CONCEPCION DEL SUR",
+    "department_id": 15
+  },
+  {
+    "id": 8,
+    "name": "CHINDA",
+    "department_id": 15
+  },
+  {
+    "id": 9,
+    "name": "EL NISPERO",
+    "department_id": 15
+  },
+  {
+    "id": 10,
+    "name": "GUALALA",
+    "department_id": 15
+  },
+  {
+    "id": 11,
+    "name": "ILAMA",
+    "department_id": 15
+  },
+  {
+    "id": 12,
+    "name": "MACUELIZO",
+    "department_id": 15
+  },
+  {
+    "id": 13,
+    "name": "NARANJITO",
+    "department_id": 15
+  },
+  {
+    "id": 14,
+    "name": "NUEVO CELILAC",
+    "department_id": 15
+  },
+  {
+    "id": 15,
+    "name": "PETOA",
+    "department_id": 15
+  },
+  {
+    "id": 16,
+    "name": "PROTECCION",
+    "department_id": 15
+  },
+  {
+    "id": 17,
+    "name": "QUIMISTAN",
+    "department_id": 15
+  },
+  {
+    "id": 18,
+    "name": "SAN FRANCISCO DE OJUERA",
+    "department_id": 15
+  },
+  {
+    "id": 19,
+    "name": "SAN LUIS",
+    "department_id": 15
+  },
+  {
+    "id": 20,
+    "name": "SAN MARCOS",
+    "department_id": 15
+  },
+  {
+    "id": 21,
+    "name": "SAN NICOLAS",
+    "department_id": 15
+  },
+  {
+    "id": 22,
+    "name": "SAN PEDRO DE ZACAPA",
+    "department_id": 15
+  },
+  {
+    "id": 23,
+    "name": "SANTA RITA",
+    "department_id": 15
+  },
+  {
+    "id": 24,
+    "name": "SAN VICENTE CENTENARIO",
+    "department_id": 15
+  },
+  {
+    "id": 25,
+    "name": "TRINIDAD",
+    "department_id": 15
+  },
+  {
+    "id": 26,
+    "name": "LAS VEGAS",
+    "department_id": 15
+  },
+  {
+    "id": 27,
+    "name": "NUEVA FRONTERA",
+    "department_id": 15
+  },
+  {
+    "id": 0,
+    "name": "NACAOME",
+    "department_id": 16
+  },
+  {
+    "id": 1,
+    "name": "ALIANZA",
+    "department_id": 16
+  },
+  {
+    "id": 2,
+    "name": "AMAPALA",
+    "department_id": 16
+  },
+  {
+    "id": 3,
+    "name": "ARAMECINA",
+    "department_id": 16
+  },
+  {
+    "id": 4,
+    "name": "CARIDAD",
+    "department_id": 16
+  },
+  {
+    "id": 5,
+    "name": "GOASCORAN",
+    "department_id": 16
+  },
+  {
+    "id": 6,
+    "name": "LANGUE",
+    "department_id": 16
+  },
+  {
+    "id": 7,
+    "name": "SAN FRANCISCO DE CORAY",
+    "department_id": 16
+  },
+  {
+    "id": 8,
+    "name": "SAN LORENZO",
+    "department_id": 16
+  },
+  {
+    "id": 0,
+    "name": "YORO",
+    "department_id": 17
+  },
+  {
+    "id": 1,
+    "name": "ARENAL",
+    "department_id": 17
+  },
+  {
+    "id": 2,
+    "name": "EL NEGRITO",
+    "department_id": 17
+  },
+  {
+    "id": 3,
+    "name": "EL PROGRESO",
+    "department_id": 17
+  },
+  {
+    "id": 4,
+    "name": "JOCON",
+    "department_id": 17
+  },
+  {
+    "id": 5,
+    "name": "MORAZAN",
+    "department_id": 17
+  },
+  {
+    "id": 6,
+    "name": "OLANCHITO",
+    "department_id": 17
+  },
+  {
+    "id": 7,
+    "name": "SANTA RITA",
+    "department_id": 17
+  },
+  {
+    "id": 8,
+    "name": "SULACO",
+    "department_id": 17
+  },
+  {
+    "id": 9,
+    "name": "VICTORIA",
+    "department_id": 17
+  },
+  {
+    "id": 10,
+    "name": "YORITO",
+    "department_id": 17
+  }
+]

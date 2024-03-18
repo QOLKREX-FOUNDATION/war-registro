@@ -1,0 +1,57 @@
+[
+	{
+		"en-Us": "PARVOVIRUSES",
+		"es-Es": "PARVOVIRUS",
+		"value": "PARVOVIRUSES"
+	},
+	{
+		"en-Us": "DISTEMPER",
+		"es-Es": "DISTEMPER",
+		"value": "DISTEMPER"
+	},
+	{
+		"en-Us": "CORONAVIRUS",
+		"es-Es": "CORONAVIRUS",
+		"value": "CORONAVIRUS"
+	},
+	{
+		"en-Us": "HEPATITIS",
+		"es-Es": "HEPATITIS",
+		"value": "HEPATITIS"
+	},
+	{
+		"en-Us": "LEISHMANIOSIS",
+		"es-Es": "LEISHMANIOSIS",
+		"value": "LEISHMANIOSIS"
+	},
+	{
+		"en-Us": "LEPTOSPIRA",
+		"es-Es": "LEPTOSPIRA",
+		"value": "LEPTOSPIRA"
+	},
+	{
+		"en-Us": "PARAINFLUENZA",
+		"es-Es": "PARAINFLUENZA",
+		"value": "PARAINFLUENZA"
+	},
+	{
+		"en-Us": "RABIES",
+		"es-Es": "RABIA",
+		"value": "RABIES"
+	},
+	{
+		"en-Us": "RHINOTRACHEITIS",
+		"es-Es": "RINOTRAQUEITIS",
+		"value": "RHINOTRACHEITIS"
+	},
+	{
+		"en-Us": "PANLEUKOPENIA",
+		"es-Es": "PANLEUCOPENIA",
+		"value": "PANLEUKOPENIA"
+	},
+	{
+		"en-Us": "CALICIVIRUSES",
+		"es-Es": "CALICIVIRUS",
+		"value": "CALICIVIRUSES"
+	}
+]

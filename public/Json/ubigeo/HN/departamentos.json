@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "ATLANTIDA"
+  },
+  {
+    "id": 1,
+    "name": "COLON"
+  },
+  {
+    "id": 2,
+    "name": "COMAYAGUA"
+  },
+  {
+    "id": 3,
+    "name": "COPAN"
+  },
+  {
+    "id": 4,
+    "name": "CORTES"
+  },
+  {
+    "id": 5,
+    "name": "CHOLUTECA"
+  },
+  {
+    "id": 6,
+    "name": "EL PARAISO"
+  },
+  {
+    "id": 7,
+    "name": "FRANCISCO MORAZAN"
+  },
+  {
+    "id": 8,
+    "name": "GRACIAS A DIOS"
+  },
+  {
+    "id": 9,
+    "name": "INTIBUCA"
+  },
+  {
+    "id": 10,
+    "name": "ISLAS DE LA BAHIA"
+  },
+  {
+    "id": 11,
+    "name": "LA PAZ"
+  },
+  {
+    "id": 12,
+    "name": "LEMPIRA"
+  },
+  {
+    "id": 13,
+    "name": "OCOTEPEQUE"
+  },
+  {
+    "id": 14,
+    "name": "OLANCHO"
+  },
+  {
+    "id": 15,
+    "name": "SANTA BARBARA"
+  },
+  {
+    "id": 16,
+    "name": "VALLE"
+  },
+  {
+    "id": 17,
+    "name": "YORO"
+  }
+]
