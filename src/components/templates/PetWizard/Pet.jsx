@@ -7,7 +7,6 @@ import { formatDataPet } from "../../organims/Cpanel/components/PetForm/utils/fo
 import { Delete } from "./Delete";
 import { PetWizard } from "./PetWizard";
 import { adopterInit, petInit } from "./utils/init";
-import { CorrelativeProvider } from "../../../contexts/CorrelativeContext";
 
 export const Pet = ({
 	update = false,
@@ -38,7 +37,7 @@ export const Pet = ({
 	useEffect(() => {
 		if (update) {
 			handlePreloader(true);
-			getRecordPet(`chip=${ chip }`, web3.authToken)
+			getRecordPet(`chip=${chip}`, web3.authToken)
 				.then((response) => {
 					response.pet = formatDataPet(response.pet);
 					setPetInitState(response.pet);
@@ -62,17 +61,14 @@ export const Pet = ({
 					</button>
 				</div>
 			)}
-
-			<CorrelativeProvider>
-				<PetWizard
-					adopterInit={adopterInitState}
-					petInit={petInitState}
-					resetInit={() => {
-						reset();
-					}}
-					update={update}
-				/>
-			</CorrelativeProvider>
+			<PetWizard
+				adopterInit={adopterInitState}
+				petInit={petInitState}
+				resetInit={() => {
+					reset();
+				}}
+				update={update}
+			/>
 
 			{openRemove && (
 				<Informative handleClose={() => setOpenRemove(false)}>

@@ -2504,6 +2504,12 @@
     "es-Es": "PITBULL",
     "value": "PITBULL"
   },
+
+  {
+    "en-Us": "FRENCH BULLDOG",
+    "es-Es": "FRUG O PUG FRANCÉS",
+    "value": "FRENCH BULLDOG"
+  },
   {
     "en-Us": "CHUG",
     "es-Es": "CHUG",
@@ -2688,20 +2694,5 @@
     "en-Us": "AMERICAN BULLY EXOTIC",
     "es-Es": "AMERICAN BULLY EXOTIC",
     "value": "AMERICAN BULLY EXOTIC"
-  },
-  {
-    "en-Us": "JACK RUSEEL HAIR ROUGH",
-    "es-Es": "JACK RUSELL PELO DURO",
-    "value": "JACK RUSEEL HAIR ROUGH"
-  },
-  {
-    "en-Us": "JACK RUSSELL HAIR SMOOTH",
-    "es-Es": "JACK RUSSELL PELO CORTO",
-    "value": "JACK RUSSELL HAIR SMOOTH"
-  },
-  {
-    "en-Us": "JACK RUSSELL BROKEN HAIR",
-    "es-Es": "JACK RUSSELL PELO BROKEN",
-    "value": "JACK RUSSELL BROKEN HAIR"
   }
 ]

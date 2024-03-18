@@ -10,7 +10,6 @@ export const Select = ({
 	onKeyUp = () => false,
 	options = [],
 	readOnly = false,
-	value = "",
 }) => {
 	const { currentColor } = useStateContext();
 
@@ -29,10 +28,9 @@ export const Select = ({
 				{...onChange}
 				onBlur={onBlur}
 				onKeyUp={onKeyUp}
-				value={value}
 			>
 				{options.map((option) => (
-					<option key={option.value} value={option.value} className="dark:bg-gray-800 dark:text-white">
+					<option key={option.value} value={option.value}>
 						{option.label}
 					</option>
 				))}

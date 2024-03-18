@@ -1,39 +1,36 @@
 import { createTheme } from "@mui/material";
-import { esES } from "@mui/x-date-pickers";
 
-export const lightTheme = createTheme(
-  {
+export const lightTheme = createTheme({
     palette: {
-      mode: "light",
-      info: {
-        main: "rgb(255,122,0)", //add in a custom color for the toolbar alert background stuff
-      },
-      background: {
-        default: "#fff", //pure black table in dark mode for fun
-      },
+        mode: 'light',
+        info: {
+            main: 'rgb(255,122,0)', //add in a custom color for the toolbar alert background stuff
+        },
+        background: {
+            default: '#fff', //pure black table in dark mode for fun
+        },
+
     },
     typography: {
-      button: {
-        textTransform: "none", //customize typography styles for all buttons in table by default
-        fontSize: "1.2rem",
-      },
+        button: {
+            textTransform: 'none', //customize typography styles for all buttons in table by default
+            fontSize: '1.2rem',
+        },
     },
     components: {
-      MuiTooltip: {
-        styleOverrides: {
-          tooltip: {
-            fontSize: "1.1rem", //override to make tooltip font size larger
-          },
+        MuiTooltip: {
+            styleOverrides: {
+                tooltip: {
+                    fontSize: '1.1rem', //override to make tooltip font size larger
+                },
+            },
         },
-      },
-      MuiSwitch: {
-        styleOverrides: {
-          thumb: {
-            color: "pink", //change the color of the switch thumb in the columns show/hide menu to pink
-          },
+        MuiSwitch: {
+            styleOverrides: {
+                thumb: {
+                    color: 'pink', //change the color of the switch thumb in the columns show/hide menu to pink
+                },
+            },
         },
-      },
     },
-  },
-  esES
-);
+})

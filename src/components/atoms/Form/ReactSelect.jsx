@@ -8,14 +8,12 @@ export const ReactSelect = ({
 	required = false,
 	isMulti = false,
 	readOnly = false,
-	id = false,
 }) => {
-	const { currentColor, currentMode } = useStateContext();
+	const { currentColor } = useStateContext();
 
 	const style = {
 		fontSize: "0.75rem",
 		lineHeight: "1rem",
-		color: "black"
 	};
 
 	const customStyles = {
@@ -50,7 +48,7 @@ export const ReactSelect = ({
 			return {
 				...provided,
 				...style,
-				backgroundColor: `${ colour }`,
+				backgroundColor: `${colour}`,
 				fontWeight: "bold",
 			};
 		},
@@ -67,41 +65,27 @@ export const ReactSelect = ({
 			fontSize: "0.75rem",
 			margin: 0,
 		}),
-		option: (provided, state) => ({
-			...provided,
-			backgroundColor: currentMode === 'Light' ? "white" : "white",
-			color: currentMode === 'Light' ? "black" : "black",
-		}),
 		container: (provided, state) => ({
-			...provided,
-			...style,
-		}),
-		width: (provided, state) => ({
 			...provided,
 			...style,
 		}),
 	};
 
 	return (
-		<div className=" relative w-full dark:text-black">
-			{
-				name &&
-				<label className="text-gray-700 text-xs">
-					<p className="capitalize mb-2" style={{ color: currentColor }}>
-						{name}
-						{required && <span className="text-red-500 required-dot"> *</span>}
-					</p>
-				</label>
-			}
+		<div className=" relative ">
+			<label className="text-gray-700 text-xs">
+				<p className="capitalize mb-2" style={{ color: currentColor }}>
+					{name}
+					{required && <span className="text-red-500 required-dot"> *</span>}
+				</p>
+			</label>
 			<Select
-				id={id && id}
 				isDisabled={readOnly}
 				styles={customStyles}
 				options={options}
 				value={value}
 				onChange={onChange}
 				isMulti={isMulti}
-				className="dark:bg-gray-800 dark:text-gray-100 "
 			/>
 		</div>
 	);

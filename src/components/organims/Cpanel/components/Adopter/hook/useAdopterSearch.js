@@ -123,6 +123,5 @@ export const useAdopterSearch = (update) => {
 		getAdopter,
 		handleAddress,
 		handleEmail,
-		getEntityActive,
 	};
 };

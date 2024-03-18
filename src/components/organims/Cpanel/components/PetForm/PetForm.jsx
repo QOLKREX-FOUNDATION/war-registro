@@ -47,7 +47,7 @@ export const PetForm = ({
 								value: true,
 								message: "Campo requerido",
 							},
-							minLength: { value: 2, message: "Nombre muy corto" },
+							minLength: { value: 3, message: "Nombre muy corto" },
 							maxLength: { value: 30, message: "Nombre muy largo" },
 							pattern: {
 								value: regexText,
@@ -123,7 +123,6 @@ export const PetForm = ({
 							{ label: "MACHO", value: "MALE" },
 							{ label: "HEMBRA", value: "FEMALE" },
 						]}
-						value={watchPet("gender")}
 						error={errorsPet?.gender}
 					/>
 					{/* {!update && ( */}
@@ -248,7 +247,6 @@ export const PetForm = ({
 					<Select
 						readOnly={readOnly}
 						name="Esterilizado"
-						value={watchPet("sterilized")}
 						required
 						formInput={petValues("sterilized", {
 							required: {
@@ -297,13 +295,6 @@ export const PetForm = ({
 			<div className="grid grid-cols-2 gap-x-8 grid-flow-row-dense mb-4">
 				<div className="col-span-2 grid grid-cols-1 gap-x-4 gap-y-5">
 					<div>
-						{/* {watchPet("image") && (
-							<img
-								src={watchPet("image")}
-								alt={petValues.name}
-								style={{ width: "15rem" }}
-							/>
-						)} */}
 						{update && (
 							<img
 								// src={`${ API.warPublic }public/images/image/${ getPet.chip

@@ -1,66 +1,47 @@
-import { useCallback, useContext, useEffect, useState } from "react";
-import { WarContext } from "../../../../../../contexts/War/WarContext";
+import { useEffect, useMemo, useState } from "react";
+import specieJson from "../../../../../../../public/Json/species.json";
+import { racesJson } from "../../../../../../config/constants/races";
+// import { LangContext } from "../../contexts/Localization/LangContext";
+
 const lang = { locale: "es-Es" };
 
-export const useSpecie = (type) => {
-  const { speciesData, racesData } = useContext(WarContext);
-  console.log("speciesData", speciesData);
-  console.log("racesData", racesData);
+export const useSpecie = (specie) => {
+	// const { lang } = useContext(LangContext);
+	const [species, setSpecies] = useState([]);
+	const [races, setRaces] = useState([]);
 
-  const [species, setSpecies] = useState([]);
-  const [races, setRaces] = useState([]);
+	const handleSpecies = useMemo(() => {
+		const temp = [];
+		for (let i = 0; i < specieJson.length; i++) {
+			temp.push({
+				label: specieJson[i][lang.locale],
+				value: specieJson[i].value,
+			});
+		}
+		return temp;
+	}, [lang.locale]);
 
-  const handleSpecies = useCallback(() => {
-    console.log("speciesData", speciesData);
-    const animals = [];
-    for (let i = 0; i < speciesData?.length; i++) {
-      animals.push({
-        label:
-          lang.locale === "es-Es"
-            ? speciesData[i]["nameSpanish"]
-            : speciesData[i]["nameEnglish"],
-        value: speciesData[i]["name"],
-      });
-    }
-    return animals;
-  }, [speciesData]);
+	const handleRaces = useMemo(() => {
+		const temp = [];
+		for (let i = 0; i < racesJson[specie]?.length; i++) {
+			temp.push({
+				label: racesJson[specie][i][lang.locale],
+				value: racesJson[specie][i].value,
+			});
+		}
+		return temp;
+	}, [lang.locale, specie]);
 
-  const handleRaces = useCallback(
-    (type) => {
-      const races = [];
-      console.log("type", type);
-      console.log("racesData", racesData);
-      const racesFilter = racesData.filter((race) => race.animal === type);
-      console.log("racesFilter", racesFilter);
-      try {
-        for (let i = 0; i < racesFilter?.length; i++) {
-          races.push({
-            label:
-              lang.locale === "es-Es"
-                ? racesFilter[i]["nameSpanish"]
-                : racesFilter[i]["nameEnglish"],
-            value: racesFilter[i]["nameEnglish"],
-          });
-        }
-        return races;
-      } catch (error) {
-        console.log(error);
-        return races;
-      }
-    },
-    [racesData]
-  );
+	useEffect(() => {
+		setSpecies(handleSpecies);
+	}, [lang.locale, handleSpecies]);
 
-  useEffect(() => {
-    setSpecies(handleSpecies());
-  }, [type, handleSpecies]);
+	useEffect(() => {
+		setRaces(handleRaces);
+	}, [lang.locale, handleRaces]);
 
-  useEffect(() => {
-    setRaces(handleRaces(type));
-  }, [type, handleRaces]);
-
-  return {
-    species,
-    races,
-  };
+	return {
+		species,
+		races,
+	};
 };

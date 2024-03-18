@@ -52,14 +52,6 @@ module.exports = {
         "hero-pattern": "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
       },
     },
-    backgroundImage: (theme) => ({
-      "hero-pattern": "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
-      "form-register": "./img/forms/certificate_microchip.jpg",
-    }),
   },
-  plugins: [
-    require("@tailwindcss/forms")({
-      strategy: "class",
-    }),
-  ],
+  plugins: [],
 };

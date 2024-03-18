@@ -13,8 +13,6 @@ import {
   imageFileUpload,
 } from "../utils/imageFileToWeb3StorageUtils";
 import { estimateAmountOut } from "../../../../utils/war/oracle";
-import { CorrelativeContext } from "../../../../contexts/CorrelativeContext";
-import { useCorrelative } from "../../../../hooks/useCorrelative";
 
 export const useRegister = ({
   update = false,
@@ -25,11 +23,6 @@ export const useRegister = ({
   const { handlePreloader } = useContext(PreloaderContext);
   const [image, setImage] = useState("");
   const [pedigree, setPedigree] = useState("");
-
-  const { idCorrelative } = useContext(CorrelativeContext);
-  console.log({ idCorrelative });
-
-  const { setStatusCorrelative } = useCorrelative();
 
   const imageFileToWeb3Storage = ({ watchPet }) => {
     imageFileToWeb3StorageUtils({
@@ -59,9 +52,6 @@ export const useRegister = ({
       pedigree,
       petInit,
     });
-
-    console.log({ info });
-
     if (!info || !!!info?.image) {
       toastMessage({
         type: "error",
@@ -76,7 +66,6 @@ export const useRegister = ({
       .then((cid) => {
         if (cid) {
           info.url = cid;
-          console.log("web3", web3); //0.5
           console.log("price", price); //0.5
           estimateAmountOut(web3, "USDC", price) //625,02927047
             .then((responseAmount) => {
@@ -121,7 +110,6 @@ export const useRegister = ({
                         token,
                       });
                       reset();
-                      !update && setStatusCorrelative("registered-pet");
                     })
                     .catch((e) => console.log(e));
                   handlePreloader(false);

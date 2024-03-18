@@ -1655,12 +1655,5 @@
     "value": "HARLEQUIN",
     "hex": "#FFFFFF",
     "rgb": "(255, 255, 255)"
-  },
-  {
-    "en-Us": "CANDY",
-    "es-Es": "CARAMELO",
-    "value": "CANDY",
-    "hex": "#FFFFFF",
-    "rgb": "(255, 255, 255)"
   }
 ]

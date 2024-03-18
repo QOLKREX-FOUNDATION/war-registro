@@ -1,8 +1,6 @@
 import { useState } from "react";
 import { usePreloaderContext } from "../contexts";
 import { allowance, approve } from "../utils/er20";
-import { TOKENS } from "../config";
-import { amountBigReverse } from "../utils/bigNumber";
 
 export const useAprovate = () => {
 	const [approvate, setApprovate] = useState(0);
@@ -14,7 +12,7 @@ export const useAprovate = () => {
 			.then(() => {
 				allowance(web3, account, coin, contract)
 					.then((resolve) => {
-						setApprovate(resolve > 0 ? allowanceComparative(resolve, coin) : 0);
+						resolve > 0 ? setApprovate(resolve) : setApprovate(0);
 						handlePreloader(false);
 					})
 					.catch((e) => {
@@ -26,12 +24,6 @@ export const useAprovate = () => {
 				console.log(e);
 				handlePreloader(false);
 			});
-	};
-
-	const allowanceComparative = (approvate, coin) => {
-		if (!approvate) return 0;
-		const decimal = TOKENS[coin].decimals;
-		return amountBigReverse(approvate.toString(), decimal);
 	};
 
 	return { approvate, setApprovate, handleApprove };

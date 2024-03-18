@@ -24,8 +24,6 @@ export const adopterInit = {
 	idRegisteringEntity:0,
 	idEntity:0,
 	status: false,
-	nationality: "",
-	phoneCode: "",
 };
 
 export const petInit = {

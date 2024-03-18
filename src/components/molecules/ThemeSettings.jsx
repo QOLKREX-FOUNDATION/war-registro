@@ -11,13 +11,8 @@ const ThemeSettings = () => {
     useStateContext();
 
   return (
-    <>
-      <div
-        onClick={() => setThemeSettings(false)}
-        className="fixed z-[200] bg-half-transparent w-screen nav-item top-0 right-0 justify-center items-center  overflow-x-hidden overflow-y-auto inset-0 outline-none focus:outline-none hover:cursor-pointer">
-      </div>
-      {/* <div className="fixed left-0 z-[300] h-screen dark:text-gray-200  bg-white dark:bg-[#484B52] md:w-400 w-72"> */}
-      <div className=" md:w-400 w-72 fixed mx-auto h-full z-[210] top-0 right-0 dark:text-gray-200  bg-white dark:bg-[#484B52]">
+    <div className="bg-half-transparent w-screen fixed nav-item top-0 right-0 z-50">
+      <div className="float-right h-screen dark:text-gray-200  bg-white dark:bg-[#484B52] md:w-400 w-72">
         <div className="flex justify-between items-center p-4 ml-4">
           <p className="font-semibold text-lg">Ajustes</p>
           <button
@@ -93,7 +88,7 @@ const ThemeSettings = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

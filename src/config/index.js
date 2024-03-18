@@ -32,7 +32,6 @@ import {
   WEB3_NETWORK_MAINNET,
   WEB3_NETWORK_TESTNET,
 } from "./constants/networks";
-export { countryConfig, countryLabel } from "./ubigeo/countryConfig"
 
 /**
  * @ENTORNO

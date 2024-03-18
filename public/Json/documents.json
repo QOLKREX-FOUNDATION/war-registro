@@ -2,7 +2,7 @@
 	"documents": {
 		"CO": {
 			"NATURAL": {
-				"identity": "D.I."
+				"identity": "C.I."
 			},
 			"LEGAL": {
 				"identity": ""
@@ -10,7 +10,7 @@
 		},
 		"EC": {
 			"NATURAL": {
-				"identity": "CEDULA"
+				"identity": "C.I."
 			},
 			"LEGAL": {
 				"identity": ""
@@ -26,7 +26,7 @@
 		},
 		"HN": {
 			"NATURAL": {
-				"identity": "D.N.I."
+				"identity": "T.I."
 			},
 			"LEGAL": {
 				"identity": ""
@@ -47,14 +47,6 @@
 			},
 			"LEGAL": {
 				"identity": ""
-			}
-		},
-		"ES": {
-			"NATURAL": {
-				"identity": "D.N.I."
-			},
-			"LEGAL": {
-				"identity": "C.I.F."
 			}
 		}
 	}

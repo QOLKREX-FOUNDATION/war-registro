@@ -32,7 +32,6 @@ export const ChooseCurrency = ({
 			web3.wallet !== null &&
 			chainIdValidate(web3.chainId, CHAIN_ID)
 		) {
-			console.log(web3.wallet, contract)
 			getPriceCompare(web3.wallet, contract)
 				.then((resolve) => {
 					console.log("resolve", amountBigReverse(resolve, TOKENS["USDC"].decimals) / variantPrice);

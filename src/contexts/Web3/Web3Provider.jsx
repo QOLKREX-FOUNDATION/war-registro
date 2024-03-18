@@ -32,8 +32,6 @@ export const Web3Provider = ({ children }) => {
 	}, []);
 
 	const handleAccount = useCallback((account) => {
-		// console.log(account)
-		sessionStorage.setItem("account", account);
 		dispatch({
 			type: "account",
 			payload: account,
@@ -80,7 +78,6 @@ export const Web3Provider = ({ children }) => {
 		} catch (error) {
 			console.log(error);
 		}
-		// console.log(state)
 	}, [state.wallet, state.account, handleChainId]);
 
 	const web3 = useMemo(() => state, [state]);

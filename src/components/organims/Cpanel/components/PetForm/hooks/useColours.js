@@ -1,31 +1,32 @@
-import { useCallback, useContext, useEffect, useState } from "react";
-import { WarContext } from "../../../../../../contexts/War/WarContext";
+import { useEffect, useMemo, useState } from "react";
+// import { LangContext } from "../../contexts/Localization/LangContext";
+import coloursJson from "../../../../../../../public/Json/colours.json";
 
 const lang = { locale: "es-Es" };
 
+
 export const useColours = () => {
-  const [colours, setColours] = useState([]);
-  const { colorsData } = useContext(WarContext);
+	// const { lang } = useContext(LangContext);
+	const [colours, setColours] = useState([]);
 
-  const handleColours = useCallback(() => {
-    const colours = [];
-    for (let i = 0; i < colorsData?.length; i++) {
-      colours.push({
-        label:
-          lang.locale === "es-Es"
-            ? colorsData[i]["nameSpanish"]
-            : colorsData[i]["nameEnglish"],
-        value: colorsData[i]["name"],
-      });
-    }
-    return colours;
-  }, [colorsData]);
+	const handleColours = useMemo(() => {
+		const temp = [];
+		for (let i = 0; i < coloursJson.length; i++) {
+			temp.push({
+				label: coloursJson[i][lang.locale],
+				value: coloursJson[i].value,
+				hex:coloursJson[i].hex
+			}); 
+		}
+		return temp;
+	}, [lang.locale]);
 
-  useEffect(() => {
-    setColours(handleColours());
-  }, [handleColours]);
+	useEffect(() => {
+		setColours(handleColours);
+	}, [lang.locale, handleColours]);
 
-  return {
-    colours,
-  };
+
+	return {
+		colours,
+	};
 };

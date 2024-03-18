@@ -18,7 +18,7 @@ export const Status = ({ chip, pet, handleClose, handleGetRecords }) => {
 	const { web3 } = useContext(Web3Context);
 	const { handlePreloader } = useContext(PreloaderContext);
 
-	const { register: statusNew, watch, setValue } = useForm({
+	const { register: statusNew, watch } = useForm({
 		defaultValues: { status: pet.status },
 	});
 	const [statusOptions] = useState(selectStatus);
@@ -78,12 +78,6 @@ export const Status = ({ chip, pet, handleClose, handleGetRecords }) => {
 							name="status"
 							formInput={statusNew("status")}
 							options={statusOptions}
-							onChange={{
-								onChange: ({target}) => {
-									setValue("status", target.value)
-								},
-							}}
-							value={watch("status")}
 						/>
 					</div>
 

@@ -119,7 +119,7 @@ export const MainTable = ({ data, handleGetRecords }) => {
 			emptyValue: () => <em></em>,
 		},
 		{
-			title: "Esterilizado",
+			title: "Estirilizado",
 			field: "sterilized",
 			emptyValue: () => <em></em>,
 		},
@@ -206,7 +206,7 @@ export const MainTable = ({ data, handleGetRecords }) => {
 			field: "date",
 		},
 		{
-			title: "Esterilizado",
+			title: "Estirilizado",
 			field: "sterilized",
 		},
 		{
@@ -344,7 +344,7 @@ export const MainTable = ({ data, handleGetRecords }) => {
 			)}
 
 			{openDoc && (
-				<FormModal isFullScreen handleClose={setOpenDoc} title="Documentos">
+				<FormModal handleClose={setOpenDoc} title="Documentos">
 					<Documents chip={chip} />
 				</FormModal>
 			)}

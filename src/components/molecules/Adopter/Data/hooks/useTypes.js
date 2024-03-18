@@ -4,26 +4,26 @@ import typeJson from "../../../../../../public/Json/type.json";
 const lang = { locale: "es-Es" };
 
 export const useType = () => {
-  // const { lang } = useContext(LangContext);
-  const [types, setTypes] = useState([]);
+	// const { lang } = useContext(LangContext);
+	const [types, setTypes] = useState([]);
 
-  const handleTypes = useMemo(() => {
-    const temp = [];
-    for (let i = 0; i < typeJson.type.length; i++) {
-      temp.push({
-        label: typeJson.type[i][lang.locale],
-        value: typeJson.type[i]["en-Us"],
-      });
-    }
+	const handleTypes = useMemo(() => {
+		const temp = [];
+		for (let i = 0; i < typeJson.type.length; i++) {
+			temp.push({
+				label: typeJson.type[i][lang.locale],
+				value: typeJson.type[i].value,
+			});
+		}
 
-    return temp;
-  }, [lang.locale]);
+		return temp;
+	}, [lang.locale]);
 
-  useEffect(() => {
-    setTypes(handleTypes);
-  }, [lang.locale, handleTypes]);
+	useEffect(() => {
+		setTypes(handleTypes);
+	}, [lang.locale, handleTypes]);
 
-  return {
-    types,
-  };
+	return {
+		types,
+	};
 };

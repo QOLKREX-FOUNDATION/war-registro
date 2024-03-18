@@ -130,7 +130,6 @@ export const FormVaccines = ({
                     },
                   })}
                   onChange={(target) => setPet("product", target.value)}
-                  value={watch("product")}
                   required
                   options={[
                     {

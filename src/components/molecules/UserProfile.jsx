@@ -14,7 +14,7 @@ const UserProfile = () => {
   const router = useRouter();
 
   const handleProfile = () => {
-    router.push(`/${ web3.rol }/profile`);
+    router.push(`/${web3.rol}/profile`);
     setIsClicked(initialState);
   };
 
@@ -61,7 +61,6 @@ const UserProfile = () => {
           onClick={() => {
             logout(web3, handleWeb3, handleToken, handleAccount);
             router.push(`/login`);
-            sessionStorage.removeItem("account")
           }}
         >
           <ButtonUser

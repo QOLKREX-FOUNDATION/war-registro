@@ -64,14 +64,10 @@ export const Sheet = ({
 						<img
 							className={classes.firulaixT}
 							style={{
-								// maxHeight: impComplete ? "100px" : ajust.height / 30,
+								maxHeight: impComplete ? "45px" : ajust.height / 30,
 								maxWidth: impComplete ? "150px" : ajust.height / 8,
-								// minWidth: impComplete ? "150px" : ajust.height / 8,
-								minHeight: "66.33px",
-								height: "87px",
-								width: "100px",
 							}}
-							src="/img/logo/logo-icon.png"
+							src="/img/certificate/firulaix.png"
 							alt="firulaix"
 						/>
 
@@ -101,8 +97,7 @@ export const Sheet = ({
 						maxHeight: imp ? "45px" : ajust.height / 30,
 						maxWidth: imp ? "150px" : ajust.height / 8,
 					}}
-					// src={`https://firulaixcoin.finance/images/logos/${ petValues?.idRegisteringEntity }.png`}
-					src={`https://res.cloudinary.com/worldanireg/image/upload/v1701811578/entityRegister/logo/${petValues?.idRegisteringEntity}.png`}
+					src={`https://firulaixcoin.finance/images/logos/${ petValues?.idRegisteringEntity }.png`}
 					onError={({ currentTarget }) => {
 						currentTarget.onerror = null;
 						currentTarget.src = `/img/logo/2.png`;
@@ -292,7 +287,7 @@ export const Sheet = ({
 						}`}
 					style={{ fontSize: imp ? "12px" : ajust.height / 95 }}
 				>
-					W.A.R. | Todos los derechos reservados
+					Firulaix | Todos los derechos reservados
 				</p>
 
 				<p
@@ -300,7 +295,7 @@ export const Sheet = ({
 						}`}
 					style={{ fontSize: imp ? "15px" : ajust.height / 80 }}
 				>
-					worldanimalregistry.org
+					firulaixcoin.finance
 				</p>
 
 				<p
