@@ -26,7 +26,9 @@ export const DataSensitive = ({
     handleDepartaments,
     handleProvinces,
     handleDistricts,
-  } = useUbigeo(localStorage.getItem("countryCode") || watchAdopter("country") || "PE");
+  } = useUbigeo(
+    watchAdopter("country") || "PE"
+  );
 
   const { codes, getCodes } = useCodePhone();
   useEffect(() => {
@@ -95,12 +97,18 @@ export const DataSensitive = ({
               label: `${values?.name} (${values?.phoneCode})`,
               value: values?.id,
             }))}
-            value={codes
-              .map((values) => ({
-                label: `${values?.name} (${values?.phoneCode})`,
-                value: values?.id,
-              }))
-              .find(({ value }) => value === watchAdopter("phoneCode"))}
+            value={{
+              label: `${
+                codes.find(
+                  ({ countryCode }) => countryCode === watchAdopter("country")
+                )?.name
+              } (${
+                codes.find(
+                  ({ countryCode }) => countryCode === watchAdopter("country")
+                )?.phoneCode
+              })`,
+              value: watchAdopter("phoneCode"),
+            }}
             onChange={(target) => {
               setAdopter("phoneCode", target.value);
             }}

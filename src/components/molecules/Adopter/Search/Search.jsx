@@ -7,6 +7,7 @@ import { Input, ReactSelect, Select } from "../../../atoms/Form";
 import { useDocuments } from "./hooks/useDocuments";
 import { usePerson } from "./hooks/usePerson";
 import { getInfoByIp } from "../../../../utils/getInfoByIp";
+import { firuApi } from "../../../../../api";
 
 export const Search = ({
   adopterValues,
@@ -54,6 +55,23 @@ export const Search = ({
       localStorage.setItem("countryCode", countryER);
     }
   }, [watchAdopter("country")]);
+
+  useEffect(() => {
+    const getCountry = async () => {
+      const idRegisteringEntity = sessionStorage.getItem(
+        "user_" + String(web3.account).toUpperCase()
+      );
+      const addressRegisteringEntity = JSON.parse(
+        idRegisteringEntity
+      ).registeringEntity
+      const res2 =  await firuApi.get(`entity-register/info/${addressRegisteringEntity}`);
+
+      const countryER = res2.data.user.entityRegister.country;
+
+      setAdopter("country", countryER);
+    }
+    getCountry();
+  }, [])
 
   // useEffect(() => {
   // 	getAdopter({

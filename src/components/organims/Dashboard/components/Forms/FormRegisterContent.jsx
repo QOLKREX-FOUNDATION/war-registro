@@ -179,12 +179,17 @@ export const FormRegisterContent = () => {
             if (address) {
                 // Si solo viene el parámetro address
                 res = await firuApi.get(`/form/address/${ address }`);
+                const res2 = await firuApi.get(`entity-register/info/${address}`);
+                console.log({
+                    res2: res2.data.user
+                })
                 console.log("3")
 
                 if (res.data.ok === false) return;
+                if (res2.data.ok === false) return;
                 setFormData({
                     adopter: {
-                        country: adopterFormRegister.country,
+                        country: res2.data.user.entityRegister.country,
                         person: adopterFormRegister.person,
                         documentType: adopterFormRegister.documentType,
                         documentNumber: adopterFormRegister.documentNumber,
@@ -212,7 +217,7 @@ export const FormRegisterContent = () => {
                         microchip: adopterFormRegister.microchip,
                         dateMicrochip: adopterFormRegister.dateMicrochip,
                         firstNamePet: adopterFormRegister.firstNamePet,
-                        countryPet: adopterFormRegister.countryPet,
+                        countryPet: res2.data.user.entityRegister.country,
                         birthDatePet: adopterFormRegister.birthDatePet,
                         adoptionDate: adopterFormRegister.adoptionDate,
                         adoptionDate: adopterFormRegister.adoptionDate,
