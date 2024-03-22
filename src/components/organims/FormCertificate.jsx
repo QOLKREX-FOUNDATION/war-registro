@@ -10,6 +10,8 @@ export const FormCertificate = ({ formId, petValues, adopter }) => {
     const [error, setError] = useState(false)
     const { web3 } = useWeb3Context();
 
+    // console.log(adopter)
+    // console.log(petValues)
     useEffect(() => {
         if (formId === "" || formId === undefined) {
             setLoading(true);
@@ -51,7 +53,6 @@ export const FormCertificate = ({ formId, petValues, adopter }) => {
                                 :
                                 <FormPrint selectedForm={
                                     {
-                                        ...form,
                                         pet: {
                                             microchip: petValues.chip,
                                             dateMicrochip: petValues.chipDate,
@@ -59,7 +60,7 @@ export const FormCertificate = ({ formId, petValues, adopter }) => {
                                             countryPet: petValues.country,
                                             birthDatePet: petValues.date,
                                             adoptionDate: petValues.dateAdoption,
-                                            genderPet: petValues.gender === 'MALE' ? 'M' : 'H',
+                                            genderPet: petValues.gender === 'MALE' ? 'H' : 'M',
                                             specie: petValues.type,
                                             race: petValues.race,
                                             color: petValues.colour,
@@ -92,7 +93,8 @@ export const FormCertificate = ({ formId, petValues, adopter }) => {
                                             jurament1: form?.adopter?.jurament1,
                                             isMicrochip: form?.adopter?.isMicrochip,
                                             jurament3: form?.adopter?.jurament3,
-                                        }
+                                        },
+                                        ...form,
                                     }
                                 } />
                         }
