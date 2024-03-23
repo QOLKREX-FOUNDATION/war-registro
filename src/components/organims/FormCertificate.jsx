@@ -4,6 +4,8 @@ import { useWeb3Context } from "../../contexts";
 import { firuApi } from "../../../api";
 import { useState } from "react";
 import dayjs from "dayjs";
+const utc = require('dayjs/plugin/utc')
+dayjs.extend(utc)
 
 export const FormCertificate = ({ formId, petValues, adopter }) => {
   const [form, setForm] = useState([]);
@@ -13,7 +15,8 @@ export const FormCertificate = ({ formId, petValues, adopter }) => {
 
 //   console.log(adopter);
 //   console.log(petValues);
-  const date = dayjs(adopter.date).format("YYYY/MM/DD");
+  const date = dayjs.utc(adopter.date).format("YYYY/MM/DD");
+  console.log(date);
   useEffect(() => {
     if (formId === "" || formId === undefined) {
       setLoading(true);
