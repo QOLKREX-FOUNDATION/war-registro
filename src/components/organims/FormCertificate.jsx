@@ -69,7 +69,7 @@ export const FormCertificate = ({ formId, petValues, adopter }) => {
                   countryPet: petValues.country,
                   birthDatePet: petValues.date,
                   adoptionDate: petValues.dateAdoption,
-                  genderPet: petValues.gender === "MALE" ? "H" : "M",
+                  genderPet: petValues.gender === "MALE" ? "M" : "H",
                   specie: petValues.type,
                   race: petValues.race,
                   color: petValues.colour,
