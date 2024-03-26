@@ -1,0 +1,6740 @@
+[
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Abejorral",
+    "id": 1
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Abrego",
+    "id": 2
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Abriaqui",
+    "id": 3
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Acacias",
+    "id": 4
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Acandi",
+    "id": 5
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Acevedo",
+    "id": 6
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Achi",
+    "id": 7
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Agrado",
+    "id": 8
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Agua de Dios",
+    "id": 9
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Aguachica",
+    "id": 10
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Aguada",
+    "id": 11
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Aguadas",
+    "id": 12
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Aguazul",
+    "id": 13
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Agustin Codazzi",
+    "id": 14
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Aipe",
+    "id": 15
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Alban",
+    "id": 16
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Alban",
+    "id": 17
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Albania",
+    "id": 18
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Albania",
+    "id": 19
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Albania",
+    "id": 20
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Alcala",
+    "id": 21
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Aldana",
+    "id": 22
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Alejandria",
+    "id": 23
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Algarrobo",
+    "id": 24
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Algeciras",
+    "id": 25
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Almaguer",
+    "id": 26
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Almeida",
+    "id": 27
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Alpujarra",
+    "id": 28
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Altamira",
+    "id": 29
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Alto Baudo",
+    "id": 30
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Altos del Rosario",
+    "id": 31
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Alvarado",
+    "id": 32
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Amaga",
+    "id": 33
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Amalfi",
+    "id": 34
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Ambalema",
+    "id": 35
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Anapoima",
+    "id": 36
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Ancuya",
+    "id": 37
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Andalucia",
+    "id": 38
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Andes",
+    "id": 39
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Angelopolis",
+    "id": 40
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Angostura",
+    "id": 41
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Anolaima",
+    "id": 42
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Anori",
+    "id": 43
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Anserma",
+    "id": 44
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Ansermanuevo",
+    "id": 45
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Anza",
+    "id": 46
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Anzoategui",
+    "id": 47
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Apartado",
+    "id": 48
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Apia",
+    "id": 49
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Apulo",
+    "id": 50
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Aquitania",
+    "id": 51
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Aracataca",
+    "id": 52
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Aranzazu",
+    "id": 53
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Aratoca",
+    "id": 54
+  },
+  {
+    "department_id": 5,
+    "province_id": 3,
+    "name": "Arauca",
+    "id": 55
+  },
+  {
+    "department_id": 5,
+    "province_id": 3,
+    "name": "Arauquita",
+    "id": 56
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Arbelaez",
+    "id": 57
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Arboleda",
+    "id": 58
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Arboledas",
+    "id": 59
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Arboletes",
+    "id": 60
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Arcabuco",
+    "id": 61
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Arenal",
+    "id": 62
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Argelia",
+    "id": 63
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Argelia",
+    "id": 64
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Argelia",
+    "id": 65
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Ariguani",
+    "id": 66
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Arjona",
+    "id": 67
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Armenia",
+    "id": 68
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Armenia",
+    "id": 69
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Armero",
+    "id": 70
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Arroyohondo",
+    "id": 71
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Astrea",
+    "id": 72
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Ataco",
+    "id": 73
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Atrato",
+    "id": 74
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Ayapel",
+    "id": 75
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Bagado",
+    "id": 76
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Bahia Solano",
+    "id": 77
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Bajo Baudo",
+    "id": 78
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Balboa",
+    "id": 79
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Balboa",
+    "id": 80
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Baranoa",
+    "id": 81
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Baraya",
+    "id": 82
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Barbacoas",
+    "id": 83
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Barbosa",
+    "id": 84
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Barbosa",
+    "id": 85
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Barichara",
+    "id": 86
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Barranca de Upia",
+    "id": 87
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Barrancabermeja",
+    "id": 88
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Barrancas",
+    "id": 89
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Barranco de Loba",
+    "id": 90
+  },
+  {
+    "department_id": 5,
+    "province_id": 15,
+    "name": "Barranco Minas",
+    "id": 91
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Barranquilla",
+    "id": 92
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Becerril",
+    "id": 93
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Belalcazar",
+    "id": 94
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Belen",
+    "id": 95
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Belen",
+    "id": 96
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Belen de Bajira",
+    "id": 97
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Belen de Los Andaquies",
+    "id": 98
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Belen de Umbria",
+    "id": 99
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Bello",
+    "id": 100
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Belmira",
+    "id": 101
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Beltran",
+    "id": 102
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Berbeo",
+    "id": 103
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Betania",
+    "id": 104
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Beteitiva",
+    "id": 105
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Betulia",
+    "id": 106
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Betulia",
+    "id": 107
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Bituima",
+    "id": 108
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Boavita",
+    "id": 109
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Bochalema",
+    "id": 110
+  },
+  {
+    "department_id": 2,
+    "province_id": "Bogotá D.C.",
+    "name": "Bogota D.C.",
+    "id": 111
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Bojaca",
+    "id": 112
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Bojaya",
+    "id": 113
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Bolivar",
+    "id": 114
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Bolivar",
+    "id": 115
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Bolivar",
+    "id": 116
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Bosconia",
+    "id": 117
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Boyaca",
+    "id": 118
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Briceno",
+    "id": 119
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Briceno",
+    "id": 120
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Bucaramanga",
+    "id": 121
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Bucarasica",
+    "id": 122
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Buena Vista",
+    "id": 123
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Buenaventura",
+    "id": 124
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Buenavista",
+    "id": 125
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Buenavista",
+    "id": 126
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Buenavista",
+    "id": 127
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Buenos Aires",
+    "id": 128
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Buesaco",
+    "id": 129
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Bugalagrande",
+    "id": 130
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Buritica",
+    "id": 131
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Busbanza",
+    "id": 132
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Cabrera",
+    "id": 133
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Cabrera",
+    "id": 134
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Cabuyaro",
+    "id": 135
+  },
+  {
+    "department_id": 5,
+    "province_id": 15,
+    "name": "Cacahual",
+    "id": 136
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Caceres",
+    "id": 137
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Cachipay",
+    "id": 138
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Cachira",
+    "id": 139
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Cacota",
+    "id": 140
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Caicedo",
+    "id": 141
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Caicedonia",
+    "id": 142
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Caimito",
+    "id": 143
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Cajamarca",
+    "id": 144
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Cajibio",
+    "id": 145
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Cajica",
+    "id": 146
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Calamar",
+    "id": 147
+  },
+  {
+    "department_id": 5,
+    "province_id": 16,
+    "name": "Calamar",
+    "id": 148
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Calarca",
+    "id": 149
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Caldas",
+    "id": 150
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Caldas",
+    "id": 151
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Caldono",
+    "id": 152
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Cali",
+    "id": 153
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "California",
+    "id": 154
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Calima",
+    "id": 155
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Caloto",
+    "id": 156
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Campamento",
+    "id": 157
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Campo de La Cruz",
+    "id": 158
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Campoalegre",
+    "id": 159
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Campohermoso",
+    "id": 160
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Canalete",
+    "id": 161
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Candelaria",
+    "id": 162
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Candelaria",
+    "id": 163
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Cantagallo",
+    "id": 164
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Canasgordas",
+    "id": 165
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Caparrapi",
+    "id": 166
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Capitanejo",
+    "id": 167
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Caqueza",
+    "id": 168
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Caracoli",
+    "id": 169
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Caramanta",
+    "id": 170
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Carcasi",
+    "id": 171
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Carepa",
+    "id": 172
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Carmen de Apicala",
+    "id": 173
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Carmen de Carupa",
+    "id": 174
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Carmen del Darien",
+    "id": 175
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Carolina",
+    "id": 176
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Cartagena",
+    "id": 177
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Cartagena del Chaira",
+    "id": 178
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Cartago",
+    "id": 179
+  },
+  {
+    "department_id": 3,
+    "province_id": 31,
+    "name": "Caruru",
+    "id": 180
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Casabianca",
+    "id": 181
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Castilla la Nueva",
+    "id": 182
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Caucasia",
+    "id": 183
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Cepita",
+    "id": 184
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Cerete",
+    "id": 185
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Cerinza",
+    "id": 186
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Cerrito",
+    "id": 187
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Cerro San Antonio",
+    "id": 188
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Certegui",
+    "id": 189
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Chachagui",
+    "id": 190
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Chaguani",
+    "id": 191
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Chalan",
+    "id": 192
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Chameza",
+    "id": 193
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Chaparral",
+    "id": 194
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Charala",
+    "id": 195
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Charta",
+    "id": 196
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Chia",
+    "id": 197
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Chigorodo",
+    "id": 198
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Chima",
+    "id": 199
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Chima",
+    "id": 200
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Chimichagua",
+    "id": 201
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Chinacota",
+    "id": 202
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Chinavita",
+    "id": 203
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Chinchina",
+    "id": 204
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Chinu",
+    "id": 205
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Chipaque",
+    "id": 206
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Chipata",
+    "id": 207
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Chiquinquira",
+    "id": 208
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Chiquiza",
+    "id": 209
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Chiriguana",
+    "id": 210
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Chiscas",
+    "id": 211
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Chita",
+    "id": 212
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Chitaga",
+    "id": 213
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Chitaraque",
+    "id": 214
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Chivata",
+    "id": 215
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Chivolo",
+    "id": 216
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Chivor",
+    "id": 217
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Choachi",
+    "id": 218
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Choconta",
+    "id": 219
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Cicuco",
+    "id": 220
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Cienaga",
+    "id": 221
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Cienaga de Oro",
+    "id": 222
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Cienega",
+    "id": 223
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Cimitarra",
+    "id": 224
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Circasia",
+    "id": 225
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Cisneros",
+    "id": 226
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Ciudad Bolivar",
+    "id": 227
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Clemencia",
+    "id": 228
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Cocorna",
+    "id": 229
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Coello",
+    "id": 230
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Cogua",
+    "id": 231
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Colombia",
+    "id": 232
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Colon",
+    "id": 233
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Colon",
+    "id": 234
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Coloso",
+    "id": 235
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Combita",
+    "id": 236
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Concepcion",
+    "id": 237
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Concepcion",
+    "id": 238
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Concordia",
+    "id": 239
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Concordia",
+    "id": 240
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Condoto",
+    "id": 241
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Confines",
+    "id": 242
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Consaca",
+    "id": 243
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Contadero",
+    "id": 244
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Contratacion",
+    "id": 245
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Convencion",
+    "id": 246
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Copacabana",
+    "id": 247
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Coper",
+    "id": 248
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Cordoba",
+    "id": 249
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Cordoba",
+    "id": 250
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Cordoba",
+    "id": 251
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Corinto",
+    "id": 252
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Coromoro",
+    "id": 253
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Corozal",
+    "id": 254
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Corrales",
+    "id": 255
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Cota",
+    "id": 256
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Cotorra",
+    "id": 257
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Covarachia",
+    "id": 258
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Covenas",
+    "id": 259
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Coyaima",
+    "id": 260
+  },
+  {
+    "department_id": 5,
+    "province_id": 3,
+    "name": "Cravo Norte",
+    "id": 261
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Cuaspud",
+    "id": 262
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Cubara",
+    "id": 263
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Cubarral",
+    "id": 264
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Cucaita",
+    "id": 265
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Cucunuba",
+    "id": 266
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Cucuta",
+    "id": 267
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Cucutilla",
+    "id": 268
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Cuitiva",
+    "id": 269
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Cumaral",
+    "id": 270
+  },
+  {
+    "department_id": 5,
+    "province_id": 32,
+    "name": "Cumaribo",
+    "id": 271
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Cumbal",
+    "id": 272
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Cumbitara",
+    "id": 273
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Cunday",
+    "id": 274
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Curillo",
+    "id": 275
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Curiti",
+    "id": 276
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Curumani",
+    "id": 277
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Dabeiba",
+    "id": 278
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Dagua",
+    "id": 279
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Dibula",
+    "id": 280
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Distraccion",
+    "id": 281
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Dolores",
+    "id": 282
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Don Matias",
+    "id": 283
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Dosquebradas",
+    "id": 284
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Duitama",
+    "id": 285
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Durania",
+    "id": 286
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Ebejico",
+    "id": 287
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "El aguila",
+    "id": 288
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "El Bagre",
+    "id": 289
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "El Banco",
+    "id": 290
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "El Cairo",
+    "id": 291
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "El Calvario",
+    "id": 292
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "El Canton del San Pablo",
+    "id": 293
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "El Carmen",
+    "id": 294
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "El Carmen de Atrato",
+    "id": 295
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "El Carmen de Bolivar",
+    "id": 296
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "El Carmen de Chucuri",
+    "id": 297
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "El Carmen de Viboral",
+    "id": 298
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "El Castillo",
+    "id": 299
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "El Cerrito",
+    "id": 300
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "El Charco",
+    "id": 301
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "El Cocuy",
+    "id": 302
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "El Colegio",
+    "id": 303
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "El Copey",
+    "id": 304
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "El Doncello",
+    "id": 305
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "El Dorado",
+    "id": 306
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "El Dovio",
+    "id": 307
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "El Encanto",
+    "id": 308
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "El Espino",
+    "id": 309
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "El Guacamayo",
+    "id": 310
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "El Guamo",
+    "id": 311
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "El Litoral del San Juan",
+    "id": 312
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "El Molino",
+    "id": 313
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "El Paso",
+    "id": 314
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "El Paujil",
+    "id": 315
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "El Penol",
+    "id": 316
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "El Penon",
+    "id": 317
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "El Penon",
+    "id": 318
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "El Penon",
+    "id": 319
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "El Pinon",
+    "id": 320
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "El Playon",
+    "id": 321
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "El Reten",
+    "id": 322
+  },
+  {
+    "department_id": 5,
+    "province_id": 16,
+    "name": "El Retorno",
+    "id": 323
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "El Roble",
+    "id": 324
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "El Rosal",
+    "id": 325
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "El Rosario",
+    "id": 326
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "El Santuario",
+    "id": 327
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "El Tablon de Gomez",
+    "id": 328
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "El Tambo",
+    "id": 329
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "El Tambo",
+    "id": 330
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "El Tarra",
+    "id": 331
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "El Zulia",
+    "id": 332
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Elias",
+    "id": 333
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Encino",
+    "id": 334
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Enciso",
+    "id": 335
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Entrerrios",
+    "id": 336
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Envigado",
+    "id": 337
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Espinal",
+    "id": 338
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Facatativa",
+    "id": 339
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Falan",
+    "id": 340
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Filadelfia",
+    "id": 341
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Filandia",
+    "id": 342
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Firavitoba",
+    "id": 343
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Flandes",
+    "id": 344
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Florencia",
+    "id": 345
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Florencia",
+    "id": 346
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Floresta",
+    "id": 347
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Florian",
+    "id": 348
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Florida",
+    "id": 349
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Floridablanca",
+    "id": 350
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Fomeque",
+    "id": 351
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Fonseca",
+    "id": 352
+  },
+  {
+    "department_id": 5,
+    "province_id": 3,
+    "name": "Fortul",
+    "id": 353
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Fosca",
+    "id": 354
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Francisco Pizarro",
+    "id": 355
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Fredonia",
+    "id": 356
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Fresno",
+    "id": 357
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Frontino",
+    "id": 358
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Fuente de Oro",
+    "id": 359
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Fundacion",
+    "id": 360
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Funes",
+    "id": 361
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Funza",
+    "id": 362
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Fuquene",
+    "id": 363
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Fusagasuga",
+    "id": 364
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Gachala",
+    "id": 365
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Gachancipa",
+    "id": 366
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Gachantiva",
+    "id": 367
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Gacheta",
+    "id": 368
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Galan",
+    "id": 369
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Galapa",
+    "id": 370
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Galeras",
+    "id": 371
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Gama",
+    "id": 372
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Gamarra",
+    "id": 373
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Gambita",
+    "id": 374
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Gameza",
+    "id": 375
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Garagoa",
+    "id": 376
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Garzon",
+    "id": 377
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Genova",
+    "id": 378
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Gigante",
+    "id": 379
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Ginebra",
+    "id": 380
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Giraldo",
+    "id": 381
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Girardot",
+    "id": 382
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Girardota",
+    "id": 383
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Giron",
+    "id": 384
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Gomez Plata",
+    "id": 385
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Gonzalez",
+    "id": 386
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Gramalote",
+    "id": 387
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Granada",
+    "id": 388
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Granada",
+    "id": 389
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Granada",
+    "id": 390
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Guaca",
+    "id": 391
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Guacamayas",
+    "id": 392
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Guacari",
+    "id": 393
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Guachene",
+    "id": 394
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Guacheta",
+    "id": 395
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Guachucal",
+    "id": 396
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Guadalajara de Buga",
+    "id": 397
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Guadalupe",
+    "id": 398
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Guadalupe",
+    "id": 399
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Guadalupe",
+    "id": 400
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Guaduas",
+    "id": 401
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Guaitarilla",
+    "id": 402
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Gualmatan",
+    "id": 403
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Guamal",
+    "id": 404
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Guamal",
+    "id": 405
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Guamo",
+    "id": 406
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Guapi",
+    "id": 407
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Guapota",
+    "id": 408
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Guaranda",
+    "id": 409
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Guarne",
+    "id": 410
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Guasca",
+    "id": 411
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Guatape",
+    "id": 412
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Guataqui",
+    "id": 413
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Guatavita",
+    "id": 414
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Guateque",
+    "id": 415
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Guatica",
+    "id": 416
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Guavata",
+    "id": 417
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Guayabal de Siquima",
+    "id": 418
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Guayabetal",
+    "id": 419
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Guayata",
+    "id": 420
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Guepsa",
+    "id": 421
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Guican",
+    "id": 422
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Gutierrez",
+    "id": 423
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Hacari",
+    "id": 424
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Hatillo de Loba",
+    "id": 425
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Hato",
+    "id": 426
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Hato Corozal",
+    "id": 427
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Hatonuevo",
+    "id": 428
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Heliconia",
+    "id": 429
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Herran",
+    "id": 430
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Herveo",
+    "id": 431
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Hispania",
+    "id": 432
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Hobo",
+    "id": 433
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Honda",
+    "id": 434
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Ibague",
+    "id": 435
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Icononzo",
+    "id": 436
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Iles",
+    "id": 437
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Imues",
+    "id": 438
+  },
+  {
+    "department_id": 5,
+    "province_id": 15,
+    "name": "Inirida",
+    "id": 439
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Inza",
+    "id": 440
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Ipiales",
+    "id": 441
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Iquira",
+    "id": 442
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Isnos",
+    "id": 443
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Istmina",
+    "id": 444
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Itagui",
+    "id": 445
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Ituango",
+    "id": 446
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Iza",
+    "id": 447
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Jambalo",
+    "id": 448
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Jamundi",
+    "id": 449
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Jardin",
+    "id": 450
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Jenesano",
+    "id": 451
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Jerico",
+    "id": 452
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Jerico",
+    "id": 453
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Jerusalen",
+    "id": 454
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Jesus Maria",
+    "id": 455
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Jordan",
+    "id": 456
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Juan de Acosta",
+    "id": 457
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Junin",
+    "id": 458
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Jurado",
+    "id": 459
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "La Apartada",
+    "id": 460
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "La Argentina",
+    "id": 461
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "La Belleza",
+    "id": 462
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "La Calera",
+    "id": 463
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "La Capilla",
+    "id": 464
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "La Ceja",
+    "id": 465
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "La Celia",
+    "id": 466
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "La Chorrera",
+    "id": 467
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "La Cruz",
+    "id": 468
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "La Cumbre",
+    "id": 469
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "La Dorada",
+    "id": 470
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "La Esperanza",
+    "id": 471
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "La Estrella",
+    "id": 472
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "La Florida",
+    "id": 473
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "La Gloria",
+    "id": 474
+  },
+  {
+    "department_id": 5,
+    "province_id": 15,
+    "name": "La Guadalupe",
+    "id": 475
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "La Jagua de Ibirico",
+    "id": 476
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "La Jagua del Pilar",
+    "id": 477
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "La Llanada",
+    "id": 478
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "La Macarena",
+    "id": 479
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "La Merced",
+    "id": 480
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "La Mesa",
+    "id": 481
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "La Montanita",
+    "id": 482
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "La Palma",
+    "id": 483
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "La Paz",
+    "id": 484
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "La Paz",
+    "id": 485
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "La Pedrera",
+    "id": 486
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "La Pena",
+    "id": 487
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "La Pintada",
+    "id": 488
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "La Plata",
+    "id": 489
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "La Playa",
+    "id": 490
+  },
+  {
+    "department_id": 5,
+    "province_id": 32,
+    "name": "La Primavera",
+    "id": 491
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "La Salina",
+    "id": 492
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "La Sierra",
+    "id": 493
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "La Tebaida",
+    "id": 494
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "La Tola",
+    "id": 495
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "La Union",
+    "id": 496
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "La Union",
+    "id": 497
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "La Union",
+    "id": 498
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "La Union",
+    "id": 499
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "La Uvita",
+    "id": 500
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "La Vega",
+    "id": 501
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "La Vega",
+    "id": 502
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "La Victoria",
+    "id": 503
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "La Victoria",
+    "id": 504
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "La Victoria",
+    "id": 505
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "La Virginia",
+    "id": 506
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Labateca",
+    "id": 507
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Labranzagrande",
+    "id": 508
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Landazuri",
+    "id": 509
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Lebrija",
+    "id": 510
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Leguizamo",
+    "id": 511
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Leiva",
+    "id": 512
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Lejanias",
+    "id": 513
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Lenguazaque",
+    "id": 514
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Lerida",
+    "id": 515
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "Leticia",
+    "id": 516
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Libano",
+    "id": 517
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Liborina",
+    "id": 518
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Linares",
+    "id": 519
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Lloro",
+    "id": 520
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Lopez",
+    "id": 521
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Lorica",
+    "id": 522
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Los Andes",
+    "id": 523
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Los Cordobas",
+    "id": 524
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Los Palmitos",
+    "id": 525
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Los Patios",
+    "id": 526
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Los Santos",
+    "id": 527
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Lourdes",
+    "id": 528
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Luruaco",
+    "id": 529
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Macanal",
+    "id": 530
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Macaravita",
+    "id": 531
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Maceo",
+    "id": 532
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Macheta",
+    "id": 533
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Madrid",
+    "id": 534
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Magangue",
+    "id": 535
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Magui",
+    "id": 536
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Mahates",
+    "id": 537
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Maicao",
+    "id": 538
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Majagual",
+    "id": 539
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Malaga",
+    "id": 540
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Malambo",
+    "id": 541
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Mallama",
+    "id": 542
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Manati",
+    "id": 543
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Manaure",
+    "id": 544
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Manaure",
+    "id": 545
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Mani",
+    "id": 546
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Manizales",
+    "id": 547
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Manta",
+    "id": 548
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Manzanares",
+    "id": 549
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Mapiripan",
+    "id": 550
+  },
+  {
+    "department_id": 5,
+    "province_id": 15,
+    "name": "Mapiripana",
+    "id": 551
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Margarita",
+    "id": 552
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Maria la Baja",
+    "id": 553
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Marinilla",
+    "id": 554
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Maripi",
+    "id": 555
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Mariquita",
+    "id": 556
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Marmato",
+    "id": 557
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Marquetalia",
+    "id": 558
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Marsella",
+    "id": 559
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Marulanda",
+    "id": 560
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Matanza",
+    "id": 561
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Medellin",
+    "id": 562
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Medina",
+    "id": 563
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Medio Atrato",
+    "id": 564
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Medio Baudo",
+    "id": 565
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Medio San Juan",
+    "id": 566
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Melgar",
+    "id": 567
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Mercaderes",
+    "id": 568
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Mesetas",
+    "id": 569
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Milan",
+    "id": 570
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Miraflores",
+    "id": 571
+  },
+  {
+    "department_id": 5,
+    "province_id": 16,
+    "name": "Miraflores",
+    "id": 572
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Miranda",
+    "id": 573
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "Miriti Parana",
+    "id": 574
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Mistrato",
+    "id": 575
+  },
+  {
+    "department_id": 3,
+    "province_id": 31,
+    "name": "Mitu",
+    "id": 576
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Mocoa",
+    "id": 577
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Mogotes",
+    "id": 578
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Molagavita",
+    "id": 579
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Momil",
+    "id": 580
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Mompos",
+    "id": 581
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Mongua",
+    "id": 582
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Mongui",
+    "id": 583
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Moniquira",
+    "id": 584
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Montebello",
+    "id": 585
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Montecristo",
+    "id": 586
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Montelibano",
+    "id": 587
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Montenegro",
+    "id": 588
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Monteria",
+    "id": 589
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Monterrey",
+    "id": 590
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Monitos",
+    "id": 591
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Morales",
+    "id": 592
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Morales",
+    "id": 593
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Morelia",
+    "id": 594
+  },
+  {
+    "department_id": 5,
+    "province_id": 15,
+    "name": "Morichal",
+    "id": 595
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Morroa",
+    "id": 596
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Mosquera",
+    "id": 597
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Mosquera",
+    "id": 598
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Motavita",
+    "id": 599
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Murillo",
+    "id": 600
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Murindo",
+    "id": 601
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Mutata",
+    "id": 602
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Mutiscua",
+    "id": 603
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Muzo",
+    "id": 604
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Narino",
+    "id": 605
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Narino",
+    "id": 606
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Narino",
+    "id": 607
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Nataga",
+    "id": 608
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Natagaima",
+    "id": 609
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Nechi",
+    "id": 610
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Necocli",
+    "id": 611
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Neira",
+    "id": 612
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Neiva",
+    "id": 613
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Nemocon",
+    "id": 614
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Nilo",
+    "id": 615
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Nimaima",
+    "id": 616
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Nobsa",
+    "id": 617
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Nocaima",
+    "id": 618
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Norcasia",
+    "id": 619
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Norosi",
+    "id": 620
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Novita",
+    "id": 621
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Nueva Granada",
+    "id": 622
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Nuevo Colon",
+    "id": 623
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Nunchia",
+    "id": 624
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Nuqui",
+    "id": 625
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Obando",
+    "id": 626
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Ocamonte",
+    "id": 627
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Ocana",
+    "id": 628
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Oiba",
+    "id": 629
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Oicata",
+    "id": 630
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Olaya",
+    "id": 631
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Olaya Herrera",
+    "id": 632
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Onzaga",
+    "id": 633
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Oporapa",
+    "id": 634
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Orito",
+    "id": 635
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Orocue",
+    "id": 636
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Ortega",
+    "id": 637
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Ospina",
+    "id": 638
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Otanche",
+    "id": 639
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Ovejas",
+    "id": 640
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Pachavita",
+    "id": 641
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Pacho",
+    "id": 642
+  },
+  {
+    "department_id": 3,
+    "province_id": 31,
+    "name": "Pacoa",
+    "id": 643
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Pacora",
+    "id": 644
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Padilla",
+    "id": 645
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Paez",
+    "id": 646
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Paez",
+    "id": 647
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Paicol",
+    "id": 648
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Pailitas",
+    "id": 649
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Paime",
+    "id": 650
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Paipa",
+    "id": 651
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Pajarito",
+    "id": 652
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Palermo",
+    "id": 653
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Palestina",
+    "id": 654
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Palestina",
+    "id": 655
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Palmar",
+    "id": 656
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Palmar de Varela",
+    "id": 657
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Palmas del Socorro",
+    "id": 658
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Palmira",
+    "id": 659
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Palmito",
+    "id": 660
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Palocabildo",
+    "id": 661
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Pamplona",
+    "id": 662
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Pamplonita",
+    "id": 663
+  },
+  {
+    "department_id": 5,
+    "province_id": 15,
+    "name": "Pana Pana",
+    "id": 664
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Pandi",
+    "id": 665
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Panqueba",
+    "id": 666
+  },
+  {
+    "department_id": 3,
+    "province_id": 31,
+    "name": "Papunahua",
+    "id": 667
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Paramo",
+    "id": 668
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Paratebueno",
+    "id": 669
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Pasca",
+    "id": 670
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Pasto",
+    "id": 671
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Patia",
+    "id": 672
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Pauna",
+    "id": 673
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Paya",
+    "id": 674
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Paz de Ariporo",
+    "id": 675
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Paz de Rio",
+    "id": 676
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Pedraza",
+    "id": 677
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Pelaya",
+    "id": 678
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Pensilvania",
+    "id": 679
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Penol",
+    "id": 680
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Peque",
+    "id": 681
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Pereira",
+    "id": 682
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Pesca",
+    "id": 683
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Piamonte",
+    "id": 684
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Piedecuesta",
+    "id": 685
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Piedras",
+    "id": 686
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Piendamo",
+    "id": 687
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Pijao",
+    "id": 688
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Pijino del Carmen",
+    "id": 689
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Pinchote",
+    "id": 690
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Pinillos",
+    "id": 691
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Piojo",
+    "id": 692
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Pisba",
+    "id": 693
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Pital",
+    "id": 694
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Pitalito",
+    "id": 695
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Pivijay",
+    "id": 696
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Planadas",
+    "id": 697
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Planeta Rica",
+    "id": 698
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Plato",
+    "id": 699
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Policarpa",
+    "id": 700
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Polonuevo",
+    "id": 701
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Ponedera",
+    "id": 702
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Popayan",
+    "id": 703
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Pore",
+    "id": 704
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Potosi",
+    "id": 705
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Pradera",
+    "id": 706
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Prado",
+    "id": 707
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Providencia",
+    "id": 708
+  },
+  {
+    "department_id": 1,
+    "province_id": 26,
+    "name": "Providencia",
+    "id": 709
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Pueblo Bello",
+    "id": 710
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Pueblo Nuevo",
+    "id": 711
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Pueblo Rico",
+    "id": 712
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Pueblo Viejo",
+    "id": 713
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Pueblorrico",
+    "id": 714
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Puente Nacional",
+    "id": 715
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Puerres",
+    "id": 716
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "Puerto Alegria",
+    "id": 717
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "Puerto Arica",
+    "id": 718
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Puerto Asis",
+    "id": 719
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Puerto Berrio",
+    "id": 720
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Puerto Boyaca",
+    "id": 721
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Puerto Caicedo",
+    "id": 722
+  },
+  {
+    "department_id": 5,
+    "province_id": 32,
+    "name": "Puerto Carreno",
+    "id": 723
+  },
+  {
+    "department_id": 5,
+    "province_id": 15,
+    "name": "Puerto Colombia",
+    "id": 724
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Puerto Colombia",
+    "id": 725
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Puerto Concordia",
+    "id": 726
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Puerto Escondido",
+    "id": 727
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Puerto Gaitan",
+    "id": 728
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Puerto Guzman",
+    "id": 729
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Puerto Libertador",
+    "id": 730
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Puerto Lleras",
+    "id": 731
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Puerto Lopez",
+    "id": 732
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Puerto Nare",
+    "id": 733
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "Puerto Narino",
+    "id": 734
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Puerto Parra",
+    "id": 735
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Puerto Rico",
+    "id": 736
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Puerto Rico",
+    "id": 737
+  },
+  {
+    "department_id": 5,
+    "province_id": 3,
+    "name": "Puerto Rondon",
+    "id": 738
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Puerto Salgar",
+    "id": 739
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "Puerto Santander",
+    "id": 740
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Puerto Santander",
+    "id": 741
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Puerto Tejada",
+    "id": 742
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Puerto Triunfo",
+    "id": 743
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Puerto Wilches",
+    "id": 744
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Puli",
+    "id": 745
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Pupiales",
+    "id": 746
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Purace",
+    "id": 747
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Purificacion",
+    "id": 748
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Purisima",
+    "id": 749
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Quebradanegra",
+    "id": 750
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Quetame",
+    "id": 751
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Quibdo",
+    "id": 752
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Quimbaya",
+    "id": 753
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Quinchia",
+    "id": 754
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Quipama",
+    "id": 755
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Quipile",
+    "id": 756
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Ragonvalia",
+    "id": 757
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Ramiriqui",
+    "id": 758
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Raquira",
+    "id": 759
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Recetor",
+    "id": 760
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Regidor",
+    "id": 761
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Remedios",
+    "id": 762
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Remolino",
+    "id": 763
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Repelon",
+    "id": 764
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Restrepo",
+    "id": 765
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Restrepo",
+    "id": 766
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Retiro",
+    "id": 767
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Ricaurte",
+    "id": 768
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Ricaurte",
+    "id": 769
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Rio Blanco",
+    "id": 770
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Rio de Oro",
+    "id": 771
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Rio Iro",
+    "id": 772
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Rio Quito",
+    "id": 773
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Rio Viejo",
+    "id": 774
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Riofrio",
+    "id": 775
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Riohacha",
+    "id": 776
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Rionegro",
+    "id": 777
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Rionegro",
+    "id": 778
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Riosucio",
+    "id": 779
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Riosucio",
+    "id": 780
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Risaralda",
+    "id": 781
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Rivera",
+    "id": 782
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Roberto Payan",
+    "id": 783
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Roldanillo",
+    "id": 784
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Roncesvalles",
+    "id": 785
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Rondon",
+    "id": 786
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Rosas",
+    "id": 787
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Rovira",
+    "id": 788
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Sabana de Torres",
+    "id": 789
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Sabanagrande",
+    "id": 790
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Sabanalarga",
+    "id": 791
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Sabanalarga",
+    "id": 792
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Sabanalarga",
+    "id": 793
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Sabanas de San Angel",
+    "id": 794
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Sabaneta",
+    "id": 795
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Saboya",
+    "id": 796
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Sacama",
+    "id": 797
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Sachica",
+    "id": 798
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Sahagun",
+    "id": 799
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Saladoblanco",
+    "id": 800
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Salamina",
+    "id": 801
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Salamina",
+    "id": 802
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Salazar",
+    "id": 803
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Saldana",
+    "id": 804
+  },
+  {
+    "department_id": 4,
+    "province_id": 24,
+    "name": "Salento",
+    "id": 805
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Salgar",
+    "id": 806
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Samaca",
+    "id": 807
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Samana",
+    "id": 808
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Samaniego",
+    "id": 809
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Sampues",
+    "id": 810
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "San Agustin",
+    "id": 811
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "San Alberto",
+    "id": 812
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "San Andres",
+    "id": 813
+  },
+  {
+    "department_id": 1,
+    "province_id": 26,
+    "name": "San Andres",
+    "id": 814
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Andres de Cuerquia",
+    "id": 815
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "San Andres de Tumaco",
+    "id": 816
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "San Andres Sotavento",
+    "id": 817
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "San Antero",
+    "id": 818
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "San Antonio",
+    "id": 819
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "San Antonio del Tequendama",
+    "id": 820
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "San Benito",
+    "id": 821
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "San Benito Abad",
+    "id": 822
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "San Bernardo",
+    "id": 823
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "San Bernardo",
+    "id": 824
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "San Bernardo del Viento",
+    "id": 825
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "San Calixto",
+    "id": 826
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "San Carlos",
+    "id": 827
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Carlos",
+    "id": 828
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "San Carlos de Guaroa",
+    "id": 829
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "San Cayetano",
+    "id": 830
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "San Cayetano",
+    "id": 831
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "San Cristobal",
+    "id": 832
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "San Diego",
+    "id": 833
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "San Eduardo",
+    "id": 834
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "San Estanislao",
+    "id": 835
+  },
+  {
+    "department_id": 5,
+    "province_id": 15,
+    "name": "San Felipe",
+    "id": 836
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "San Fernando",
+    "id": 837
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Francisco",
+    "id": 838
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "San Francisco",
+    "id": 839
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "San Francisco",
+    "id": 840
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "San Gil",
+    "id": 841
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "San Jacinto",
+    "id": 842
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "San Jacinto del Cauca",
+    "id": 843
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Jeronimo",
+    "id": 844
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "San Joaquin",
+    "id": 845
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "San Jose",
+    "id": 846
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Jose de La Montana",
+    "id": 847
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "San Jose de Miranda",
+    "id": 848
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "San Jose de Pare",
+    "id": 849
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "San Jose de Ure",
+    "id": 850
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "San Jose del Fragua",
+    "id": 851
+  },
+  {
+    "department_id": 5,
+    "province_id": 16,
+    "name": "San Jose del Guaviare",
+    "id": 852
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "San Jose del Palmar",
+    "id": 853
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "San Juan de Arama",
+    "id": 854
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "San Juan de Betulia",
+    "id": 855
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "San Juan de Rio Seco",
+    "id": 856
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Juan de Uraba",
+    "id": 857
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "San Juan del Cesar",
+    "id": 858
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "San Juan Nepomuceno",
+    "id": 859
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "San Juanito",
+    "id": 860
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "San Lorenzo",
+    "id": 861
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Luis",
+    "id": 862
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "San Luis",
+    "id": 863
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "San Luis de Gaceno",
+    "id": 864
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "San Luis de Gaceno",
+    "id": 865
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "San Luis de Since",
+    "id": 866
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "San Marcos",
+    "id": 867
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "San Martin",
+    "id": 868
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "San Martin",
+    "id": 869
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "San Martin de Loba",
+    "id": 870
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "San Mateo",
+    "id": 871
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "San Miguel",
+    "id": 872
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "San Miguel",
+    "id": 873
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "San Miguel de Sema",
+    "id": 874
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "San Onofre",
+    "id": 875
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "San Pablo",
+    "id": 876
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "San Pablo de Borbur",
+    "id": 877
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "San Pablo de Borbur",
+    "id": 878
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Pedro",
+    "id": 879
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "San Pedro",
+    "id": 880
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "San Pedro",
+    "id": 881
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "San Pedro de Cartago",
+    "id": 882
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Pedro de Uraba",
+    "id": 883
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "San Pelayo",
+    "id": 884
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Rafael",
+    "id": 885
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Roque",
+    "id": 886
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "San Sebastian",
+    "id": 887
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "San Sebastian de Buenavista",
+    "id": 888
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "San Vicente",
+    "id": 889
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "San Vicente de Chucuri",
+    "id": 890
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "San Vicente del Caguan",
+    "id": 891
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "San Zenon",
+    "id": 892
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Sandona",
+    "id": 893
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Santa Ana",
+    "id": 894
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Santa Barbara",
+    "id": 895
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Santa Barbara",
+    "id": 896
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Santa Barbara",
+    "id": 897
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Santa Barbara de Pinto",
+    "id": 898
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Santa Catalina",
+    "id": 899
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Santa Helena del Opon",
+    "id": 900
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Santa Isabel",
+    "id": 901
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Santa Lucia",
+    "id": 902
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Santa Maria",
+    "id": 903
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Santa Maria",
+    "id": 904
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Santa Marta",
+    "id": 905
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Santa Rosa",
+    "id": 906
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Santa Rosa",
+    "id": 907
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Santa Rosa de Cabal",
+    "id": 908
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Santa Rosa de Osos",
+    "id": 909
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Santa Rosa de Viterbo",
+    "id": 910
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Santa Rosa del Sur",
+    "id": 911
+  },
+  {
+    "department_id": 5,
+    "province_id": 32,
+    "name": "Santa Rosalia",
+    "id": 912
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Santa Sofia",
+    "id": 913
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Santacruz",
+    "id": 914
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Santafe de Antioquia",
+    "id": 915
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Santana",
+    "id": 916
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Santander de Quilichao",
+    "id": 917
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Santiago",
+    "id": 918
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Santiago",
+    "id": 919
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Santiago de Tolu",
+    "id": 920
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Santo Domingo",
+    "id": 921
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Santo Tomas",
+    "id": 922
+  },
+  {
+    "department_id": 4,
+    "province_id": 25,
+    "name": "Santuario",
+    "id": 923
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Sapuyes",
+    "id": 924
+  },
+  {
+    "department_id": 5,
+    "province_id": 3,
+    "name": "Saravena",
+    "id": 925
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Sardinata",
+    "id": 926
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Sasaima",
+    "id": 927
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Sativanorte",
+    "id": 928
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Sativasur",
+    "id": 929
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Segovia",
+    "id": 930
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Sesquile",
+    "id": 931
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Sevilla",
+    "id": 932
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Siachoque",
+    "id": 933
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Sibate",
+    "id": 934
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Sibundoy",
+    "id": 935
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Silos",
+    "id": 936
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Silvania",
+    "id": 937
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Silvia",
+    "id": 938
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Simacota",
+    "id": 939
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Simijaca",
+    "id": 940
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Simiti",
+    "id": 941
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Sincelejo",
+    "id": 942
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Sipi",
+    "id": 943
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Sitionuevo",
+    "id": 944
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Soacha",
+    "id": 945
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Soata",
+    "id": 946
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Socha",
+    "id": 947
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Socorro",
+    "id": 948
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Socota",
+    "id": 949
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Sogamoso",
+    "id": 950
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Solano",
+    "id": 951
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Soledad",
+    "id": 952
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Solita",
+    "id": 953
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Somondoco",
+    "id": 954
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Sonson",
+    "id": 955
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Sopetran",
+    "id": 956
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Soplaviento",
+    "id": 957
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Sopo",
+    "id": 958
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Sora",
+    "id": 959
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Soraca",
+    "id": 960
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Sotaquira",
+    "id": 961
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Sotara",
+    "id": 962
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Suaita",
+    "id": 963
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Suan",
+    "id": 964
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Suarez",
+    "id": 965
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Suarez",
+    "id": 966
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Suaza",
+    "id": 967
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Subachoque",
+    "id": 968
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Sucre",
+    "id": 969
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Sucre",
+    "id": 970
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Sucre",
+    "id": 971
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Suesca",
+    "id": 972
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Supata",
+    "id": 973
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Supia",
+    "id": 974
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Surata",
+    "id": 975
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Susa",
+    "id": 976
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Susacon",
+    "id": 977
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Sutamarchan",
+    "id": 978
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Sutatausa",
+    "id": 979
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Sutatenza",
+    "id": 980
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Tabio",
+    "id": 981
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Tado",
+    "id": 982
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Talaigua Nuevo",
+    "id": 983
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Tamalameque",
+    "id": 984
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Tamara",
+    "id": 985
+  },
+  {
+    "department_id": 5,
+    "province_id": 3,
+    "name": "Tame",
+    "id": 986
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Tamesis",
+    "id": 987
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Taminango",
+    "id": 988
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Tangua",
+    "id": 989
+  },
+  {
+    "department_id": 3,
+    "province_id": 31,
+    "name": "Taraira",
+    "id": 990
+  },
+  {
+    "department_id": 3,
+    "province_id": 1,
+    "name": "Tarapaca",
+    "id": 991
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Taraza",
+    "id": 992
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Tarqui",
+    "id": 993
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Tarso",
+    "id": 994
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tasco",
+    "id": 995
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Tauramena",
+    "id": 996
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Tausa",
+    "id": 997
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Tello",
+    "id": 998
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Tena",
+    "id": 999
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Tenerife",
+    "id": 1000
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Tenjo",
+    "id": 1001
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tenza",
+    "id": 1002
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Teorama",
+    "id": 1003
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Teruel",
+    "id": 1004
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Tesalia",
+    "id": 1005
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Tibacuy",
+    "id": 1006
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tibana",
+    "id": 1007
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tibasosa",
+    "id": 1008
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Tibirita",
+    "id": 1009
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Tibu",
+    "id": 1010
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Tierralta",
+    "id": 1011
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Timana",
+    "id": 1012
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Timbio",
+    "id": 1013
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Timbiqui",
+    "id": 1014
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tinjaca",
+    "id": 1015
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tipacoque",
+    "id": 1016
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Tiquisio",
+    "id": 1017
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Titiribi",
+    "id": 1018
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Toca",
+    "id": 1019
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Tocaima",
+    "id": 1020
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Tocancipa",
+    "id": 1021
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Togui",
+    "id": 1022
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Toledo",
+    "id": 1023
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Toledo",
+    "id": 1024
+  },
+  {
+    "department_id": 1,
+    "province_id": 28,
+    "name": "Tolu Viejo",
+    "id": 1025
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Tona",
+    "id": 1026
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Topaga",
+    "id": 1027
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Topaipi",
+    "id": 1028
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Toribio",
+    "id": 1029
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Toro",
+    "id": 1030
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tota",
+    "id": 1031
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Totoro",
+    "id": 1032
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Trinidad",
+    "id": 1033
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Trujillo",
+    "id": 1034
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Tubara",
+    "id": 1035
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Tuchin",
+    "id": 1036
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Tulua",
+    "id": 1037
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tunja",
+    "id": 1038
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tunungua",
+    "id": 1039
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Tuquerres",
+    "id": 1040
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Turbaco",
+    "id": 1041
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Turbana",
+    "id": 1042
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Turbo",
+    "id": 1043
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Turmeque",
+    "id": 1044
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tuta",
+    "id": 1045
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Tutaza",
+    "id": 1046
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Ubala",
+    "id": 1047
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Ubaque",
+    "id": 1048
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Ulloa",
+    "id": 1049
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Umbita",
+    "id": 1050
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Une",
+    "id": 1051
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Unguia",
+    "id": 1052
+  },
+  {
+    "department_id": 6,
+    "province_id": 12,
+    "name": "Union Panamericana",
+    "id": 1053
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Uramita",
+    "id": 1054
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Uribe",
+    "id": 1055
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Uribia",
+    "id": 1056
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Urrao",
+    "id": 1057
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Urumita",
+    "id": 1058
+  },
+  {
+    "department_id": 1,
+    "province_id": 4,
+    "name": "Usiacuri",
+    "id": 1059
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "utica",
+    "id": 1060
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Valdivia",
+    "id": 1061
+  },
+  {
+    "department_id": 1,
+    "province_id": 13,
+    "name": "Valencia",
+    "id": 1062
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Valle de Guamez",
+    "id": 1063
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Valle de San Jose",
+    "id": 1064
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Valle de San Juan",
+    "id": 1065
+  },
+  {
+    "department_id": 1,
+    "province_id": 11,
+    "name": "Valledupar",
+    "id": 1066
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Valparaiso",
+    "id": 1067
+  },
+  {
+    "department_id": 3,
+    "province_id": 8,
+    "name": "Valparaiso",
+    "id": 1068
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Vegachi",
+    "id": 1069
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Velez",
+    "id": 1070
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Venadillo",
+    "id": 1071
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Venecia",
+    "id": 1072
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Venecia",
+    "id": 1073
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Ventaquemada",
+    "id": 1074
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Vergara",
+    "id": 1075
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Versalles",
+    "id": 1076
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Vetas",
+    "id": 1077
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Viani",
+    "id": 1078
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Victoria",
+    "id": 1079
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Vigia del Fuerte",
+    "id": 1080
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Vijes",
+    "id": 1081
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Villa Caro",
+    "id": 1082
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Villa de Leyva",
+    "id": 1083
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Villa de San Diego de Ubate",
+    "id": 1084
+  },
+  {
+    "department_id": 2,
+    "province_id": 22,
+    "name": "Villa del Rosario",
+    "id": 1085
+  },
+  {
+    "department_id": 6,
+    "province_id": 10,
+    "name": "Villa Rica",
+    "id": 1086
+  },
+  {
+    "department_id": 3,
+    "province_id": 23,
+    "name": "Villagarzon",
+    "id": 1087
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Villagomez",
+    "id": 1088
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Villahermosa",
+    "id": 1089
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Villamaria",
+    "id": 1090
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Villanueva",
+    "id": 1091
+  },
+  {
+    "department_id": 1,
+    "province_id": 18,
+    "name": "Villanueva",
+    "id": 1092
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Villanueva",
+    "id": 1093
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Villanueva",
+    "id": 1094
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Villapinzon",
+    "id": 1095
+  },
+  {
+    "department_id": 3,
+    "province_id": 29,
+    "name": "Villarrica",
+    "id": 1096
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Villavicencio",
+    "id": 1097
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Villavieja",
+    "id": 1098
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Villeta",
+    "id": 1099
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Viota",
+    "id": 1100
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Viracacha",
+    "id": 1101
+  },
+  {
+    "department_id": 5,
+    "province_id": 20,
+    "name": "Vista Hermosa",
+    "id": 1102
+  },
+  {
+    "department_id": 4,
+    "province_id": 7,
+    "name": "Viterbo",
+    "id": 1103
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Yacopi",
+    "id": 1104
+  },
+  {
+    "department_id": 6,
+    "province_id": 21,
+    "name": "Yacuanquer",
+    "id": 1105
+  },
+  {
+    "department_id": 3,
+    "province_id": 17,
+    "name": "Yaguara",
+    "id": 1106
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Yali",
+    "id": 1107
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Yarumal",
+    "id": 1108
+  },
+  {
+    "department_id": 3,
+    "province_id": 31,
+    "name": "Yavarate",
+    "id": 1109
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Yolombo",
+    "id": 1110
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Yondo",
+    "id": 1111
+  },
+  {
+    "department_id": 5,
+    "province_id": 9,
+    "name": "Yopal",
+    "id": 1112
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Yotoco",
+    "id": 1113
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Yumbo",
+    "id": 1114
+  },
+  {
+    "department_id": 1,
+    "province_id": 5,
+    "name": "Zambrano",
+    "id": 1115
+  },
+  {
+    "department_id": 2,
+    "province_id": 27,
+    "name": "Zapatoca",
+    "id": 1116
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Zapayan",
+    "id": 1117
+  },
+  {
+    "department_id": 4,
+    "province_id": 2,
+    "name": "Zaragoza",
+    "id": 1118
+  },
+  {
+    "department_id": 6,
+    "province_id": 30,
+    "name": "Zarzal",
+    "id": 1119
+  },
+  {
+    "department_id": 2,
+    "province_id": 6,
+    "name": "Zetaquira",
+    "id": 1120
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Zipacon",
+    "id": 1121
+  },
+  {
+    "department_id": 2,
+    "province_id": 14,
+    "name": "Zipaquira",
+    "id": 1122
+  },
+  {
+    "department_id": 1,
+    "province_id": 19,
+    "name": "Zona Bananera",
+    "id": 1123
+  }
+]

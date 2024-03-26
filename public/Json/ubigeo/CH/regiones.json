@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Antofagasta"
+  },
+  {
+    "id": 2,
+    "name": "Arica y Parinacota"
+  },
+  {
+    "id": 3,
+    "name": "Atacama"
+  },
+  {
+    "id": 4,
+    "name": "Aysen del General Carlos Ibanez del Campo"
+  },
+  {
+    "id": 5,
+    "name": "Biobio"
+  },
+  {
+    "id": 6,
+    "name": "Coquimbo"
+  },
+  {
+    "id": 7,
+    "name": "La Araucania"
+  },
+  {
+    "id": 8,
+    "name": "Libertador General Bernardo O'Higgins"
+  },
+  {
+    "id": 9,
+    "name": "Los Lagos"
+  },
+  {
+    "id": 10,
+    "name": "Los Rios"
+  },
+  {
+    "id": 11,
+    "name": "Magallanes y de la Antartica Chilena"
+  },
+  {
+    "id": 12,
+    "name": "Maule"
+  },
+  {
+    "id": 13,
+    "name": "Metropolitana de Santiago"
+  },
+  {
+    "id": 14,
+    "name": "nuble"
+  },
+  {
+    "id": 15,
+    "name": "Tarapaca"
+  },
+  {
+    "id": 16,
+    "name": "Valparaiso"
+  }
+]

@@ -14,6 +14,14 @@ import esDistrictsJson from "../../../public/Json/ubigeo/ES/municipios.json";
 import hnDepartamentsJson from "../../../public/Json/ubigeo/HN/departamentos.json";
 import hnProvincesJson from "../../../public/Json/ubigeo/HN/municipios.json";
 import hnDistrictsJson from "../../../public/Json/ubigeo/HN/aldeas.json";
+// Colombia
+import coDepartamentsJson from "../../../public/Json/ubigeo/CO/regiones.json";
+import coProvincesJson from "../../../public/Json/ubigeo/CO/departamentos.json";
+import coDistrictsJson from "../../../public/Json/ubigeo/CO/municipios.json";
+// Chile
+import clDepartamentsJson from "../../../public/Json/ubigeo/CL/regiones.json";
+import clProvincesJson from "../../../public/Json/ubigeo/CL/provincias.json";
+import clDistrictsJson from "../../../public/Json/ubigeo/CL/comunas.json";
 
 
 export const countryConfig = {
@@ -36,7 +44,17 @@ export const countryConfig = {
     departmentsJson: hnDepartamentsJson,
     provincesJson: hnProvincesJson,
     districtsJson: hnDistrictsJson,
-  }
+  },
+  CO: {
+    departmentsJson: coDepartamentsJson,
+    provincesJson: coProvincesJson,
+    districtsJson: coDistrictsJson,
+  },
+  CL: {
+    departmentsJson: clDepartamentsJson,
+    provincesJson: clProvincesJson,
+    districtsJson: clDistrictsJson,
+  },
 };
 
 export const countryLabel = {
@@ -59,5 +77,15 @@ export const countryLabel = {
     departmentsLabel: "Departamento",
     provincesLabel: "Municipio",
     districtsLabel: "Colonia",
-  }
+  },
+  CO: {
+    departmentsLabel: "Región",
+    provincesLabel: "Departamento",
+    districtsLabel: "Municipio",
+  },
+  CL: {
+    departmentsLabel: "Región",
+    provincesLabel: "Provincia",
+    districtsLabel: "Comuna",
+  },
 }

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Amazonas",
+    "department_id": 3
+  },
+  {
+    "id": 2,
+    "name": "Antioquia",
+    "department_id": 4
+  },
+  {
+    "id": 3,
+    "name": "Arauca",
+    "department_id": 5
+  },
+  {
+    "id": 4,
+    "name": "Atlantico",
+    "department_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Bolivar",
+    "department_id": 1
+  },
+  {
+    "id": 6,
+    "name": "Boyaca",
+    "department_id": 2
+  },
+  {
+    "id": 7,
+    "name": "Caldas",
+    "department_id": 4
+  },
+  {
+    "id": 8,
+    "name": "Caqueta",
+    "department_id": 3
+  },
+  {
+    "id": 9,
+    "name": "Casanare",
+    "department_id": 5
+  },
+  {
+    "id": 10,
+    "name": "Cauca",
+    "department_id": 6
+  },
+  {
+    "id": 11,
+    "name": "Cesar",
+    "department_id": 1
+  },
+  {
+    "id": 12,
+    "name": "Choco",
+    "department_id": 6
+  },
+  {
+    "id": 13,
+    "name": "Cordoba",
+    "department_id": 1
+  },
+  {
+    "id": 14,
+    "name": "Cundinamarca",
+    "department_id": 2
+  },
+  {
+    "id": 15,
+    "name": "Guainia",
+    "department_id": 5
+  },
+  {
+    "id": 16,
+    "name": "Guaviare",
+    "department_id": 5
+  },
+  {
+    "id": 17,
+    "name": "Huila",
+    "department_id": 3
+  },
+  {
+    "id": 18,
+    "name": "La Guajira",
+    "department_id": 1
+  },
+  {
+    "id": 19,
+    "name": "Magdalena",
+    "department_id": 1
+  },
+  {
+    "id": 20,
+    "name": "Meta",
+    "department_id": 5
+  },
+  {
+    "id": 21,
+    "name": "Narino",
+    "department_id": 6
+  },
+  {
+    "id": 22,
+    "name": "Norte de Santander",
+    "department_id": 2
+  },
+  {
+    "id": 23,
+    "name": "Putumayo",
+    "department_id": 3
+  },
+  {
+    "id": 24,
+    "name": "Quindio",
+    "department_id": 4
+  },
+  {
+    "id": 25,
+    "name": "Risaralda",
+    "department_id": 4
+  },
+  {
+    "id": 26,
+    "name": "San Andres, Providencia y Santa Catalina",
+    "department_id": 1
+  },
+  {
+    "id": 27,
+    "name": "Santander",
+    "department_id": 2
+  },
+  {
+    "id": 28,
+    "name": "Sucre",
+    "department_id": 1
+  },
+  {
+    "id": 29,
+    "name": "Tolima",
+    "department_id": 3
+  },
+  {
+    "id": 30,
+    "name": "Valle del Cauca",
+    "department_id": 6
+  },
+  {
+    "id": 31,
+    "name": "Vaupes",
+    "department_id": 3
+  },
+  {
+    "id": 32,
+    "name": "Vichada",
+    "department_id": 5
+  }
+]
