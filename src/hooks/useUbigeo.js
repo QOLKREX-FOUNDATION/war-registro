@@ -67,7 +67,7 @@ export const useUbigeo = (country = "PE") => {
     if (!countryConfig[country]) return;
     setDepartments([]);
     const { departmentsJson } = countryConfig[country] || [{}];
-    const temp = departmentsJson.map((d) => ({ label: d.name.trim(), value: d.name.trim() }));
+    const temp = departmentsJson.map((d) => ({ label: d.name.trim().toUpperCase(), value: d.name.trim().toUpperCase() }));
     setDepartments(temp);
   };
 
@@ -83,7 +83,7 @@ export const useUbigeo = (country = "PE") => {
 
     const temp = provincesJson
       ?.filter((values) => values.department_id === departmentT?.id)
-      .map((province) => ({ label: province.name.trim(), value: province.name.trim() }));
+      .map((province) => ({ label: province.name.trim().toUpperCase(), value: province.name.trim().toUpperCase() }));
 
     setProvinces(temp);
   };

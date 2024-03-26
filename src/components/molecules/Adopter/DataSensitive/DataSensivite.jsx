@@ -183,6 +183,8 @@ export const DataSensitive = ({
         <div className="col-span-3 grid grid-cols-3 gap-x-4 gap-y-5">
           {watchAdopter("country") === "PE" ||
           watchAdopter("country") === "EC" ||
+          watchAdopter("country") === "CO" ||
+          watchAdopter("country") === "CL" ||
           watchAdopter("country") === "ES" ||
           watchAdopter("country") === "HN" ? (
             <>
