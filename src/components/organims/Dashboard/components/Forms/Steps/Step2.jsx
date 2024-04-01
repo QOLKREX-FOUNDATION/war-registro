@@ -156,13 +156,14 @@ export const Step2 = ({
                   label: `${values?.name} (${values?.phoneCode})`,
                   value: values?.id,
                 }))
-                .filter((values) => values.value === watch("phoneCode"))[0]
+                .filter((values) => values.value === watch("codePhone"))[0]
             }
             values={register}
             watch={watch}
             setValue={setValue}
             error={errors}
             onChange={(target) => {
+              setValue("codePhone", target.value);
               setValue("phoneCode", target.value);
             }}
             required

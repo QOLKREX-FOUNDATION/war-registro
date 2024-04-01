@@ -60,6 +60,10 @@ export const FormRegister = ({
   const [userInfo, setUserInfo] = useState("");
 
   const { codes, getCodes } = useCodePhone();
+  // console.log(getValues());
+  // console.log(codes);
+  // console.log(codes.find((code) => code.countryCode === watch("country")));
+  // console.log(watch("codePhone"));
 
   // useEffect(() => {
   //   if (typeof window !== "undefined") {
@@ -95,15 +99,14 @@ export const FormRegister = ({
         );
       });
       // setValue("country", userInfo?.entityRegister?.country);
-    } 
+    }
   }, [address]);
 
   useEffect(() => {
-    if(!address) {
+    if (!address) {
       setValue("country", dataRegister.adopter?.country);
     }
-  }, [address, dataRegister])
-  
+  }, [address, dataRegister]);
 
   // const { entitiesRegifirst} = useEntities();
   // const { persons } = usePerson();
@@ -382,6 +385,11 @@ export const FormRegister = ({
       );
       setValue(
         "phoneCode",
+        codes.find((code) => code.countryCode === dataRegister.adopter?.country)
+          ?.id
+      );
+      setValue(
+        "codePhone",
         codes.find((code) => code.countryCode === dataRegister.adopter?.country)
           ?.id
       );

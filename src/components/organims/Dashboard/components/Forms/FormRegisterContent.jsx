@@ -189,7 +189,7 @@ export const FormRegisterContent = () => {
                 if (res2.data.ok === false) return;
                 setFormData({
                     adopter: {
-                        country: res2.data.user.entityRegister.country,
+                        country: res2.data.user.entityRegister.country || "PE",
                         person: adopterFormRegister.person,
                         documentType: adopterFormRegister.documentType,
                         documentNumber: adopterFormRegister.documentNumber,
