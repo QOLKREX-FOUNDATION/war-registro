@@ -153,8 +153,8 @@ export const FormRegister = ({
     formData.append("specie", data.specie);
     formData.append("birthDatePet", data.birthDatePet);
     formData.append("adoptionDate", data.adoptionDate);
-    formData.append("fatherMicrochip", data.fatherMicrochip?.toUpperCase());
-    formData.append("motherMicrochip", data.motherMicrochip?.toUpperCase());
+    formData.append("fatherMicrochip", data.fatherMicrochip?.toUpperCase() || "");
+    formData.append("motherMicrochip", data.motherMicrochip?.toUpperCase() || "");
     formData.append("registerEntity", data.registerEntity);
     formData.append("countryPet", data.countryPet);
     formData.append("genderPet", data.genderPet);
@@ -238,8 +238,8 @@ export const FormRegister = ({
     formData.append("specie", data.specie);
     formData.append("birthDatePet", data.birthDatePet);
     formData.append("adoptionDate", data.adoptionDate);
-    formData.append("fatherMicrochip", data.fatherMicrochip?.toUpperCase());
-    formData.append("motherMicrochip", data.motherMicrochip?.toUpperCase());
+    formData.append("fatherMicrochip", data.fatherMicrochip?.toUpperCase() || "");
+    formData.append("motherMicrochip", data.motherMicrochip?.toUpperCase() || "");
     formData.append("registerEntity", data.registerEntity);
     formData.append("countryPet", data.countryPet);
     formData.append("genderPet", data.genderPet);
@@ -314,8 +314,8 @@ export const FormRegister = ({
     formData.append("specie", data.specie);
     formData.append("birthDatePet", data.birthDatePet);
     formData.append("adoptionDate", data.adoptionDate);
-    formData.append("fatherMicrochip", data.fatherMicrochip?.toUpperCase());
-    formData.append("motherMicrochip", data.motherMicrochip?.toUpperCase());
+    formData.append("fatherMicrochip", data.fatherMicrochip?.toUpperCase() || "");
+    formData.append("motherMicrochip", data.motherMicrochip?.toUpperCase() || "");
     formData.append("registerEntity", data.registerEntity);
     formData.append("countryPet", data.countryPet);
     formData.append("genderPet", data.genderPet);
@@ -427,8 +427,8 @@ export const FormRegister = ({
       setValue("isSterilized", dataRegister.pet?.isSterilized);
       setValue("isPayment", dataRegister.isPayment);
       setValue("imagePet", dataRegister.imagePet?.imageUrl);
-      setValue("fatherMicrochip", dataRegister.pet?.fatherMicrochip);
-      setValue("motherMicrochip", dataRegister.pet?.motherMicrochip);
+      setValue("fatherMicrochip", dataRegister.pet?.fatherMicrochip || "");
+      setValue("motherMicrochip", dataRegister.pet?.motherMicrochip || "");
     }
   }, [dataRegister, codes]);
 
