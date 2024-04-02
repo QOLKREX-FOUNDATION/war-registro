@@ -21,7 +21,7 @@ export const Step1 = ({
   const { persons } = usePerson();
   const { documents, handleDocuments } = useDocuments();
   const { types } = useType();
-  // const { country, handleCountryChange } = useContext(InfoByIpContext)
+    // const { country, handleCountryChange } = useContext(InfoByIpContext)
 
   useEffect(() => {
     handleDocuments(setValue, watch("country"), watch("person"));
@@ -239,7 +239,12 @@ export const Step1 = ({
               message: "Número de documento es requerido",
             }}
             minLength={{
-              value: watch("documentType") === "D.N.I." ? 7 : watch('nationality') === "6596d6b7b9962639396fe55d" ? 7 : 8,
+              value:
+                watch("documentType") === "D.N.I."
+                  ? 7
+                  : watch("nationality") === "6596d6b7b9962639396fe55d"
+                  ? 7
+                  : 8,
               message: "Formato incorrecto",
             }}
             maxLength={{
@@ -278,6 +283,28 @@ export const Step1 = ({
             required
             id="adopterType"
           />
+          <div className="relative -top-2 left-1">
+            {watch("adopterType") === "ADOPTER" && (
+              <span className="text-sm text-gray-600">
+                (Dueño de la mascota)
+              </span>
+            )}
+            {watch("adopterType") === "SHELTER" && (
+              <span className="text-sm text-gray-600">
+                (Institución de muchas mascotas)
+              </span>
+            )}
+            {watch("adopterType") === "RESCASTITE" && (
+              <span className="text-sm text-gray-600">
+                (Colaborador de rescate animal)
+              </span>
+            )}
+            {watch("adopterType") === "BREEDER" && (
+              <span className="text-sm text-gray-600">
+                (Comerciante de mascotas pedigree)
+              </span>
+            )}
+          </div>
         </div>
 
         <div className="w-full">
