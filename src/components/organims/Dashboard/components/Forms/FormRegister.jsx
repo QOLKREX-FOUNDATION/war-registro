@@ -156,7 +156,7 @@ export const FormRegister = ({
     formData.append("fatherMicrochip", data.fatherMicrochip?.toUpperCase() || "");
     formData.append("motherMicrochip", data.motherMicrochip?.toUpperCase() || "");
     formData.append("registerEntity", data.registerEntity);
-    formData.append("countryPet", data.countryPet);
+    formData.append("countryPet", data.countryPet || "PE");
     formData.append("genderPet", data.genderPet);
     formData.append("race", data.race);
     formData.append("color", data.color);

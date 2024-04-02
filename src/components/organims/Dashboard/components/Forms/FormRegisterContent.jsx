@@ -217,7 +217,7 @@ export const FormRegisterContent = () => {
                         microchip: adopterFormRegister.microchip,
                         dateMicrochip: adopterFormRegister.dateMicrochip,
                         firstNamePet: adopterFormRegister.firstNamePet,
-                        countryPet: res2.data.user.entityRegister.country,
+                        countryPet: res2.data.user.entityRegister.country || "PE",
                         birthDatePet: adopterFormRegister.birthDatePet,
                         adoptionDate: adopterFormRegister.adoptionDate,
                         adoptionDate: adopterFormRegister.adoptionDate,
