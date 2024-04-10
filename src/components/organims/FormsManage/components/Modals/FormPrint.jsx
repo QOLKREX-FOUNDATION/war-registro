@@ -615,11 +615,10 @@ export const FormPrint = ({
                                     }
                                 </h1> */}
                                 <h1 className='relative left-[420px] font-light text-[17px] w-60'>
-                                    {selectedForm.adopter.jurament3 ?
+                                    {selectedForm.adopter.jurament3 &&
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6 border">
                                             <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
                                         </svg>
-                                        : <></>
                                     }
                                 </h1>
 
@@ -914,12 +913,15 @@ export const FormPrint = ({
                                 </div>
                                 <div className="flex relative top-[967px]">
                                     <h1 className='relative top-[10px] left-[103px] font-light text-2xl w-60'>
-                                        {selectedForm.adopter.jurament1 ?
+                                        {/* {selectedForm.adopter.jurament1 ?
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
                                                 <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
                                             </svg>
                                             : <></>
-                                        }
+                                        } */}
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
+                                                <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+                                            </svg>
                                     </h1>
                                     {/* <h1 className='relative top-[10px] left-[420px] font-light text-[17px] w-60'>
                                         {selectedForm.adopter.jurament2 ?
@@ -929,13 +931,10 @@ export const FormPrint = ({
                                             : <></>
                                         }
                                     </h1> */}
-                                    <h1 className='relative top-[55px] left-[-378px] font-light text-[17px] w-60'>
-                                        {selectedForm.adopter.jurament3 ?
-                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                                                <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
-                                            </svg>
-                                            : <></>
-                                        }
+                                    <h1 className='relative top-[10px]  left-[420px] font-light text-[17px] w-60'>
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
+                                            <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+                                        </svg>
                                     </h1>
 
                                 </div>
