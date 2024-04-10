@@ -158,5 +158,10 @@
     "id": 32,
     "name": "Vichada",
     "department_id": 5
+  },
+  {
+    "id": 33,
+    "name": "Bogota D.C.",
+    "department_id": 2
   }
 ]
