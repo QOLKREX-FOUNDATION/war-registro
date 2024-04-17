@@ -529,7 +529,7 @@ export const MaterialTable = ({ data, handleGetRecords }) => {
         "Raza": row.original.race,
         "Color": row.original.colour,
         "Fecha de Nacimiento": dateBirth,
-        "Vacunado": row.original.vaccines.length > 0 ? "Si" : "No",
+        "Vacunado": row.original.vaccines?.length > 0 ? "Si" : "No",
         "Esterilizado": row.original.sterilized,
         "Adoptante": row.original.adopterName,
         "Doc. de identidad": ad
@@ -573,6 +573,7 @@ export const MaterialTable = ({ data, handleGetRecords }) => {
             enableColumnFilterMode
             positionToolbarAlertBanner="bottom"
             enableRowActions={true}
+            positionPagination="top"
             renderTopToolbarCustomActions={({ table }) => (
               <Box
                 sx={{
