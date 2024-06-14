@@ -100,7 +100,7 @@ export const Profile = () => {
       formData.append("idEntity", idEntityRegistering);
 
       const response = await fetch(
-        "https://w-a-r-api.onrender.com/api/files/upload-logo",
+        "https://firulaix-api-nodejs.vercel.app/api/files/upload-logo",
         {
           method: "POST",
           headers: {
