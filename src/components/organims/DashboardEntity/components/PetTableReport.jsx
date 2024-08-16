@@ -23,6 +23,8 @@ import { Users, getErUsers } from "../../../../utils/war/UsersSystem";
 import { CustomInputDate } from "./CustomInputDate";
 import dayjs from "dayjs";
 import { API } from "../../../../config";
+const utc = require('dayjs/plugin/utc')
+dayjs.extend(utc)
 
 export const PetTableReport = ({ data, getData, setGetRecords = () => {} }) => {
   const { web3 } = useWeb3Context();
@@ -64,8 +66,8 @@ export const PetTableReport = ({ data, getData, setGetRecords = () => {} }) => {
       department: "",
       province: "",
       district: "",
-      startDate: "",
-      endDate: "",
+      startDate: dayjs().startOf("month"),
+      endDate: dayjs(),
       startDate2: dayjs().startOf("month"),
       endDate2: dayjs(),
       created_at: true,
