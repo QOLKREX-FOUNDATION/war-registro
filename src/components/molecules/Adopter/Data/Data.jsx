@@ -170,7 +170,7 @@ export const Data = ({
       {/* DATOS PERSONALES */}
       <div className="grid grid-cols-2 gap-x-8 grid-flow-row-dense mt-14 mb-10 border-b">
         <h4 className="text-lg text-gray-400 dark:text-gray-400 mt-4 mb-4 uppercase">
-          Datos personales
+          Datos del propietario
         </h4>
       </div>
 

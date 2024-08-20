@@ -14,7 +14,7 @@ export const Step2 = ({
 }) => {
   return (
     <>
-      <h2 className="pb-3 pt-3 text-xl font-semibold ">DATOS PERSONALES</h2>
+      <h2 className="pb-3 pt-3 text-xl font-semibold ">DATOS DEL PROPIETARIO</h2>
       <hr />
 
       <div className="flex justify-center w-full flex-wrap gap-2 max-w-5xl pt-3">
