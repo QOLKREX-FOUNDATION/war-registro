@@ -20,18 +20,18 @@ import { API } from "../../config";
 // 	return response;
 // };
 
-// const storage = new ThirdwebStorage({
-//   clientId: API.ipfsClientId,
-//   secretKey: API.ipfsSecretKey,
-// });
-// export const toFileWeb3Storage = async (file, name) => {
-//   const files = new File([file], `${name}`);
-//   const uri = await storage.upload(files);
-//   console.log(uri);
-//   const cid = uri.split("ipfs://")[1];
-//   console.log(cid);
-//   return cid;
-// };
+const storage = new ThirdwebStorage({
+  clientId: API.ipfsClientId,
+  secretKey: API.ipfsSecretKey,
+});
+export const toFileWeb3Storage = async (file, name) => {
+  const files = new File([file], `${name}`);
+  const uri = await storage.upload(files);
+  console.log(uri);
+  const cid = uri.split("ipfs://")[1];
+  console.log(cid);
+  return cid;
+};
 
 // export async function toFileWeb3StorageWithBackend() {
 //   try {
@@ -102,27 +102,27 @@ import { API } from "../../config";
 //   const ipfsLink = `https://${cidString}.ipfs.w3s.link/`;
 //   return cidString;
 // };
-export const toFileWeb3Storage = async (file, name) => {
-  const client = await create();
-  const space = await client.createSpace("my-first-space");
-  const myAccount = await client.login("puppy.petss@gmail.com");
-  while (true) {
-    const res = await myAccount.plan.get();
-    if (res.ok) break;
-    console.log("Waiting for payment plan to be selected...");
-    await new Promise((resolve) => setTimeout(resolve, 1000));
-  }
-  await myAccount.provision(space.did());
-  await space.createRecovery(myAccount.did());
-  await space.save();
-  await client.setCurrentSpace(space.did());
-  const files = new File([file], `${name}`);
-  const directoryCid = await client.uploadFile(files);
-  const cidString = directoryCid.toString();
-  const ipfsLink = `https://${cidString}.ipfs.w3s.link/`;
+// export const toFileWeb3Storage = async (file, name) => {
+//   const client = await create();
+//   const space = await client.createSpace("my-first-space");
+//   const myAccount = await client.login("puppy.petss@gmail.com");
+//   while (true) {
+//     const res = await myAccount.plan.get();
+//     if (res.ok) break;
+//     console.log("Waiting for payment plan to be selected...");
+//     await new Promise((resolve) => setTimeout(resolve, 1000));
+//   }
+//   await myAccount.provision(space.did());
+//   await space.createRecovery(myAccount.did());
+//   await space.save();
+//   await client.setCurrentSpace(space.did());
+//   const files = new File([file], `${name}`);
+//   const directoryCid = await client.uploadFile(files);
+//   const cidString = directoryCid.toString();
+//   const ipfsLink = `https://${cidString}.ipfs.w3s.link/`;
 
-  console.log({space: space.did()})
-  console.log({myAccount: myAccount.did()})
-  console.log({cidString});
-  return cidString;
-};
+//   console.log({space: space.did()})
+//   console.log({myAccount: myAccount.did()})
+//   console.log({cidString});
+//   return cidString;
+// };

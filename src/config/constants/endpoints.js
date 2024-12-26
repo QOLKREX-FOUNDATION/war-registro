@@ -29,11 +29,11 @@ export const API_MAINET = {
   ipfsToken:
     "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGEyMWFhYUQ1NkU0NTg2Q0RmOGY5NjBjMkM2Y0NhYzBjNzVERDlBMzAiLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2ODk3MDIyNTk1MjgsIm5hbWUiOiJyZWdpc3Ryb3N3YXIifQ._K3CmarvFaEEXTJCfQA1lBWpBvw1SsUMLkz9o-CG55s",
   // ipfsClientId: "f989cfedcdb138be1c03dd78cfca49ae", // Antigua
-  ipfsClientId: "c419a1a7a33729d3837c61557ebd787c", // Nueva Prueba
+  ipfsClientId: "7263f630f36188c91c51698c2749c0e6", // Nueva Prueba
   // ipfsSecretKey:
   //   "X9E2yFB6vhNpVCD2l5NeBZlo6C1dqTajhWv438N9oyrl9H95h7JOjVRTbRakqbQlF5Xt1QDEvMeHazQX_ktj4A", // Antigua
   ipfsSecretKey:
-    "dnx3veNjgRDXZY1f1mNLdgT5rGF1WwbqP3h0bz3S26zIfmOVstxtE4G2NoOGhr1Puh7WqGWgxrJQ9gx-DN-2Bw", // Nueva Prueba
+    "rn2yb-74RX4BezBVqp-Jc_IKfwFA6V6glL_IwfqJyFzruVluLym-IHDwf5B4Dd1ZCzcLmHujBbtRkS3ZBqNmsg", // Nueva Prueba
 };
 
 // firulaix: process.env.FIRULAIX,
@@ -55,9 +55,9 @@ export const API_TESNET = {
   ipfs: "https://api.web3.storage",
   ipfsToken:
     "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGEyMWFhYUQ1NkU0NTg2Q0RmOGY5NjBjMkM2Y0NhYzBjNzVERDlBMzAiLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2ODk3MDIyNTk1MjgsIm5hbWUiOiJyZWdpc3Ryb3N3YXIifQ._K3CmarvFaEEXTJCfQA1lBWpBvw1SsUMLkz9o-CG55s",
-  ipfsClientId: "c419a1a7a33729d3837c61557ebd787c",
+  ipfsClientId: "7263f630f36188c91c51698c2749c0e6",
   ipfsSecretKey:
-    "dnx3veNjgRDXZY1f1mNLdgT5rGF1WwbqP3h0bz3S26zIfmOVstxtE4G2NoOGhr1Puh7WqGWgxrJQ9gx-DN-2Bw",
+    "rn2yb-74RX4BezBVqp-Jc_IKfwFA6V6glL_IwfqJyFzruVluLym-IHDwf5B4Dd1ZCzcLmHujBbtRkS3ZBqNmsg",
 };
 
 export const imageURI =
