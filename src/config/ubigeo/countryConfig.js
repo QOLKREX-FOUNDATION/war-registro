@@ -23,6 +23,10 @@ import clDepartamentsJson from "../../../public/Json/ubigeo/CL/regiones.json";
 import clProvincesJson from "../../../public/Json/ubigeo/CL/provincias.json";
 import clDistrictsJson from "../../../public/Json/ubigeo/CL/comunas.json";
 
+// Temporal Canada
+import caDepartamentsJson from "../../../public/Json/ubigeo/CA/department.json";
+import caProvincesJson from "../../../public/Json/ubigeo/CA/province.json";
+import caDistrictsJson from "../../../public/Json/ubigeo/CA/district.json";
 
 export const countryConfig = {
   PE: {
@@ -55,6 +59,11 @@ export const countryConfig = {
     provincesJson: clProvincesJson,
     districtsJson: clDistrictsJson,
   },
+  CA: {
+    departmentsJson: caDepartamentsJson,
+    provincesJson: caProvincesJson,
+    districtsJson: caDistrictsJson,
+  }
 };
 
 export const countryLabel = {
@@ -88,4 +97,9 @@ export const countryLabel = {
     provincesLabel: "Provincia",
     districtsLabel: "Comuna",
   },
+  CA: {
+    departmentsLabel: "Province",
+    provincesLabel: "City",
+    districtsLabel: "District",
+  }
 }

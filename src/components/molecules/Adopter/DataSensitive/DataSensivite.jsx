@@ -186,6 +186,7 @@ export const DataSensitive = ({
           watchAdopter("country") === "CO" ||
           watchAdopter("country") === "CL" ||
           watchAdopter("country") === "ES" ||
+          watchAdopter("country") === "CA" ||
           watchAdopter("country") === "HN" ? (
             <>
               <div>
