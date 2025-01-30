@@ -56,6 +56,14 @@
 			"LEGAL": {
 				"identity": "C.I.F."
 			}
+		},
+		"CA": {
+			"NATURAL": {
+				"identity": "D.N.I."
+			},
+			"LEGAL": {
+				"identity": "C.I.F."
+			}
 		}
 	}
 }
