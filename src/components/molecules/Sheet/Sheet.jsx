@@ -308,7 +308,7 @@ export const Sheet = ({
 					style={{ fontSize: imp ? "8.5px" : ajust.height / 140 }}
 				>
 					{/* ADDRESS {petValues?.addressEr} */}
-					ADDRESS {petValues?.adopter}
+					ADDRESS {petValues?.userAddress}
 				</p>
 
 				<div className={classes.qr}>
