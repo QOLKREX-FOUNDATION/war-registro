@@ -360,7 +360,7 @@ export const FormPrint = ({
                                 <h1 className='relative left-[200px] font-light text-xl w-[500px] top-1 pb-1'>
                                     {/* {selectedForm.adopter.firstName} {selectedForm.adopter.secondName} {selectedForm.adopter.firstLastName} {selectedForm.adopter.secondLastName} */}
                                     {
-                                        parseText(36, `${ selectedForm.adopter.firstName } ${ selectedForm.adopter.secondName }  ${ selectedForm.adopter.firstLastName } ${ selectedForm.adopter.secondLastName }`)
+                                        parseText(36, `${ selectedForm.adopter.firstName }\u00A0  ${ selectedForm.adopter.secondName }  ${ selectedForm.adopter.firstLastName } ${ selectedForm.adopter.secondLastName }`)
                                     }
                                 </h1>
                                 <h1 className='relative left-[250px] font-light text-2xl w-40'>
