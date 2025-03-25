@@ -892,7 +892,7 @@ export const FormPrint = ({
 
 
                                 <div className="flex relative top-[870px] h-[32px]">
-                                    <h1 className='relative left-[170px] font-light text-2xl w-64 h-10 overflow-hidden'>
+                                    <h1 className='relative left-[170px] font-light text-xl w-64 h-10 overflow-hidden'>
                                         {
                                             parseText(20, `${ formatTextWithColors(colours) }`)
                                             // parseText(20, `${ colours.map((colour, index) => {
