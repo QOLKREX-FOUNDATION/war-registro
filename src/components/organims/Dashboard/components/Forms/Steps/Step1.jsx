@@ -337,7 +337,7 @@ export const Step1 = ({
                 message: "Dirección pública es requerido",
               }}
               minLength={{ value: 5, message: "Formato incorrecto" }}
-              maxLength={{ value: 20, message: "Formato incorrecto" }}
+              maxLength={{ value: 36, message: "Formato incorrecto" }}
               errors={errors}
               placeholder="Ej. 0xc75F3901B4A0E34A280D10018T2ec32b65E9Fb321"
             />
