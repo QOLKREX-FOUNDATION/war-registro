@@ -56,17 +56,15 @@ export const Front = ({
           maxHeight: imp ? "100px" : ajust.height / 8,
           width: "120px",
         }}
-        src={`https://res.cloudinary.com/worldanireg/image/upload/v1701811578/entityRegister/logo/${getPet?.idRegisteringEntity}.png`}
-        // src={`https://res.cloudinary.com/worldanireg/image/upload/v1701811578/entityRegister/logo/test.png`}
+        src={`https://res.cloudinary.com/worldanireg/image/upload/v1701811578/entityRegister/logo/${getPet?.idRegisteringEntity || "default"}.png`}
         onError={({ currentTarget }) => {
-          const idEntity = handleIdEntity();
-          if (idEntity) {
-            currentTarget.onerror = null;
-            currentTarget.src = `https://res.cloudinary.com/worldanireg/image/upload/v1701811578/entityRegister/logo/${idEntity}.png`;
-          } else {
-            currentTarget.onerror = null;
-            currentTarget.src = `/img/logo/2.png`;
-          }
+          // currentTarget.onerror = null; // Evita bucles infinitos
+          // const idEntity = handleIdEntity();
+          // currentTarget.src = idEntity
+          //   ? `https://res.cloudinary.com/worldanireg/image/upload/v1701811578/entityRegister/logo/${idEntity}.png`
+          //   : `/img/logo/2.png`;
+          currentTarget.onerror = null;
+          currentTarget.src = `/img/logo/2.png`;
         }}
         alt="Entity Register"
       />
