@@ -180,7 +180,7 @@ export const PetData = ({ onePet, changePet }) => {
               // src={`${API.warPublic}public/images/image/${
               // 	onePet.chip
               // }.jpg?${Math.random()}`}
-              src={`${imageURI}/${onePet.chip}.png`}
+              src={`${imageURI}/${onePet.chip}.png?v=2`}
               onError={({ currentTarget }) => {
                 currentTarget.onerror = null;
                 currentTarget.src = `/img/error/${onePet.type}.png`;
