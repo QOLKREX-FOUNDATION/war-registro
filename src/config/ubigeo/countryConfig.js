@@ -28,6 +28,11 @@ import caDepartamentsJson from "../../../public/Json/ubigeo/CA/department.json";
 import caProvincesJson from "../../../public/Json/ubigeo/CA/province.json";
 import caDistrictsJson from "../../../public/Json/ubigeo/CA/district.json";
 
+// EEUU
+import usDepartamentsJson from "../../../public/Json/ubigeo/US/estados.json";
+import usProvincesJson from "../../../public/Json/ubigeo/US/condados.json";
+import usDistrictsJson from "../../../public/Json/ubigeo/US/municipios.json";
+
 export const countryConfig = {
   PE: {
     departmentsJson: peDepartmentsJson,
@@ -63,7 +68,12 @@ export const countryConfig = {
     departmentsJson: caDepartamentsJson,
     provincesJson: caProvincesJson,
     districtsJson: caDistrictsJson,
-  }
+  },
+  US: {
+    departmentsJson: usDepartamentsJson,
+    provincesJson: usProvincesJson,
+    districtsJson: usDistrictsJson,
+  },
 };
 
 export const countryLabel = {
@@ -101,5 +111,10 @@ export const countryLabel = {
     departmentsLabel: "Province",
     provincesLabel: "City",
     districtsLabel: "District",
-  }
-}
+  },
+  US: {
+    departmentsLabel: "Estados",
+    provincesLabel: "Condados",
+    districtsLabel: "Municipios",
+  },
+};

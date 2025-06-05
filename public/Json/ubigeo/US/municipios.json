@@ -1,0 +1,2031 @@
+[
+  {
+    "id": "12001001",
+    "name": "Gainesville",
+    "province_id": "12001",
+    "department_id": "12"
+  },
+  {
+    "id": "12001002",
+    "name": "Alachua",
+    "province_id": "12001",
+    "department_id": "12"
+  },
+  {
+    "id": "12001003",
+    "name": "High Springs",
+    "province_id": "12001",
+    "department_id": "12"
+  },
+  {
+    "id": "12003001",
+    "name": "Macclenny",
+    "province_id": "12003",
+    "department_id": "12"
+  },
+  {
+    "id": "12003002",
+    "name": "Glen Saint Mary",
+    "province_id": "12003",
+    "department_id": "12"
+  },
+  {
+    "id": "12005001",
+    "name": "Panama City",
+    "province_id": "12005",
+    "department_id": "12"
+  },
+  {
+    "id": "12005002",
+    "name": "Panama City Beach",
+    "province_id": "12005",
+    "department_id": "12"
+  },
+  {
+    "id": "12005003",
+    "name": "Callaway",
+    "province_id": "12005",
+    "department_id": "12"
+  },
+  {
+    "id": "12005004",
+    "name": "Youngstown",
+    "province_id": "12005",
+    "department_id": "12"
+  },
+  {
+    "id": "12007001",
+    "name": "Starke",
+    "province_id": "12007",
+    "department_id": "12"
+  },
+  {
+    "id": "12007002",
+    "name": "Lake Butler",
+    "province_id": "12007",
+    "department_id": "12"
+  },
+  {
+    "id": "12009001",
+    "name": "Cocoa",
+    "province_id": "12009",
+    "department_id": "12"
+  },
+  {
+    "id": "12009002",
+    "name": "Cocoa Beach",
+    "province_id": "12009",
+    "department_id": "12"
+  },
+  {
+    "id": "12009003",
+    "name": "Melbourne",
+    "province_id": "12009",
+    "department_id": "12"
+  },
+  {
+    "id": "12009004",
+    "name": "Palm Bay",
+    "province_id": "12009",
+    "department_id": "12"
+  },
+  {
+    "id": "12011001",
+    "name": "Brooksville",
+    "province_id": "12011",
+    "department_id": "12"
+  },
+  {
+    "id": "12011002",
+    "name": "Spring Hill",
+    "province_id": "12011",
+    "department_id": "12"
+  },
+  {
+    "id": "12011003",
+    "name": "Weeki Wachee",
+    "province_id": "12011",
+    "department_id": "12"
+  },
+  {
+    "id": "12013001",
+    "name": "Miami",
+    "province_id": "12013",
+    "department_id": "12"
+  },
+  {
+    "id": "12013002",
+    "name": "Hialeah",
+    "province_id": "12013",
+    "department_id": "12"
+  },
+  {
+    "id": "12013003",
+    "name": "Miami Beach",
+    "province_id": "12013",
+    "department_id": "12"
+  },
+  {
+    "id": "12013004",
+    "name": "Doral",
+    "province_id": "12013",
+    "department_id": "12"
+  },
+  {
+    "id": "12013005",
+    "name": "Homestead",
+    "province_id": "12013",
+    "department_id": "12"
+  },
+  {
+    "id": "12013006",
+    "name": "Coral Gables",
+    "province_id": "12013",
+    "department_id": "12"
+  },
+  {
+    "id": "12015001",
+    "name": "Naples",
+    "province_id": "12015",
+    "department_id": "12"
+  },
+  {
+    "id": "12015002",
+    "name": "Marco Island",
+    "province_id": "12015",
+    "department_id": "12"
+  },
+  {
+    "id": "12017001",
+    "name": "Lake City",
+    "province_id": "12017",
+    "department_id": "12"
+  },
+  {
+    "id": "12017002",
+    "name": "Fort White",
+    "province_id": "12017",
+    "department_id": "12"
+  },
+  {
+    "id": "12019001",
+    "name": "Niceville",
+    "province_id": "12019",
+    "department_id": "12"
+  },
+  {
+    "id": "12019002",
+    "name": "Crestview",
+    "province_id": "12019",
+    "department_id": "12"
+  },
+  {
+    "id": "12019003",
+    "name": "Fort Walton Beach",
+    "province_id": "12019",
+    "department_id": "12"
+  },
+  {
+    "id": "12021001",
+    "name": "Marianna",
+    "province_id": "12021",
+    "department_id": "12"
+  },
+  {
+    "id": "12021002",
+    "name": "Graceville",
+    "province_id": "12021",
+    "department_id": "12"
+  },
+  {
+    "id": "12023001",
+    "name": "Key West",
+    "province_id": "12023",
+    "department_id": "12"
+  },
+  {
+    "id": "12023002",
+    "name": "Marathon",
+    "province_id": "12023",
+    "department_id": "12"
+  },
+  {
+    "id": "12023003",
+    "name": "Key Largo",
+    "province_id": "12023",
+    "department_id": "12"
+  },
+  {
+    "id": "12025001",
+    "name": "Ocala",
+    "province_id": "12025",
+    "department_id": "12"
+  },
+  {
+    "id": "12025002",
+    "name": "Dunnellon",
+    "province_id": "12025",
+    "department_id": "12"
+  },
+  {
+    "id": "12027001",
+    "name": "Palm Bay",
+    "province_id": "12027",
+    "department_id": "12"
+  },
+  {
+    "id": "12027002",
+    "name": "Melbourne",
+    "province_id": "12027",
+    "department_id": "12"
+  },
+  {
+    "id": "12027003",
+    "name": "Cocoa",
+    "province_id": "12027",
+    "department_id": "12"
+  },
+  {
+    "id": "12027004",
+    "name": "Titusville",
+    "province_id": "12027",
+    "department_id": "12"
+  },
+  {
+    "id": "12027005",
+    "name": "Satellite Beach",
+    "province_id": "12027",
+    "department_id": "12"
+  },
+  {
+    "id": "12027006",
+    "name": "Cape Canaveral",
+    "province_id": "12027",
+    "department_id": "12"
+  },
+  {
+    "id": "12029001",
+    "name": "Fort Lauderdale",
+    "province_id": "12029",
+    "department_id": "12"
+  },
+  {
+    "id": "12029002",
+    "name": "Hollywood",
+    "province_id": "12029",
+    "department_id": "12"
+  },
+  {
+    "id": "12029003",
+    "name": "Pembroke Pines",
+    "province_id": "12029",
+    "department_id": "12"
+  },
+  {
+    "id": "12029004",
+    "name": "Miramar",
+    "province_id": "12029",
+    "department_id": "12"
+  },
+  {
+    "id": "12029005",
+    "name": "Pompano Beach",
+    "province_id": "12029",
+    "department_id": "12"
+  },
+  {
+    "id": "12029006",
+    "name": "Davie",
+    "province_id": "12029",
+    "department_id": "12"
+  },
+  {
+    "id": "12031001",
+    "name": "Naples",
+    "province_id": "12031",
+    "department_id": "12"
+  },
+  {
+    "id": "12031002",
+    "name": "Marco Island",
+    "province_id": "12031",
+    "department_id": "12"
+  },
+  {
+    "id": "12033001",
+    "name": "Crestview",
+    "province_id": "12033",
+    "department_id": "12"
+  },
+  {
+    "id": "12033002",
+    "name": "Niceville",
+    "province_id": "12033",
+    "department_id": "12"
+  },
+  {
+    "id": "12035001",
+    "name": "Port St. Lucie",
+    "province_id": "12035",
+    "department_id": "12"
+  },
+  {
+    "id": "12035002",
+    "name": "Fort Pierce",
+    "province_id": "12035",
+    "department_id": "12"
+  },
+  {
+    "id": "12037001",
+    "name": "Sanford",
+    "province_id": "12037",
+    "department_id": "12"
+  },
+  {
+    "id": "12037002",
+    "name": "Altamonte Springs",
+    "province_id": "12037",
+    "department_id": "12"
+  },
+  {
+    "id": "12037003",
+    "name": "Oviedo",
+    "province_id": "12037",
+    "department_id": "12"
+  },
+  {
+    "id": "12037004",
+    "name": "Lake Mary",
+    "province_id": "12037",
+    "department_id": "12"
+  },
+  {
+    "id": "12039001",
+    "name": "Sebring",
+    "province_id": "12039",
+    "department_id": "12"
+  },
+  {
+    "id": "12039002",
+    "name": "Avon Park",
+    "province_id": "12039",
+    "department_id": "12"
+  },
+  {
+    "id": "12039003",
+    "name": "Lake Placid",
+    "province_id": "12039",
+    "department_id": "12"
+  },
+  {
+    "id": "12041001",
+    "name": "St. Augustine",
+    "province_id": "12041",
+    "department_id": "12"
+  },
+  {
+    "id": "12041002",
+    "name": "Palm Valley",
+    "province_id": "12041",
+    "department_id": "12"
+  },
+  {
+    "id": "12043001",
+    "name": "Arcadia",
+    "province_id": "12043",
+    "department_id": "12"
+  },
+  {
+    "id": "12045001",
+    "name": "Live Oak",
+    "province_id": "12045",
+    "department_id": "12"
+  },
+  {
+    "id": "12045002",
+    "name": "Branford",
+    "province_id": "12045",
+    "department_id": "12"
+  },
+  {
+    "id": "12047001",
+    "name": "Bartow",
+    "province_id": "12047",
+    "department_id": "12"
+  },
+  {
+    "id": "12047002",
+    "name": "Lakeland",
+    "province_id": "12047",
+    "department_id": "12"
+  },
+  {
+    "id": "12047003",
+    "name": "Winter Haven",
+    "province_id": "12047",
+    "department_id": "12"
+  },
+  {
+    "id": "12047004",
+    "name": "Haines City",
+    "province_id": "12047",
+    "department_id": "12"
+  },
+  {
+    "id": "12049001",
+    "name": "DeFuniak Springs",
+    "province_id": "12049",
+    "department_id": "12"
+  },
+  {
+    "id": "12049002",
+    "name": "Freeport",
+    "province_id": "12049",
+    "department_id": "12"
+  },
+  {
+    "id": "12051001",
+    "name": "Chipley",
+    "province_id": "12051",
+    "department_id": "12"
+  },
+  {
+    "id": "12051002",
+    "name": "Vernon",
+    "province_id": "12051",
+    "department_id": "12"
+  },
+  {
+    "id": "12053001",
+    "name": "Bonifay",
+    "province_id": "12053",
+    "department_id": "12"
+  },
+  {
+    "id": "12055001",
+    "name": "Crestview",
+    "province_id": "12055",
+    "department_id": "12"
+  },
+  {
+    "id": "12055002",
+    "name": "Fort Walton Beach",
+    "province_id": "12055",
+    "department_id": "12"
+  },
+  {
+    "id": "12055003",
+    "name": "Niceville",
+    "province_id": "12055",
+    "department_id": "12"
+  },
+  {
+    "id": "12057001",
+    "name": "Moore Haven",
+    "province_id": "12057",
+    "department_id": "12"
+  },
+  {
+    "id": "12057002",
+    "name": "Buckhead Ridge",
+    "province_id": "12057",
+    "department_id": "12"
+  },
+  {
+    "id": "12059001",
+    "name": "Gainesville",
+    "province_id": "12059",
+    "department_id": "12"
+  },
+  {
+    "id": "12059002",
+    "name": "Newberry",
+    "province_id": "12059",
+    "department_id": "12"
+  },
+  {
+    "id": "12059003",
+    "name": "Alachua",
+    "province_id": "12059",
+    "department_id": "12"
+  },
+  {
+    "id": "12061001",
+    "name": "Fellsmere",
+    "province_id": "12061",
+    "department_id": "12"
+  },
+  {
+    "id": "12061002",
+    "name": "Indian River Shores",
+    "province_id": "12061",
+    "department_id": "12"
+  },
+  {
+    "id": "12061003",
+    "name": "Orchid",
+    "province_id": "12061",
+    "department_id": "12"
+  },
+  {
+    "id": "12061004",
+    "name": "Sebastian",
+    "province_id": "12061",
+    "department_id": "12"
+  },
+  {
+    "id": "12061005",
+    "name": "Vero Beach",
+    "province_id": "12061",
+    "department_id": "12"
+  },
+
+  {
+    "id": "12063001",
+    "name": "Alford",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12063002",
+    "name": "Bascom",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12063003",
+    "name": "Campbellton",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12063004",
+    "name": "Cottondale",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12063005",
+    "name": "Graceville",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12063006",
+    "name": "Grand Ridge",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12063007",
+    "name": "Greenwood",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12063008",
+    "name": "Jacob City",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12063009",
+    "name": "Malone",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12063010",
+    "name": "Marianna",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12063011",
+    "name": "Sneads",
+    "province_id": "12063",
+    "department_id": "12"
+  },
+  {
+    "id": "12060001",
+    "name": "Jupiter Island",
+    "province_id": "12060",
+    "department_id": "12"
+  },
+  {
+    "id": "12060002",
+    "name": "Ocean Breeze",
+    "province_id": "12060",
+    "department_id": "12"
+  },
+  {
+    "id": "12060003",
+    "name": "Sewall's Point",
+    "province_id": "12060",
+    "department_id": "12"
+  },
+  {
+    "id": "12060004",
+    "name": "Stuart",
+    "province_id": "12060",
+    "department_id": "12"
+  },
+  {
+    "id": "12062001",
+    "name": "Mayo",
+    "province_id": "12062",
+    "department_id": "12"
+  },
+  {
+    "id": "12064001",
+    "name": "Monticello",
+    "province_id": "12064",
+    "department_id": "12"
+  },
+  {
+    "id": "12065001",
+    "name": "Greenville",
+    "province_id": "12065",
+    "department_id": "12"
+  },
+  {
+    "id": "12065002",
+    "name": "Lee",
+    "province_id": "12065",
+    "department_id": "12"
+  },
+  {
+    "id": "12065003",
+    "name": "Madison",
+    "province_id": "12065",
+    "department_id": "12"
+  },
+  {
+    "id": "12066001",
+    "name": "Anna Maria",
+    "province_id": "12066",
+    "department_id": "12"
+  },
+  {
+    "id": "12066002",
+    "name": "Bradenton",
+    "province_id": "12066",
+    "department_id": "12"
+  },
+  {
+    "id": "12066003",
+    "name": "Bradenton Beach",
+    "province_id": "12066",
+    "department_id": "12"
+  },
+  {
+    "id": "12066004",
+    "name": "Holmes Beach",
+    "province_id": "12066",
+    "department_id": "12"
+  },
+  {
+    "id": "12066005",
+    "name": "Palmetto",
+    "province_id": "12066",
+    "department_id": "12"
+  },
+  {
+    "id": "12067001",
+    "name": "Belleview",
+    "province_id": "12067",
+    "department_id": "12"
+  },
+  {
+    "id": "12067002",
+    "name": "Dunnellon",
+    "province_id": "12067",
+    "department_id": "12"
+  },
+  {
+    "id": "12067003",
+    "name": "McIntosh",
+    "province_id": "12067",
+    "department_id": "12"
+  },
+  {
+    "id": "12067004",
+    "name": "Ocala",
+    "province_id": "12067",
+    "department_id": "12"
+  },
+  {
+    "id": "12067005",
+    "name": "Reddick",
+    "province_id": "12067",
+    "department_id": "12"
+  },
+  {
+    "id": "12085001",
+    "name": "Jupiter Island",
+    "province_id": "12085",
+    "department_id": "12"
+  },
+  {
+    "id": "12085002",
+    "name": "Ocean Breeze",
+    "province_id": "12085",
+    "department_id": "12"
+  },
+  {
+    "id": "12085003",
+    "name": "Sewall's Point",
+    "province_id": "12085",
+    "department_id": "12"
+  },
+  {
+    "id": "12085004",
+    "name": "Stuart",
+    "province_id": "12085",
+    "department_id": "12"
+  },
+  {
+    "id": "12086001",
+    "name": "Aventura",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086002",
+    "name": "Bal Harbour",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086003",
+    "name": "Bay Harbor Islands",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086004",
+    "name": "Biscayne Park",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086005",
+    "name": "Coral Gables",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086006",
+    "name": "Cutler Bay",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086007",
+    "name": "Doral",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086008",
+    "name": "El Portal",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086009",
+    "name": "Florida City",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086010",
+    "name": "Golden Beach",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086011",
+    "name": "Hialeah",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086012",
+    "name": "Hialeah Gardens",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086013",
+    "name": "Homestead",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086014",
+    "name": "Indian Creek",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086015",
+    "name": "Key Biscayne",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086016",
+    "name": "Medley",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086017",
+    "name": "Miami",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086018",
+    "name": "Miami Beach",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086019",
+    "name": "Miami Gardens",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086020",
+    "name": "Miami Lakes",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086021",
+    "name": "Miami Shores",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086022",
+    "name": "Miami Springs",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086023",
+    "name": "North Bay Village",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086024",
+    "name": "North Miami",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086025",
+    "name": "North Miami Beach",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086026",
+    "name": "Opa-locka",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086027",
+    "name": "Palmetto Bay",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086028",
+    "name": "Pinecrest",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086029",
+    "name": "South Miami",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086030",
+    "name": "Sunny Isles Beach",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086031",
+    "name": "Surfside",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086032",
+    "name": "Sweetwater",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086033",
+    "name": "Virginia Gardens",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12086034",
+    "name": "West Miami",
+    "province_id": "12086",
+    "department_id": "12"
+  },
+  {
+    "id": "12087001",
+    "name": "Key Colony Beach",
+    "province_id": "12087",
+    "department_id": "12"
+  },
+  {
+    "id": "12087002",
+    "name": "Key West",
+    "province_id": "12087",
+    "department_id": "12"
+  },
+  {
+    "id": "12087003",
+    "name": "Layton",
+    "province_id": "12087",
+    "department_id": "12"
+  },
+  {
+    "id": "12087004",
+    "name": "Marathon",
+    "province_id": "12087",
+    "department_id": "12"
+  },
+  {
+    "id": "12087005",
+    "name": "Islamorada, Village of Islands",
+    "province_id": "12087",
+    "department_id": "12"
+  },
+  {
+    "id": "12089001",
+    "name": "Callahan",
+    "province_id": "12089",
+    "department_id": "12"
+  },
+  {
+    "id": "12089002",
+    "name": "Fernandina Beach",
+    "province_id": "12089",
+    "department_id": "12"
+  },
+  {
+    "id": "12089003",
+    "name": "Hilliard",
+    "province_id": "12089",
+    "department_id": "12"
+  },
+  {
+    "id": "12091001",
+    "name": "Crestview",
+    "province_id": "12091",
+    "department_id": "12"
+  },
+  {
+    "id": "12091002",
+    "name": "Destin",
+    "province_id": "12091",
+    "department_id": "12"
+  },
+  {
+    "id": "12091003",
+    "name": "Fort Walton Beach",
+    "province_id": "12091",
+    "department_id": "12"
+  },
+  {
+    "id": "12091004",
+    "name": "Laurel Hill",
+    "province_id": "12091",
+    "department_id": "12"
+  },
+  {
+    "id": "12091005",
+    "name": "Mary Esther",
+    "province_id": "12091",
+    "department_id": "12"
+  },
+  {
+    "id": "12091006",
+    "name": "Niceville",
+    "province_id": "12091",
+    "department_id": "12"
+  },
+  {
+    "id": "12091007",
+    "name": "Shalimar",
+    "province_id": "12091",
+    "department_id": "12"
+  },
+  {
+    "id": "12091008",
+    "name": "Valparaiso",
+    "province_id": "12091",
+    "department_id": "12"
+  },
+  {
+    "id": "12093001",
+    "name": "Okeechobee",
+    "province_id": "12093",
+    "department_id": "12"
+  },
+  {
+    "id": "12095001",
+    "name": "Apopka",
+    "province_id": "12095",
+    "department_id": "12"
+  },
+  {
+    "id": "12095002",
+    "name": "Bay Lake",
+    "province_id": "12095",
+    "department_id": "12"
+  },
+  {
+    "id": "12095003",
+    "name": "Belle Isle",
+    "province_id": "12095",
+    "department_id": "12"
+  },
+  {
+    "id": "12095004",
+    "name": "Edgewood",
+    "province_id": "12095",
+    "department_id": "12"
+  },
+  {
+    "id": "12095005",
+    "name": "Lake Buena Vista",
+    "province_id": "12095",
+    "department_id": "12"
+  },
+  {
+    "id": "12095006",
+    "name": "Maitland",
+    "province_id": "12095",
+    "department_id": "12"
+  },
+  {
+    "id": "12095007",
+    "name": "Ocoee",
+    "province_id": "12095",
+    "department_id": "12"
+  },
+  {
+    "id": "12095008",
+    "name": "Orlando",
+    "province_id": "12095",
+    "department_id": "12"
+  },
+  {
+    "id": "12095009",
+    "name": "Winter Garden",
+    "province_id": "12095",
+    "department_id": "12"
+  },
+  {
+    "id": "12095010",
+    "name": "Winter Park",
+    "province_id": "12095",
+    "department_id": "12"
+  },
+  {
+    "id": "12097001",
+    "name": "Kissimmee",
+    "province_id": "12097",
+    "department_id": "12"
+  },
+  {
+    "id": "12097002",
+    "name": "St. Cloud",
+    "province_id": "12097",
+    "department_id": "12"
+  },
+  {
+    "id": "12099001",
+    "name": "Atlantis",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099002",
+    "name": "Belle Glade",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099003",
+    "name": "Boca Raton",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099004",
+    "name": "Boynton Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099005",
+    "name": "Briny Breezes",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099006",
+    "name": "Delray Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099007",
+    "name": "Glen Ridge",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099008",
+    "name": "Golf",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099009",
+    "name": "Greenacres",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099010",
+    "name": "Gulf Stream",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099011",
+    "name": "Haverhill",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099012",
+    "name": "Highland Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099013",
+    "name": "Hypoluxo",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099014",
+    "name": "Juno Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099015",
+    "name": "Jupiter",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099016",
+    "name": "Jupiter Inlet Colony",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099017",
+    "name": "Lake Clarke Shores",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099018",
+    "name": "Lake Park",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099019",
+    "name": "Lake Worth Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099020",
+    "name": "Lantana",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099021",
+    "name": "Loxahatchee Groves",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099022",
+    "name": "Manalapan",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099023",
+    "name": "Mangonia Park",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099024",
+    "name": "North Palm Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099025",
+    "name": "Ocean Ridge",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099026",
+    "name": "Pahokee",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099027",
+    "name": "Palm Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099028",
+    "name": "Palm Beach Gardens",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099029",
+    "name": "Palm Beach Shores",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099030",
+    "name": "Palm Springs",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099031",
+    "name": "Riviera Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099032",
+    "name": "Royal Palm Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099033",
+    "name": "South Bay",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099034",
+    "name": "South Palm Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099035",
+    "name": "Tequesta",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099036",
+    "name": "Wellington",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099037",
+    "name": "Westlake",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12099038",
+    "name": "West Palm Beach",
+    "province_id": "12099",
+    "department_id": "12"
+  },
+  {
+    "id": "12101001",
+    "name": "Dade City",
+    "province_id": "12101",
+    "department_id": "12"
+  },
+  {
+    "id": "12101002",
+    "name": "New Port Richey",
+    "province_id": "12101",
+    "department_id": "12"
+  },
+  {
+    "id": "12101003",
+    "name": "Port Richey",
+    "province_id": "12101",
+    "department_id": "12"
+  },
+  {
+    "id": "12101004",
+    "name": "San Antonio",
+    "province_id": "12101",
+    "department_id": "12"
+  },
+  {
+    "id": "12101005",
+    "name": "St. Leo",
+    "province_id": "12101",
+    "department_id": "12"
+  },
+  {
+    "id": "12101006",
+    "name": "Zephyrhills",
+    "province_id": "12101",
+    "department_id": "12"
+  },
+  {
+    "id": "12103001",
+    "name": "Belleair",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103002",
+    "name": "Belleair Beach",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103003",
+    "name": "Belleair Bluffs",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103004",
+    "name": "Clearwater",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103005",
+    "name": "Dunedin",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103006",
+    "name": "Gulfport",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103007",
+    "name": "Indian Rocks Beach",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103008",
+    "name": "Indian Shores",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103009",
+    "name": "Kenneth City",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103010",
+    "name": "Largo",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103011",
+    "name": "Madeira Beach",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103012",
+    "name": "North Redington Beach",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103013",
+    "name": "Oldsmar",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103014",
+    "name": "Pinellas Park",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103015",
+    "name": "Redington Beach",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103016",
+    "name": "Redington Shores",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103017",
+    "name": "Safety Harbor",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103018",
+    "name": "St. Pete Beach",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103019",
+    "name": "St. Petersburg",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103020",
+    "name": "Seminole",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103021",
+    "name": "South Pasadena",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103022",
+    "name": "Tarpon Springs",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12103023",
+    "name": "Treasure Island",
+    "province_id": "12103",
+    "department_id": "12"
+  },
+  {
+    "id": "12105001",
+    "name": "Auburndale",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105002",
+    "name": "Bartow",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105003",
+    "name": "Davenport",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105004",
+    "name": "Dundee",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105005",
+    "name": "Eagle Lake",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105006",
+    "name": "Fort Meade",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105007",
+    "name": "Frostproof",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105008",
+    "name": "Haines City",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105009",
+    "name": "Hillcrest Heights",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105010",
+    "name": "Lake Alfred",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105011",
+    "name": "Lakeland",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105012",
+    "name": "Lake Hamilton",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105013",
+    "name": "Lake Wales",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105014",
+    "name": "Mulberry",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105015",
+    "name": "Polk City",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12105016",
+    "name": "Winter Haven",
+    "province_id": "12105",
+    "department_id": "12"
+  },
+  {
+    "id": "12107001",
+    "name": "Crescent City",
+    "province_id": "12107",
+    "department_id": "12"
+  },
+  {
+    "id": "12107002",
+    "name": "East Palatka",
+    "province_id": "12107",
+    "department_id": "12"
+  },
+  {
+    "id": "12107003",
+    "name": "Interlachen",
+    "province_id": "12107",
+    "department_id": "12"
+  },
+  {
+    "id": "12107004",
+    "name": "Palatka",
+    "province_id": "12107",
+    "department_id": "12"
+  },
+  {
+    "id": "12107005",
+    "name": "Pomona Park",
+    "province_id": "12107",
+    "department_id": "12"
+  },
+  {
+    "id": "12107006",
+    "name": "Welaka",
+    "province_id": "12107",
+    "department_id": "12"
+  },
+  {
+    "id": "12109001",
+    "name": "Hastings",
+    "province_id": "12109",
+    "department_id": "12"
+  },
+  {
+    "id": "12109002",
+    "name": "St. Augustine",
+    "province_id": "12109",
+    "department_id": "12"
+  },
+  {
+    "id": "12109003",
+    "name": "St. Augustine Beach",
+    "province_id": "12109",
+    "department_id": "12"
+  },
+  {
+    "id": "12111001",
+    "name": "Fort Pierce",
+    "province_id": "12111",
+    "department_id": "12"
+  },
+  {
+    "id": "12111002",
+    "name": "Port St. Lucie",
+    "province_id": "12111",
+    "department_id": "12"
+  },
+  {
+    "id": "12111003",
+    "name": "St. Lucie Village",
+    "province_id": "12111",
+    "department_id": "12"
+  },
+  {
+    "id": "12113001",
+    "name": "Gulf Breeze",
+    "province_id": "12113",
+    "department_id": "12"
+  },
+  {
+    "id": "12113002",
+    "name": "Jay",
+    "province_id": "12113",
+    "department_id": "12"
+  },
+  {
+    "id": "12113003",
+    "name": "Milton",
+    "province_id": "12113",
+    "department_id": "12"
+  },
+  {
+    "id": "12115001",
+    "name": "Longboat Key",
+    "province_id": "12115",
+    "department_id": "12"
+  },
+  {
+    "id": "12115002",
+    "name": "North Port",
+    "province_id": "12115",
+    "department_id": "12"
+  },
+  {
+    "id": "12115003",
+    "name": "Sarasota",
+    "province_id": "12115",
+    "department_id": "12"
+  },
+  {
+    "id": "12115004",
+    "name": "Venice",
+    "province_id": "12115",
+    "department_id": "12"
+  },
+  {
+    "id": "12117001",
+    "name": "Altamonte Springs",
+    "province_id": "12117",
+    "department_id": "12"
+  },
+  {
+    "id": "12117002",
+    "name": "Casselberry",
+    "province_id": "12117",
+    "department_id": "12"
+  },
+  {
+    "id": "12117003",
+    "name": "Lake Mary",
+    "province_id": "12117",
+    "department_id": "12"
+  },
+  {
+    "id": "12117004",
+    "name": "Longwood",
+    "province_id": "12117",
+    "department_id": "12"
+  },
+  {
+    "id": "12117005",
+    "name": "Oviedo",
+    "province_id": "12117",
+    "department_id": "12"
+  },
+  {
+    "id": "12117006",
+    "name": "Sanford",
+    "province_id": "12117",
+    "department_id": "12"
+  },
+  {
+    "id": "12117007",
+    "name": "Winter Springs",
+    "province_id": "12117",
+    "department_id": "12"
+  },
+  {
+    "id": "12109001",
+    "name": "Hastings",
+    "province_id": "12109",
+    "department_id": "12"
+  },
+  {
+    "id": "12109002",
+    "name": "St. Augustine",
+    "province_id": "12109",
+    "department_id": "12"
+  },
+  {
+    "id": "12109003",
+    "name": "St. Augustine Beach",
+    "province_id": "12109",
+    "department_id": "12"
+  },
+  {
+    "id": "12111001",
+    "name": "Fort Pierce",
+    "province_id": "12111",
+    "department_id": "12"
+  },
+  {
+    "id": "12111002",
+    "name": "Port St. Lucie",
+    "province_id": "12111",
+    "department_id": "12"
+  },
+  {
+    "id": "12111003",
+    "name": "St. Lucie Village",
+    "province_id": "12111",
+    "department_id": "12"
+  },
+  {
+    "id": "12119001",
+    "name": "Bushnell",
+    "province_id": "12119",
+    "department_id": "12"
+  },
+  {
+    "id": "12119002",
+    "name": "Center Hill",
+    "province_id": "12119",
+    "department_id": "12"
+  },
+  {
+    "id": "12119003",
+    "name": "Coleman",
+    "province_id": "12119",
+    "department_id": "12"
+  },
+  {
+    "id": "12119004",
+    "name": "Webster",
+    "province_id": "12119",
+    "department_id": "12"
+  },
+  {
+    "id": "12119005",
+    "name": "Wildwood",
+    "province_id": "12119",
+    "department_id": "12"
+  },
+  {
+    "id": "12121001",
+    "name": "Branford",
+    "province_id": "12121",
+    "department_id": "12"
+  },
+  {
+    "id": "12121002",
+    "name": "Live Oak",
+    "province_id": "12121",
+    "department_id": "12"
+  },
+  {
+    "id": "12123001",
+    "name": "Perry",
+    "province_id": "12123",
+    "department_id": "12"
+  },
+  {
+    "id": "12125001",
+    "name": "Lake Butler",
+    "province_id": "12125",
+    "department_id": "12"
+  },
+  {
+    "id": "12125002",
+    "name": "Raiford",
+    "province_id": "12125",
+    "department_id": "12"
+  },
+  {
+    "id": "12125003",
+    "name": "Worthington Springs",
+    "province_id": "12125",
+    "department_id": "12"
+  },
+  {
+    "id": "12127001",
+    "name": "Daytona Beach",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127002",
+    "name": "DeBary",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127003",
+    "name": "DeLand",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127004",
+    "name": "Deltona",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127005",
+    "name": "Edgewater",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127006",
+    "name": "Holly Hill",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127007",
+    "name": "Lake Helen",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127008",
+    "name": "New Smyrna Beach",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127009",
+    "name": "Oak Hill",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127010",
+    "name": "Orange City",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127011",
+    "name": "Ormond Beach",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127012",
+    "name": "Pierson",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127013",
+    "name": "Ponce Inlet",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127014",
+    "name": "Port Orange",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12127015",
+    "name": "South Daytona",
+    "province_id": "12127",
+    "department_id": "12"
+  },
+  {
+    "id": "12129001",
+    "name": "Sopchoppy",
+    "province_id": "12129",
+    "department_id": "12"
+  },
+  {
+    "id": "12129002",
+    "name": "St. Marks",
+    "province_id": "12129",
+    "department_id": "12"
+  },
+  {
+    "id": "12131001",
+    "name": "DeFuniak Springs",
+    "province_id": "12131",
+    "department_id": "12"
+  },
+  {
+    "id": "12131002",
+    "name": "Freeport",
+    "province_id": "12131",
+    "department_id": "12"
+  },
+  {
+    "id": "12131003",
+    "name": "Paxton",
+    "province_id": "12131",
+    "department_id": "12"
+  },
+  {
+    "id": "12133001",
+    "name": "Caryville",
+    "province_id": "12133",
+    "department_id": "12"
+  },
+  {
+    "id": "12133002",
+    "name": "Chipley",
+    "province_id": "12133",
+    "department_id": "12"
+  },
+  {
+    "id": "12133003",
+    "name": "Ebro",
+    "province_id": "12133",
+    "department_id": "12"
+  },
+  {
+    "id": "12133004",
+    "name": "Vernon",
+    "province_id": "12133",
+    "department_id": "12"
+  },
+  {
+    "id": "12133005",
+    "name": "Wausau",
+    "province_id": "12133",
+    "department_id": "12"
+  }
+]

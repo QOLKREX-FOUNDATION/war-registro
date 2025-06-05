@@ -26,9 +26,7 @@ export const DataSensitive = ({
     handleDepartaments,
     handleProvinces,
     handleDistricts,
-  } = useUbigeo(
-    watchAdopter("country") || "PE"
-  );
+  } = useUbigeo(watchAdopter("country") || "PE");
 
   const { codes, getCodes } = useCodePhone();
   useEffect(() => {
@@ -187,6 +185,7 @@ export const DataSensitive = ({
           watchAdopter("country") === "CL" ||
           watchAdopter("country") === "ES" ||
           watchAdopter("country") === "CA" ||
+          watchAdopter("country") === "US" ||
           watchAdopter("country") === "HN" ? (
             <>
               <div>
