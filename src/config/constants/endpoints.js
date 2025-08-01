@@ -61,4 +61,4 @@ export const API_TESNET = {
 };
 
 export const imageURI =
-  "https://res.cloudinary.com/worldanireg/image/upload/v1/images/image";
+  "https://res.cloudinary.com/worldanireg/image/upload/images/image";
