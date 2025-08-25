@@ -3,9 +3,12 @@ import CELO from "../config/abi/celoRouter.json";
 import Web3 from "web3";
 export const useCurrentPrice = () => {
   const [price, setPrice] = useState(0);
-  const web3 = new Web3(
+
+  /*const web3 = new Web3(
     "https://celo-mainnet.infura.io/v3/6bbfcbeb9e0d49ae80b539a6daa4fdf6"
-  );
+  ); */
+
+  const web3 = new Web3("https://forno.celo.org");
   const contract = new web3.eth.Contract(
     CELO,
     "0xE3D8bd6Aed4F159bc8000a9cD47CffDb95F96121"
