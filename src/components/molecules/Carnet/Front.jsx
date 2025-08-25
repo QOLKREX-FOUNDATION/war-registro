@@ -56,7 +56,9 @@ export const Front = ({
           maxHeight: imp ? "100px" : ajust.height / 8,
           width: "120px",
         }}
-        src={`https://res.cloudinary.com/worldanireg/image/upload/v1701811578/entityRegister/logo/${getPet?.idRegisteringEntity || "default"}.png`}
+        src={`https://res.cloudinary.com/worldanireg/image/upload/v1701811578/entityRegister/logo/${
+          getPet?.idRegisteringEntity || "default"
+        }.png`}
         onError={({ currentTarget }) => {
           // currentTarget.onerror = null; // Evita bucles infinitos
           // const idEntity = handleIdEntity();
@@ -187,20 +189,34 @@ export const Front = ({
       </p>
 
       <div className={classes.image}>
-        <img
-          style={{
-            borderRadius: imp ? "15px" : ajust.height / 100,
-            width: imp ? "310px" : ajust.height / 2,
-          }}
-          src={image}
-          alt="image"
-          onError={
-            ({ currentTarget }) =>
-              (currentTarget.src = `${IPFS}${getPet?.image}`)
-            // (currentTarget.src = "/img/license/noImage.png")
-            // currentTarget.src = "/img/license/noImage.png"
-          }
-        />
+        <div>
+          <img
+            style={{
+              borderRadius: imp ? "15px" : ajust.height / 100,
+              width: imp ? "310px" : ajust.height / 2,
+            }}
+            src={image}
+            alt="image"
+            onError={
+              ({ currentTarget }) =>
+                (currentTarget.src = `${IPFS}${getPet?.image}`)
+              // (currentTarget.src = "/img/license/noImage.png")
+              // currentTarget.src = "/img/license/noImage.png"
+            }
+          />
+          {/* Número de chip debajo de la foto */}
+          <p
+            style={{
+              textAlign: "center",
+              fontWeight: "bold",
+              fontSize: imp ? "20px" : ajust.height / 50,
+              margin: "0.3rem 0",
+              letterSpacing: "2px",
+            }}
+          >
+            {getPet?.chip}
+          </p>
+        </div>
         <div
           className={`${classes.chipContainer}`}
           style={{
@@ -215,6 +231,7 @@ export const Front = ({
                 height: imp ? 32 : ajust.height / 35,
                 fontSize: imp ? 20 : ajust.height / 60,
                 background: "transparent",
+                displayValue: false,
               }}
             />
           </p>
