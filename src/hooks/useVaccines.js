@@ -77,8 +77,18 @@ export const useVaccines = () => {
     handlePreloader(true);
     const blob = new Blob([JSON.stringify(info)], { type: "application/json" });
     toFileWeb3Storage(blob, `${info.chip}.json`)
-      .then((cid) => {
+      .then(async (cid) => {
         if (cid) {
+          // Aquí actualizas en MongoDB la vacuna
+          await handlePost(
+            {
+              chip: info.chip,
+              vaccines: info.vaccines, // o todo el objeto info si tu backend lo espera así
+            },
+            token,
+            "PUT"
+          );
+
           info.url = cid;
           setVaccinesBlockchain(web3, account, petValues.chip, cid)
             .then((response) => {
