@@ -94,7 +94,7 @@ export const Carnet = ({ petValues, adopter, entityRegister }) => {
           <Front
             getPet={petValues}
             // image={`${ API.warPublic }public/images/image/${ petValues?.chip
-            image={`${imageURI}/${petValues?.chip}.png?v=2`}
+            image={`${imageURI}/${petValues?.chip}.png${Date.now()}`}
             imp={true}
             styles={{ height: "649px", width: "1003px" }}
           />
