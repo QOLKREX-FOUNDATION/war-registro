@@ -29,7 +29,7 @@ export const PetItem = ({ pet, changePet }) => {
               // src={`${API.warPublic}public/images/image/${
               //   pet.chip
               // }.jpg?${Math.random()}`}
-              src={`${imageURI}/${pet.chip}.png?v=2`}
+              src={`${imageURI}/${pet.chip}.png?v=${Date.now()}`}
               className="mx-auto object-cover rounded-full h-16 w-16 "
               onError={({ currentTarget }) => {
                 currentTarget.onerror = null;

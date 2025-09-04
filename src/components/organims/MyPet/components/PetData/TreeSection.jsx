@@ -482,7 +482,9 @@ export const TreeSection = ({ chip }) => {
                       Hijo
                     </h2>
                     <img
-                      src={`${imageURI}/${genealogyData?.genealogy?.son.chip}.png?v=2`}
+                      src={`${imageURI}/${
+                        genealogyData?.genealogy?.son.chip
+                      }.png?v=${Date.now()}`}
                       className="rounded-full object-cover w-24 h-24 border-2 border-gray-500 dark:border-white"
                     />
                     <h2 className="text-xl font-semibold py-2 text-center">

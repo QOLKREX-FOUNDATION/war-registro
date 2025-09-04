@@ -30,7 +30,7 @@ export const Carnet = ({ petValues, adopter, entityRegister }) => {
     // 		petValues?.chip
     // 	}.jpg?${Math.random()}`
     // );
-    setImgReader(`${imageURI}/${petValues?.chip}.png?v=2`);
+    setImgReader(`${imageURI}/${petValues?.chip}.png?v=${Date.now()}`);
   }, [petValues?.chip]);
 
   return (
@@ -94,7 +94,7 @@ export const Carnet = ({ petValues, adopter, entityRegister }) => {
           <Front
             getPet={petValues}
             // image={`${ API.warPublic }public/images/image/${ petValues?.chip
-            image={`${imageURI}/${petValues?.chip}.png${Date.now()}`}
+            image={`${imageURI}/${petValues?.chip}.png?v=${Date.now()}`}
             imp={true}
             styles={{ height: "649px", width: "1003px" }}
           />

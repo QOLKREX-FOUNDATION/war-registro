@@ -38,7 +38,7 @@ export const PetFinish = ({
       // 		getPet?.chip
       // 	}.jpg?${Math.random()}`
       // );
-      setImgReader(`${imageURI}/${getPet?.chip}.png?v=2`);
+      setImgReader(`${imageURI}/${getPet?.chip}.png?v=${Date.now()}`);
     }
   }, [watchPet("image")]);
 

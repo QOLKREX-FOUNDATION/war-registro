@@ -190,7 +190,9 @@ export const PetForm = ({
                       <span className="font-bold dark:bg-slate-700 dark:text-white underline-offset-1	">
                         <a
                           // href={`${ API.warPublic }public/images/pedigree/${ getPet.chip }.jpg`}
-                          href={`${imageURI}/${petValues?.chip}.png?v=2`}
+                          href={`${imageURI}/${
+                            petValues?.chip
+                          }.png?v=${Date.now()}`}
                           target="_blank"
                           rel="noreferrer noopener"
                         >
@@ -305,7 +307,7 @@ export const PetForm = ({
               <img
                 // src={`${ API.warPublic }public/images/image/${ getPet.chip
                 // 	}.jpg?${ Math.random() }`}
-                src={`${imageURI}/${getPet.chip}.png?v=2`}
+                src={`${imageURI}/${getPet.chip}.png?v=${Date.now()}`}
                 alt={petValues.name}
                 style={{ width: "15rem" }}
               />
