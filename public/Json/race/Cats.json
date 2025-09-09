@@ -538,5 +538,10 @@
     "en-Us": "TORTOISESHELL",
     "es-Es": "CAREY",
     "value": "TORTOISESHELL"
+  },
+  {
+    "en-Us": "DOMESTIC SHORTHAIR CAT",
+    "es-Es": "GATO DOMESTICO DE PELAJE CORTO",
+    "value": "GATO DOMESTICO DE PELAJE CORTO"
   }
 ]
