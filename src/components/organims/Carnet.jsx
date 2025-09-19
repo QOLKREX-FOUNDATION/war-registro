@@ -24,14 +24,29 @@ export const Carnet = ({ petValues, adopter, entityRegister }) => {
     }, 3000);
   };
 
-  useEffect(() => {
+  /*  useEffect(() => {
     // setImgReader(
     // 	`${API.warPublic}public/images/image/${
     // 		petValues?.chip
     // 	}.jpg?${Math.random()}`
     // );
     setImgReader(`${imageURI}/${petValues?.chip}.png?v=${Date.now()}`);
-  }, [petValues?.chip]);
+  }, [petValues?.chip]); */
+
+  useEffect(() => {
+    if (!petValues?.chip) return;
+
+    const cloudinaryUrl = `${imageURI}/${petValues?.chip}.png?v=${Date.now()}`;
+    const ipfsUrl = petValues?.image
+      ? `https://ipfs.io/ipfs/${petValues.image}`
+      : "/img/license/noImage.png";
+
+    // Probar si la imagen de Cloudinary existe
+    const img = new window.Image();
+    img.onload = () => setImgReader(cloudinaryUrl);
+    img.onerror = () => setImgReader(ipfsUrl);
+    img.src = cloudinaryUrl;
+  }, [petValues?.chip, petValues?.image]);
 
   return (
     <>
