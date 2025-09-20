@@ -21,13 +21,26 @@ export const yearCurrent = () => {
 		: `${day}-${month}-${year}`;
 }; */
 
-export function formatDate(date) {
+export function formatDate(date, type = false) {
   if (!date) return "";
-  // Si es objeto Date, pásalo a string ISO
-  const str = typeof date === "string" ? date : date.toISOString();
-  // Toma solo la parte de la fecha
-  const [yyyy, mm, dd] = str.split("T")[0].split("-");
-  return `${dd}/${mm}/${yyyy}`;
+  let str = typeof date === "string" ? date : date.toISOString();
+
+  // Extraer año, mes y día
+  let yyyy, mm, dd;
+  if (str.length === 10 && str.match(/^\d{4}-\d{2}-\d{2}$/)) {
+    [yyyy, mm, dd] = str.split("-");
+  } else if (str.includes("T")) {
+    [yyyy, mm, dd] = str.split("T")[0].split("-");
+  } else {
+    // fallback para otros formatos
+    const d = new Date(str);
+    dd = d.getDate().toString().padStart(2, "0");
+    mm = (d.getMonth() + 1).toString().padStart(2, "0");
+    yyyy = d.getFullYear();
+  }
+
+  // type: true = "YYYY-MM-DD", false = "DD-MM-YYYY"
+  return type ? `${yyyy}-${mm}-${dd}` : `${dd}-${mm}-${yyyy}`;
 }
 
 export const dateStringYear = (value, operation = false) => {
