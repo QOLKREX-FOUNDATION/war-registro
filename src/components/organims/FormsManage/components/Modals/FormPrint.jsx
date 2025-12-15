@@ -44,6 +44,7 @@ export const FormPrint = ({
     console.log({ route })
 
 
+
     // const handlePdf = async () => {
     //     console.log(selectedForm.id)
     //     setLoading(true)
@@ -218,8 +219,9 @@ export const FormPrint = ({
     }
 
     console.log(selectedForm)
-    // console.log(selectedForm.pet.color.split(","))
+    // console.log(selectedForm.pet.color.split(","))  
 
+    const isAddressFirma = (web3.account ===  "0xE8A2a2c0fA6E62568f5dc389cAD421cDb06962D9");
     return (
         <div className="flex flex-col dark:text-white">
             <div className="flex items-center mb-3">
@@ -296,11 +298,11 @@ export const FormPrint = ({
                     </button>
                 }
             </div> */}
-
             <div className="flex justify-center w-full overflow-x-auto">
                 {/* preview */}
                 <div className="relative w-[1200px] h-[1600px] flex flex-col  bg-white text-black pb-4 border border-red-600">
                     <div className="w-[1200px] h-[1600px] border border-green-600">
+                      
                         {
                             route === 'forms' ?
                                 <img
@@ -320,6 +322,11 @@ export const FormPrint = ({
                                     height={1800}
                                     className='w-[1200px] h-[1600px]'
                                 />
+                        }
+                          {isAddressFirma &&
+                        <div  className="w-[200px] h-[80px]  relative  left-[820px] p-absolute " style={{zIndex:999999999, top:'-230px'}}>
+                            <img  src="/img/firma.jpeg" alt="firma" width="100%" height="100%" />
+                        </div>
                         }
                     </div>
                     <div className="absolute border border-blue-600 w-[1200px] h-[1600px] pb-2 overflow-hidden">
@@ -630,7 +637,9 @@ export const FormPrint = ({
                 {/* plantilla */}
                 <div className="absolute -z-10">
                     <div id="content-to-pdf" className="relative w-[1200px] h-[1600px] flex flex-col  bg-white text-black pb-4">
+                         
                         <div className="w-[1200px] h-[1600px] ">
+                           
                             {
                                 route === 'forms' ?
                                     <img
@@ -651,6 +660,12 @@ export const FormPrint = ({
                                         className='w-[1200px] h-[1600px]'
                                     />
                             }
+
+                              {isAddressFirma &&
+                        <div  className="w-[200px] h-[80px]  relative  left-[820px] p-absolute " style={{zIndex:999999999, top:'-230px'}}>
+                            <img  src="/img/firma.jpeg" alt="firma" width="100%" height="100%" />
+                        </div>
+                        }
                         </div>
                         <div className="top-[-10px] absolute  w-[1200px] h-[1600px] overflow-hidden">
                             <div className="relative w-full h-full -top-[10px]">
@@ -922,6 +937,7 @@ export const FormPrint = ({
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
                                                 <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
                                             </svg>
+                                   
                                     </h1>
                                     {/* <h1 className='relative top-[10px] left-[420px] font-light text-[17px] w-60'>
                                         {selectedForm.adopter.jurament2 ?
@@ -936,6 +952,7 @@ export const FormPrint = ({
                                             <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
                                         </svg>
                                     </h1>
+                                      
 
                                 </div>
                             </div>
