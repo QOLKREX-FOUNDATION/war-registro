@@ -28,5 +28,10 @@
     "en-Us": "GUINEA PIG",
     "es-Es": "COBAYA (CUY)",
     "value": "GUINEA_PIG"
+  },
+  {
+    "en-Us": "MONKEY",
+    "es-Es": "MONO",
+    "value": "MONKEY"
   }
 ]
