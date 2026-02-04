@@ -1675,6 +1675,18 @@
     "department_id": "12"
   },
   {
+    "id": "12109004",
+    "name": "Ponte Vedra Beach",
+    "province_id": "12109",
+    "department_id": "12"
+  },
+  {
+    "id": "12109005",
+    "name": "Nocatee",
+    "province_id": "12109",
+    "department_id": "12"
+  },
+  {
     "id": "12111001",
     "name": "Fort Pierce",
     "province_id": "12111",
