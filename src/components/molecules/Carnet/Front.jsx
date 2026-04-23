@@ -17,12 +17,38 @@ export const Front = ({
   const ajust = { height: styles.width * 16 };
   const { countries } = useCountry();
   const { races } = useSpecie(getPet?.type);
+  const resolveCountryCode = (country) => {
+    if (!country) return "pe";
+    const raw = String(country).trim();
+    if (countries && countries.length) {
+      const byValue = countries.find(
+        (c) => String(c.value).toLowerCase() === raw.toLowerCase(),
+      );
+      if (byValue) return byValue.value.toLowerCase();
+
+      const byLabel = countries.find(
+        (c) => String(c.label).toLowerCase() === raw.toLowerCase(),
+      );
+      if (byLabel) return byLabel.value.toLowerCase();
+
+      const byIncludes = countries.find((c) =>
+        String(c.label).toLowerCase().includes(raw.toLowerCase()),
+      );
+      if (byIncludes) return byIncludes.value.toLowerCase();
+    }
+
+    // If it's likely a code (>=2 chars) use first two letters, else fallback to PE
+    return raw.length >= 2 ? raw.slice(0, 2).toLowerCase() : "pe";
+  };
+
+  const countryCodeForIcon = resolveCountryCode(getPet?.country);
   console.log(races);
   console.log(getPet);
+  console.log("getPet.country:", getPet?.country);
 
   const handleIdEntity = () => {
     return sessionStorage?.getItem(
-      "idEntity_" + String(getPet.adopter).toUpperCase()
+      "idEntity_" + String(getPet.adopter).toUpperCase(),
     );
   };
 
@@ -150,7 +176,7 @@ export const Front = ({
         </span>
         <br className="marginPaddingNone" />
         {countries.map(
-          (values) => values.value == getPet?.country && values.label
+          (values) => values.value == getPet?.country && values.label,
         )}
       </p>
 
@@ -183,7 +209,7 @@ export const Front = ({
         <span className={classes.title}>Esterilizado : </span>
         {
           optionsSterilized.filter(
-            (option) => option.value === getPet?.sterilized
+            (option) => option.value === getPet?.sterilized,
           )[0]?.label
         }
       </p>
@@ -248,35 +274,19 @@ export const Front = ({
         alt="paw"
       />
 
-      {getPet && getPet.country ? (
-        <img
-          className={classes.countryIcon}
-          style={{
-            height: imp ? "25px" : ajust.height / 40,
-            width: imp ? "40px" : ajust.height / 30,
-          }}
-          src={`/img/license/flat/${String(getPet?.country).toLowerCase()}.png`}
-          onError={({ currentTarget }) => {
-            currentTarget.onerror = null;
-            currentTarget.src = `/img/license/PER.png`;
-          }}
-          alt="Country"
-        />
-      ) : (
-        <img
-          className={classes.countryIcon}
-          style={{
-            height: imp ? "25px" : ajust.height / 40,
-            width: imp ? "40px" : ajust.height / 30,
-          }}
-          src={`/img/license/flat/PER.png`}
-          onError={({ currentTarget }) => {
-            currentTarget.onerror = null;
-            currentTarget.src = `/img/license/PER.png`;
-          }}
-          alt="Country"
-        />
-      )}
+      <img
+        className={classes.countryIcon}
+        style={{
+          height: imp ? "25px" : ajust.height / 40,
+          width: imp ? "40px" : ajust.height / 30,
+        }}
+        src={`/img/license/flat/${countryCodeForIcon}.png`}
+        onError={({ currentTarget }) => {
+          currentTarget.onerror = null;
+          currentTarget.src = `/img/license/flat/pe.png`;
+        }}
+        alt="Country"
+      />
     </div>
   );
 };

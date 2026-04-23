@@ -1,8 +1,8 @@
-export const URL_MAINET = "https://firulaixcoin.finance/";
+export const URL_MAINET = "https://firulaixcoin.money/";
 export const URL_TESNET = "http://localhost:3000/";
 
-export const URL_WAR_MAINET = "https://firulaixcoin.finance/";
-export const URL_WAR_TESNET = "https://test.firulaixcoin.finance/";
+export const URL_WAR_MAINET = "https://firulaixcoin.money/";
+export const URL_WAR_TESNET = "https://test.firulaixcoin.money/";
 
 export const URL_EXPLORER_MAINET = "https://celoscan.io/";
 export const URL_EXPLORER_TESNET = "https://celoscan.io/";
@@ -11,8 +11,8 @@ export const IPFS_MAINET = "https://ipfs.io/ipfs/";
 export const IPFS_TESNET = "https://ipfs.io/ipfs/";
 
 export const API_MAINET = {
-  firulaix: "https://firuapi1.firulaixcoin.finance/api/",
-  // firulaixPublic: "https://firuapi1.firulaixcoin.finance/",
+  firulaix: "https://firuapi1.firulaixcoin.money/api/",
+  // firulaixPublic: "https://firuapi1.firulaixcoin.money/",
   // war: "http://localhost:5000/api/",
   // war: "https://3tfgz37n-5000.brs.devtunnels.ms/",
   // war: "https://consultwar.renian.foundation/api/",
@@ -48,8 +48,8 @@ export const API_MAINET = {
 // 	ipfsToken: process.env.IPFSTOKEN,
 
 export const API_TESNET = {
-  firulaix: "https://firuapi1.firulaixcoin.finance/api/",
-  firulaixPublic: "https://firuapi1.firulaixcoin.finance/",
+  firulaix: "https://firuapi1.firulaixcoin.money/api/",
+  firulaixPublic: "https://firuapi1.firulaixcoin.money/",
   war: "https://firuTestnet.alejandroaguilar.dev/api/",
   warPublic: "https://firuTestnet.alejandroaguilar.dev/",
   ipfs: "https://api.web3.storage",
