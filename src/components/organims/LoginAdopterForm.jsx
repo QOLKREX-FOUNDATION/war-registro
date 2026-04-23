@@ -40,7 +40,7 @@ export const LoginAdopterForm = ({ setOpenEdit }) => {
               formInput={{
                 onChange: ({ target }) => {
                   // console.log(target.value)
-                  setPassword(target.value)
+                  setPassword(target.value);
                 },
               }}
             />
@@ -81,7 +81,7 @@ export const LoginAdopterForm = ({ setOpenEdit }) => {
             </div>
             <div className="w-32 my-0 mx-auto transition duration-300 ease-in-out saturate-50 hover:saturate-100 hover:scale-105 cursor-pointer">
               <a
-                href="https://firulaixcoin.finance/"
+                href="https://firulaixcoin.money/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

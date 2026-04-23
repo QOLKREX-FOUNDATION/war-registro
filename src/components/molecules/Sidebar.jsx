@@ -59,14 +59,14 @@ const Sidebar = () => {
 
   const handleIdEntity = async () => {
     const id = sessionStorage?.getItem(
-      "idEntity_" + String(web3.account).toUpperCase()
+      "idEntity_" + String(web3.account).toUpperCase(),
     );
     if (!id) {
       setIdEntity("");
       return;
     }
     setUrlLogo(
-      `https://res.cloudinary.com/worldanireg/image/upload/v1701794426/entityRegister/logo/${id}.png?v=${Date.now()}`
+      `https://res.cloudinary.com/worldanireg/image/upload/v1701794426/entityRegister/logo/${id}.png?v=${Date.now()}`,
     );
     setIdEntity(id);
   };
@@ -572,10 +572,10 @@ const Sidebar = () => {
                   <img
                     // src={
                     //   web3.rol == "adopter"
-                    //     ? `https://firulaixcoin.finance/images/logos/${ sessionStorage.getItem(
+                    //     ? `https://firulaixcoin.money/images/logos/${ sessionStorage.getItem(
                     //       "idEntity"
                     //     ) }.png`
-                    //     : !!web3.account && `https://firulaixcoin.finance/images/logos/${ sessionStorage.getItem(
+                    //     : !!web3.account && `https://firulaixcoin.money/images/logos/${ sessionStorage.getItem(
                     //       "idEntity_" + String(web3.account).toUpperCase()
                     //     ) }.png`
                     // }
