@@ -3806,7 +3806,7 @@
 
 "@thirdweb-dev/react-core@4.9.4":
   version "4.9.4"
-  resolved "https://registry.npmjs.org/@thirdweb-dev/react-core/-/react-core-4.9.4.tgz#c5c42bd845b070fe2a0c647e231de514f87527ed"
+  resolved "https://registry.npmmirror.com/@thirdweb-dev/react-core/-/react-core-4.9.4.tgz#c5c42bd845b070fe2a0c647e231de514f87527ed"
   integrity sha512-qG6cgFEy2dMjJPhEOpWLH0ZUPUq4hAsiL5px9iaxDwQl7luy8dOPNj3LSMCqxLuZEoW3psQqqXSi+XvlMLIkOg==
   dependencies:
     "@tanstack/react-query" "^4.36.1"
