@@ -217,6 +217,7 @@ export const Front = ({
       <div className={classes.image}>
         <div>
           <img
+            crossOrigin="anonymous"
             style={{
               borderRadius: imp ? "15px" : ajust.height / 100,
               width: imp ? "310px" : ajust.height / 2,

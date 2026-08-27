@@ -7,8 +7,8 @@ export const URL_WAR_TESNET = "https://test.firulaixcoin.money/";
 export const URL_EXPLORER_MAINET = "https://celoscan.io/";
 export const URL_EXPLORER_TESNET = "https://celoscan.io/";
 
-export const IPFS_MAINET = "https://ipfs.io/ipfs/";
-export const IPFS_TESNET = "https://ipfs.io/ipfs/";
+export const IPFS_MAINET = "https://gateway.pinata.cloud/ipfs/";
+export const IPFS_TESNET = "https://gateway.pinata.cloud/ipfs/";
 
 export const API_MAINET = {
   firulaix: "https://firuapi1.firulaixcoin.money/api/",

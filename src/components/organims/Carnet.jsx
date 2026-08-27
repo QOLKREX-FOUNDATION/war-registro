@@ -38,7 +38,7 @@ export const Carnet = ({ petValues, adopter, entityRegister }) => {
 
     const cloudinaryUrl = `${imageURI}/${petValues?.chip}.png?v=${Date.now()}`;
     const ipfsUrl = petValues?.image
-      ? `https://ipfs.io/ipfs/${petValues.image}`
+      ? `https://gateway.pinata.cloud/ipfs/${petValues.image}`
       : "/img/license/noImage.png";
 
     // Probar si la imagen de Cloudinary existe
@@ -108,8 +108,7 @@ export const Carnet = ({ petValues, adopter, entityRegister }) => {
         >
           <Front
             getPet={petValues}
-            // image={`${ API.warPublic }public/images/image/${ petValues?.chip
-            image={`${imageURI}/${petValues?.chip}.png?v=${Date.now()}`}
+            image={imageReader}
             imp={true}
             styles={{ height: "649px", width: "1003px" }}
           />
