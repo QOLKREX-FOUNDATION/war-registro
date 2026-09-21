@@ -9,7 +9,7 @@ import { useAprovate } from "../../hooks/useAprovate";
 import { toastMessage } from "../../utils/toastMessage";
 import { estimateAmountOut } from "../../utils/war/oracle";
 import { PreloaderContext } from "../../contexts/Preloader/PreloaderContext";
-import { amountFiruUSDC } from "../../utils/bigNumber";
+import { amountBigReverse, amountFiruUSDC } from "../../utils/bigNumber";
 import { transfer } from "../../utils/er20";
 import { setCost } from "../../utils/war/cost";
 // import { setData } from "../../utils/war/crud";
@@ -47,7 +47,7 @@ export const ButtonPaymentCertificate = ({
       account,
       amountFiruUSDC(coin, price, responseAmount),
       amountFiruUSDC(coin, price, responseAmount, 2),
-      amountFiruUSDC(coin, price, responseAmount)
+      amountFiruUSDC(coin, price, responseAmount),
     );
     // coin == "FIRU" ? TOKENS.FIRU.address : TOKENS.USDC.address
 
@@ -145,7 +145,11 @@ export const ButtonPaymentCertificate = ({
       allowance(web3.wallet, web3.account, coin, CONTRACTS_WAR.Crud)
         .then((resolve) => {
           console.log({ resolve });
-          setApprovate(resolve);
+          setApprovate(
+            resolve > 0
+              ? amountBigReverse(resolve.toString(), TOKENS[coin].decimals)
+              : 0,
+          );
         })
         .catch((e) => console.log(e));
   }, [web3.account, web3.wallet, web3.chainId, coin]);
