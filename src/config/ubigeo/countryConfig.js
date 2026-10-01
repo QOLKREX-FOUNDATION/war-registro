@@ -33,6 +33,11 @@ import usDepartamentsJson from "../../../public/Json/ubigeo/US/estados.json";
 import usProvincesJson from "../../../public/Json/ubigeo/US/condados.json";
 import usDistrictsJson from "../../../public/Json/ubigeo/US/municipios.json";
 
+// BOLIVIA
+import boDepartmentsJson from "../../../public/Json/ubigeo/BO/departamentos.json";
+import boProvincesJson from "../../../public/Json/ubigeo/BO/provincias.json";
+import boDistrictsJson from "../../../public/Json/ubigeo/BO/municipios.json";
+
 export const countryConfig = {
   PE: {
     departmentsJson: peDepartmentsJson,
@@ -73,6 +78,11 @@ export const countryConfig = {
     departmentsJson: usDepartamentsJson,
     provincesJson: usProvincesJson,
     districtsJson: usDistrictsJson,
+  },
+  BO: {
+    departmentsJson: boDepartmentsJson,
+    provincesJson: boProvincesJson,
+    districtsJson: boDistrictsJson,
   },
 };
 
@@ -116,5 +126,10 @@ export const countryLabel = {
     departmentsLabel: "Estados",
     provincesLabel: "Condados",
     districtsLabel: "Municipios",
+  },
+  BO: {
+    departmentsLabel: "Departamento",
+    provincesLabel: "Provincia",
+    districtsLabel: "Municipio",
   },
 };

@@ -1,0 +1,1880 @@
+[
+  {
+    "id": "010101",
+    "name": "SUCRE",
+    "province_id": "0101",
+    "department_id": "01"
+  },
+  {
+    "id": "010102",
+    "name": "YOTALA",
+    "province_id": "0101",
+    "department_id": "01"
+  },
+  {
+    "id": "010103",
+    "name": "POROMA",
+    "province_id": "0101",
+    "department_id": "01"
+  },
+  {
+    "id": "010201",
+    "name": "VILLA AZURDUY",
+    "province_id": "0102",
+    "department_id": "01"
+  },
+  {
+    "id": "010202",
+    "name": "TARVITA",
+    "province_id": "0102",
+    "department_id": "01"
+  },
+  {
+    "id": "010301",
+    "name": "ZUDÁÑEZ",
+    "province_id": "0103",
+    "department_id": "01"
+  },
+  {
+    "id": "010302",
+    "name": "PRESTO",
+    "province_id": "0103",
+    "department_id": "01"
+  },
+  {
+    "id": "010303",
+    "name": "MOJOCOYA",
+    "province_id": "0103",
+    "department_id": "01"
+  },
+  {
+    "id": "010304",
+    "name": "ICLA",
+    "province_id": "0103",
+    "department_id": "01"
+  },
+  {
+    "id": "010401",
+    "name": "PADILLA",
+    "province_id": "0104",
+    "department_id": "01"
+  },
+  {
+    "id": "010402",
+    "name": "TOMINA",
+    "province_id": "0104",
+    "department_id": "01"
+  },
+  {
+    "id": "010403",
+    "name": "SOPACHUY",
+    "province_id": "0104",
+    "department_id": "01"
+  },
+  {
+    "id": "010404",
+    "name": "EL VILLAR",
+    "province_id": "0104",
+    "department_id": "01"
+  },
+  {
+    "id": "010405",
+    "name": "ALCALÁ",
+    "province_id": "0104",
+    "department_id": "01"
+  },
+  {
+    "id": "010501",
+    "name": "MONTEAGUDO",
+    "province_id": "0105",
+    "department_id": "01"
+  },
+  {
+    "id": "010502",
+    "name": "HUACARETA",
+    "province_id": "0105",
+    "department_id": "01"
+  },
+  {
+    "id": "010601",
+    "name": "TARABUCO",
+    "province_id": "0106",
+    "department_id": "01"
+  },
+  {
+    "id": "010602",
+    "name": "YAMPARÁEZ",
+    "province_id": "0106",
+    "department_id": "01"
+  },
+  {
+    "id": "010701",
+    "name": "CAMARGO",
+    "province_id": "0107",
+    "department_id": "01"
+  },
+  {
+    "id": "010702",
+    "name": "SAN LUCAS",
+    "province_id": "0107",
+    "department_id": "01"
+  },
+  {
+    "id": "010703",
+    "name": "INCAHUASI",
+    "province_id": "0107",
+    "department_id": "01"
+  },
+  {
+    "id": "010704",
+    "name": "VILLA CHARCAS",
+    "province_id": "0107",
+    "department_id": "01"
+  },
+  {
+    "id": "010801",
+    "name": "VILLA VACA GUZMÁN (MUYUPAMPA)",
+    "province_id": "0108",
+    "department_id": "01"
+  },
+  {
+    "id": "010802",
+    "name": "HUACAYA",
+    "province_id": "0108",
+    "department_id": "01"
+  },
+  {
+    "id": "010803",
+    "name": "MACHARETÍ",
+    "province_id": "0108",
+    "department_id": "01"
+  },
+  {
+    "id": "010901",
+    "name": "VILLA ABUELO",
+    "province_id": "0109",
+    "department_id": "01"
+  },
+  {
+    "id": "010902",
+    "name": "CULPINA",
+    "province_id": "0109",
+    "department_id": "01"
+  },
+  {
+    "id": "010903",
+    "name": "LAS CARRERAS",
+    "province_id": "0109",
+    "department_id": "01"
+  },
+  {
+    "id": "020101",
+    "name": "NUESTRA SEÑORA DE LA PAZ",
+    "province_id": "0201",
+    "department_id": "02"
+  },
+  {
+    "id": "020102",
+    "name": "PALCA",
+    "province_id": "0201",
+    "department_id": "02"
+  },
+  {
+    "id": "020103",
+    "name": "MECAPACA",
+    "province_id": "0201",
+    "department_id": "02"
+  },
+  {
+    "id": "020104",
+    "name": "ACHOCALLA",
+    "province_id": "0201",
+    "department_id": "02"
+  },
+  {
+    "id": "020105",
+    "name": "EL ALTO",
+    "province_id": "0201",
+    "department_id": "02"
+  },
+  {
+    "id": "020201",
+    "name": "ACHACACHI",
+    "province_id": "0202",
+    "department_id": "02"
+  },
+  {
+    "id": "020202",
+    "name": "ANCORAIMES",
+    "province_id": "0202",
+    "department_id": "02"
+  },
+  {
+    "id": "020203",
+    "name": "HUATAJATA",
+    "province_id": "0202",
+    "department_id": "02"
+  },
+  {
+    "id": "020204",
+    "name": "HUARINA",
+    "province_id": "0202",
+    "department_id": "02"
+  },
+  {
+    "id": "020205",
+    "name": "SANTIAGO DE HUATA",
+    "province_id": "0202",
+    "department_id": "02"
+  },
+  {
+    "id": "020206",
+    "name": "CHUMA",
+    "province_id": "0202",
+    "department_id": "02"
+  },
+  {
+    "id": "020301",
+    "name": "COROCORO",
+    "province_id": "0203",
+    "department_id": "02"
+  },
+  {
+    "id": "020302",
+    "name": "CAQUIAVIRI",
+    "province_id": "0203",
+    "department_id": "02"
+  },
+  {
+    "id": "020303",
+    "name": "CALACOTO",
+    "province_id": "0203",
+    "department_id": "02"
+  },
+  {
+    "id": "020304",
+    "name": "COMANCHE",
+    "province_id": "0203",
+    "department_id": "02"
+  },
+  {
+    "id": "020305",
+    "name": "CHARAÑA",
+    "province_id": "0203",
+    "department_id": "02"
+  },
+  {
+    "id": "020306",
+    "name": "WALDO BALLIVIÁN",
+    "province_id": "0203",
+    "department_id": "02"
+  },
+  {
+    "id": "020307",
+    "name": "NAZACARA DE PACAJES",
+    "province_id": "0203",
+    "department_id": "02"
+  },
+  {
+    "id": "020308",
+    "name": "CALLAPA",
+    "province_id": "0203",
+    "department_id": "02"
+  },
+  {
+    "id": "020401",
+    "name": "PUERTO ACOSTA",
+    "province_id": "0204",
+    "department_id": "02"
+  },
+  {
+    "id": "020402",
+    "name": "MUMACO",
+    "province_id": "0204",
+    "department_id": "02"
+  },
+  {
+    "id": "020403",
+    "name": "PUERTO CARABUCO",
+    "province_id": "0204",
+    "department_id": "02"
+  },
+  {
+    "id": "020404",
+    "name": "ESCOMA",
+    "province_id": "0204",
+    "department_id": "02"
+  },
+  {
+    "id": "020405",
+    "name": "HUMANATA",
+    "province_id": "0204",
+    "department_id": "02"
+  },
+  {
+    "id": "020501",
+    "name": "CHUMA",
+    "province_id": "0205",
+    "department_id": "02"
+  },
+  {
+    "id": "020502",
+    "name": "AYATA",
+    "province_id": "0205",
+    "department_id": "02"
+  },
+  {
+    "id": "020503",
+    "name": "AUCAPATA",
+    "province_id": "0205",
+    "department_id": "02"
+  },
+  {
+    "id": "020601",
+    "name": "SORATA",
+    "province_id": "0206",
+    "department_id": "02"
+  },
+  {
+    "id": "020602",
+    "name": "GUANAY",
+    "province_id": "0206",
+    "department_id": "02"
+  },
+  {
+    "id": "020603",
+    "name": "TACACORA",
+    "province_id": "0206",
+    "department_id": "02"
+  },
+  {
+    "id": "020604",
+    "name": "QUIABAYA",
+    "province_id": "0206",
+    "department_id": "02"
+  },
+  {
+    "id": "020605",
+    "name": "COMBAYA",
+    "province_id": "0206",
+    "department_id": "02"
+  },
+  {
+    "id": "020606",
+    "name": "TIPUANI",
+    "province_id": "0206",
+    "department_id": "02"
+  },
+  {
+    "id": "020607",
+    "name": "MAPIRI",
+    "province_id": "0206",
+    "department_id": "02"
+  },
+  {
+    "id": "020608",
+    "name": "TEOPONTE",
+    "province_id": "0206",
+    "department_id": "02"
+  },
+  {
+    "id": "020701",
+    "name": "APOLO",
+    "province_id": "0207",
+    "department_id": "02"
+  },
+  {
+    "id": "020702",
+    "name": "PELECHUCO",
+    "province_id": "0207",
+    "department_id": "02"
+  },
+  {
+    "id": "020801",
+    "name": "VIACHA",
+    "province_id": "0208",
+    "department_id": "02"
+  },
+  {
+    "id": "020802",
+    "name": "GUAQUI",
+    "province_id": "0208",
+    "department_id": "02"
+  },
+  {
+    "id": "020803",
+    "name": "TIAHUANACO",
+    "province_id": "0208",
+    "department_id": "02"
+  },
+  {
+    "id": "020804",
+    "name": "DESAGUADERO",
+    "province_id": "0208",
+    "department_id": "02"
+  },
+  {
+    "id": "020805",
+    "name": "SANTIAGO DE MACHACA",
+    "province_id": "0208",
+    "department_id": "02"
+  },
+  {
+    "id": "020806",
+    "name": "CATACORA",
+    "province_id": "0208",
+    "department_id": "02"
+  },
+  {
+    "id": "020807",
+    "name": "JESÚS DE MACHACA",
+    "province_id": "0208",
+    "department_id": "02"
+  },
+  {
+    "id": "020808",
+    "name": "TARACO",
+    "province_id": "0208",
+    "department_id": "02"
+  },
+  {
+    "id": "020901",
+    "name": "LURIBAY",
+    "province_id": "0209",
+    "department_id": "02"
+  },
+  {
+    "id": "020902",
+    "name": "SALLA",
+    "province_id": "0209",
+    "department_id": "02"
+  },
+  {
+    "id": "020903",
+    "name": "CAYROMA",
+    "province_id": "0209",
+    "department_id": "02"
+  },
+  {
+    "id": "020904",
+    "name": "MALLA",
+    "province_id": "0209",
+    "department_id": "02"
+  },
+  {
+    "id": "020905",
+    "name": "Yaco",
+    "province_id": "0209",
+    "department_id": "02"
+  },
+  {
+    "id": "021001",
+    "name": "INQUISIVI",
+    "province_id": "0210",
+    "department_id": "02"
+  },
+  {
+    "id": "021002",
+    "name": "QUIME",
+    "province_id": "0210",
+    "department_id": "02"
+  },
+  {
+    "id": "021003",
+    "name": "CAYO",
+    "province_id": "0210",
+    "department_id": "02"
+  },
+  {
+    "id": "021004",
+    "name": "COLQUIRI",
+    "province_id": "0210",
+    "department_id": "02"
+  },
+  {
+    "id": "021005",
+    "name": "ICHOCA",
+    "province_id": "0210",
+    "department_id": "02"
+  },
+  {
+    "id": "021006",
+    "name": "LICOMA PAMPA",
+    "province_id": "0210",
+    "department_id": "02"
+  },
+  {
+    "id": "021101",
+    "name": "CHACARILLA",
+    "province_id": "0211",
+    "department_id": "02"
+  },
+  {
+    "id": "021201",
+    "name": "SAN PEDRO DE CURAHUARA",
+    "province_id": "0212",
+    "department_id": "02"
+  },
+  {
+    "id": "021202",
+    "name": "PAPEL PAMPA",
+    "province_id": "0212",
+    "department_id": "02"
+  },
+  {
+    "id": "021203",
+    "name": "CHIARUMANI",
+    "province_id": "0212",
+    "department_id": "02"
+  },
+  {
+    "id": "021301",
+    "name": "PUCARANI",
+    "province_id": "0213",
+    "department_id": "02"
+  },
+  {
+    "id": "021302",
+    "name": "LAJA",
+    "province_id": "0213",
+    "department_id": "02"
+  },
+  {
+    "id": "021303",
+    "name": "BATALLAS",
+    "province_id": "0213",
+    "department_id": "02"
+  },
+  {
+    "id": "021304",
+    "name": "PUERTO PÉREZ",
+    "province_id": "0213",
+    "department_id": "02"
+  },
+  {
+    "id": "021401",
+    "name": "COROICO",
+    "province_id": "0214",
+    "department_id": "02"
+  },
+  {
+    "id": "021402",
+    "name": "CORIPATA",
+    "province_id": "0214",
+    "department_id": "02"
+  },
+  {
+    "id": "021501",
+    "name": "CHUMA DE COPACABANA",
+    "province_id": "0215",
+    "department_id": "02"
+  },
+  {
+    "id": "021502",
+    "name": "SAN PEDRO DE TIQUINA",
+    "province_id": "0215",
+    "department_id": "02"
+  },
+  {
+    "id": "021503",
+    "name": "TITO YUPANQUI",
+    "province_id": "0215",
+    "department_id": "02"
+  },
+  {
+    "id": "021601",
+    "name": "CHUMA DE IXIAMAS",
+    "province_id": "0216",
+    "department_id": "02"
+  },
+  {
+    "id": "021602",
+    "name": "SAN BUENAVENTURA",
+    "province_id": "0216",
+    "department_id": "02"
+  },
+  {
+    "id": "021701",
+    "name": "CHARAZANI",
+    "province_id": "0217",
+    "department_id": "02"
+  },
+  {
+    "id": "021702",
+    "name": "CURVA",
+    "province_id": "0217",
+    "department_id": "02"
+  },
+  {
+    "id": "021801",
+    "name": "IRUPANA",
+    "province_id": "0218",
+    "department_id": "02"
+  },
+  {
+    "id": "021802",
+    "name": "CHULUMANI",
+    "province_id": "0218",
+    "department_id": "02"
+  },
+  {
+    "id": "021803",
+    "name": "YANACACHI",
+    "province_id": "0218",
+    "department_id": "02"
+  },
+  {
+    "id": "021804",
+    "name": "PALOS BLANCOS",
+    "province_id": "0218",
+    "department_id": "02"
+  },
+  {
+    "id": "021805",
+    "name": "LA ASUNTA",
+    "province_id": "0218",
+    "department_id": "02"
+  },
+  {
+    "id": "021901",
+    "name": "CARANAVI",
+    "province_id": "0219",
+    "department_id": "02"
+  },
+  {
+    "id": "021902",
+    "name": "ALTO BENI",
+    "province_id": "0219",
+    "department_id": "02"
+  },
+  {
+    "id": "030101",
+    "name": "COCHABAMBA",
+    "province_id": "0301",
+    "department_id": "03"
+  },
+  {
+    "id": "030201",
+    "name": "AQUILA",
+    "province_id": "0302",
+    "department_id": "03"
+  },
+  {
+    "id": "030202",
+    "name": "OMEREQUE",
+    "province_id": "0302",
+    "department_id": "03"
+  },
+  {
+    "id": "030203",
+    "name": "PASORAPA",
+    "province_id": "0302",
+    "department_id": "03"
+  },
+  {
+    "id": "030301",
+    "name": "INDEPENDENCIA",
+    "province_id": "0303",
+    "department_id": "03"
+  },
+  {
+    "id": "030302",
+    "name": "MOROCHATA",
+    "province_id": "0303",
+    "department_id": "03"
+  },
+  {
+    "id": "030303",
+    "name": "COCAPATA",
+    "province_id": "0303",
+    "department_id": "03"
+  },
+  {
+    "id": "030401",
+    "name": "TARATA",
+    "province_id": "0304",
+    "department_id": "03"
+  },
+  {
+    "id": "030402",
+    "name": "ANCLORA",
+    "province_id": "0304",
+    "department_id": "03"
+  },
+  {
+    "id": "030403",
+    "name": "ARBIETO",
+    "province_id": "0304",
+    "department_id": "03"
+  },
+  {
+    "id": "030404",
+    "name": "SACABAMBA",
+    "province_id": "0304",
+    "department_id": "03"
+  },
+  {
+    "id": "030501",
+    "name": "ARANI",
+    "province_id": "0305",
+    "department_id": "03"
+  },
+  {
+    "id": "030502",
+    "name": "VACAS",
+    "province_id": "0305",
+    "department_id": "03"
+  },
+  {
+    "id": "030601",
+    "name": "ARQUE",
+    "province_id": "0306",
+    "department_id": "03"
+  },
+  {
+    "id": "030602",
+    "name": "TACOPAYA",
+    "province_id": "0306",
+    "department_id": "03"
+  },
+  {
+    "id": "030701",
+    "name": "CAPINOTA",
+    "province_id": "0307",
+    "department_id": "03"
+  },
+  {
+    "id": "030702",
+    "name": "SANTIVÁÑEZ",
+    "province_id": "0307",
+    "department_id": "03"
+  },
+  {
+    "id": "030703",
+    "name": "SICAYA",
+    "province_id": "0307",
+    "department_id": "03"
+  },
+  {
+    "id": "030801",
+    "name": "CLIZA",
+    "province_id": "0308",
+    "department_id": "03"
+  },
+  {
+    "id": "030802",
+    "name": "TOCO",
+    "province_id": "0308",
+    "department_id": "03"
+  },
+  {
+    "id": "030803",
+    "name": "TOLATA",
+    "province_id": "0308",
+    "department_id": "03"
+  },
+  {
+    "id": "030901",
+    "name": "QUILLACOLLO",
+    "province_id": "0309",
+    "department_id": "03"
+  },
+  {
+    "id": "030902",
+    "name": "SIPE SIPE",
+    "province_id": "0309",
+    "department_id": "03"
+  },
+  {
+    "id": "030903",
+    "name": "TIQUIPAYA",
+    "province_id": "0309",
+    "department_id": "03"
+  },
+  {
+    "id": "030904",
+    "name": "VIENTO SUNTU",
+    "province_id": "0309",
+    "department_id": "03"
+  },
+  {
+    "id": "030905",
+    "name": "COLCAPIRHUA",
+    "province_id": "0309",
+    "department_id": "03"
+  },
+  {
+    "id": "031001",
+    "name": "SACABA",
+    "province_id": "0310",
+    "department_id": "03"
+  },
+  {
+    "id": "031002",
+    "name": "COLOMI",
+    "province_id": "0310",
+    "department_id": "03"
+  },
+  {
+    "id": "031003",
+    "name": "VILLA TUNARI",
+    "province_id": "0310",
+    "department_id": "03"
+  },
+  {
+    "id": "031101",
+    "name": "TAPA CARÍ",
+    "province_id": "0311",
+    "department_id": "03"
+  },
+  {
+    "id": "031201",
+    "name": "TOTORA",
+    "province_id": "0312",
+    "department_id": "03"
+  },
+  {
+    "id": "031202",
+    "name": "POJO",
+    "province_id": "0312",
+    "department_id": "03"
+  },
+  {
+    "id": "031203",
+    "name": "POCONA",
+    "province_id": "0312",
+    "department_id": "03"
+  },
+  {
+    "id": "031204",
+    "name": "CHIMORÉ",
+    "province_id": "0312",
+    "department_id": "03"
+  },
+  {
+    "id": "031205",
+    "name": "PUERTO VILLARROEL",
+    "province_id": "0312",
+    "department_id": "03"
+  },
+  {
+    "id": "031206",
+    "name": "ENTRE RÍOS",
+    "province_id": "0312",
+    "department_id": "03"
+  },
+  {
+    "id": "031301",
+    "name": "MIZQUE",
+    "province_id": "0313",
+    "department_id": "03"
+  },
+  {
+    "id": "031302",
+    "name": "VILA VILA",
+    "province_id": "0313",
+    "department_id": "03"
+  },
+  {
+    "id": "031303",
+    "name": "ALALAY",
+    "province_id": "0313",
+    "department_id": "03"
+  },
+  {
+    "id": "031401",
+    "name": "PUNATA",
+    "province_id": "0314",
+    "department_id": "03"
+  },
+  {
+    "id": "031402",
+    "name": "VILLA RIVERO",
+    "province_id": "0314",
+    "department_id": "03"
+  },
+  {
+    "id": "031403",
+    "name": "SAN BENITO",
+    "province_id": "0314",
+    "department_id": "03"
+  },
+  {
+    "id": "031404",
+    "name": "TACACHI",
+    "province_id": "0314",
+    "department_id": "03"
+  },
+  {
+    "id": "031405",
+    "name": "CUCHUMUELA",
+    "province_id": "0314",
+    "department_id": "03"
+  },
+  {
+    "id": "031501",
+    "name": "BOLÍVAR",
+    "province_id": "0315",
+    "department_id": "03"
+  },
+  {
+    "id": "031601",
+    "name": "TIRAQUE",
+    "province_id": "0316",
+    "department_id": "03"
+  },
+  {
+    "id": "031602",
+    "name": "SHINAOTA",
+    "province_id": "0316",
+    "department_id": "03"
+  },
+  {
+    "id": "040101",
+    "name": "ORURO",
+    "province_id": "0401",
+    "department_id": "04"
+  },
+  {
+    "id": "040102",
+    "name": "CARACOLLO",
+    "province_id": "0401",
+    "department_id": "04"
+  },
+  {
+    "id": "040103",
+    "name": "EL CHORO",
+    "province_id": "0401",
+    "department_id": "04"
+  },
+  {
+    "id": "040104",
+    "name": "SORACACHI",
+    "province_id": "0401",
+    "department_id": "04"
+  },
+  {
+    "id": "040201",
+    "name": "CHALLAPATA",
+    "province_id": "0402",
+    "department_id": "04"
+  },
+  {
+    "id": "040202",
+    "name": "QUILLACAS",
+    "province_id": "0402",
+    "department_id": "04"
+  },
+  {
+    "id": "040301",
+    "name": "CORQUE",
+    "province_id": "0403",
+    "department_id": "04"
+  },
+  {
+    "id": "040302",
+    "name": "CHOQUECOTA",
+    "province_id": "0403",
+    "department_id": "04"
+  },
+  {
+    "id": "040401",
+    "name": "CURAHUARA DE CARANGAS",
+    "province_id": "0404",
+    "department_id": "04"
+  },
+  {
+    "id": "040402",
+    "name": "TURCO",
+    "province_id": "0404",
+    "department_id": "04"
+  },
+  {
+    "id": "040501",
+    "name": "HUACHACALLA",
+    "province_id": "0405",
+    "department_id": "04"
+  },
+  {
+    "id": "040502",
+    "name": "ESCAPARA",
+    "province_id": "0405",
+    "department_id": "04"
+  },
+  {
+    "id": "040503",
+    "name": "CRUZ DE MACHACAMARCA",
+    "province_id": "0405",
+    "department_id": "04"
+  },
+  {
+    "id": "040504",
+    "name": "YUNGUYO DEL LITORAL",
+    "province_id": "0405",
+    "department_id": "04"
+  },
+  {
+    "id": "040505",
+    "name": "ESMERALDA",
+    "province_id": "0405",
+    "department_id": "04"
+  },
+  {
+    "id": "040601",
+    "name": "POOPÓ",
+    "province_id": "0406",
+    "department_id": "04"
+  },
+  {
+    "id": "040602",
+    "name": "PAZÑA",
+    "province_id": "0406",
+    "department_id": "04"
+  },
+  {
+    "id": "040603",
+    "name": "ANTEQUERA",
+    "province_id": "0406",
+    "department_id": "04"
+  },
+  {
+    "id": "040701",
+    "name": "HUARI",
+    "province_id": "0407",
+    "department_id": "04"
+  },
+  {
+    "id": "040801",
+    "name": "SALINAS DE GARCI MENDOZA",
+    "province_id": "0408",
+    "department_id": "04"
+  },
+  {
+    "id": "040802",
+    "name": "PAMPA AULLAGAS",
+    "province_id": "0408",
+    "department_id": "04"
+  },
+  {
+    "id": "040901",
+    "name": "SABAYA",
+    "province_id": "0409",
+    "department_id": "04"
+  },
+  {
+    "id": "040902",
+    "name": "COIPASA",
+    "province_id": "0409",
+    "department_id": "04"
+  },
+  {
+    "id": "040903",
+    "name": "CHIPAYA",
+    "province_id": "0409",
+    "department_id": "04"
+  },
+  {
+    "id": "041001",
+    "name": "MACHACAMARCA",
+    "province_id": "0410",
+    "department_id": "04"
+  },
+  {
+    "id": "041002",
+    "name": "HUANUNI",
+    "province_id": "0410",
+    "department_id": "04"
+  },
+  {
+    "id": "041101",
+    "name": "HUAYLLAMARCA",
+    "province_id": "0411",
+    "department_id": "04"
+  },
+  {
+    "id": "041201",
+    "name": "TOLEDO",
+    "province_id": "0412",
+    "department_id": "04"
+  },
+  {
+    "id": "041301",
+    "name": "EUCALIPTUS",
+    "province_id": "0413",
+    "department_id": "04"
+  },
+  {
+    "id": "041401",
+    "name": "SANTIAGO DE ANDAMARCA",
+    "province_id": "0414",
+    "department_id": "04"
+  },
+  {
+    "id": "041402",
+    "name": "BELÉN DE ANDAMARCA",
+    "province_id": "0414",
+    "department_id": "04"
+  },
+  {
+    "id": "041501",
+    "name": "SAN PEDRO DE TOTORA",
+    "province_id": "0415",
+    "department_id": "04"
+  },
+  {
+    "id": "041601",
+    "name": "SANTIAGO DE HUARI",
+    "province_id": "0416",
+    "department_id": "04"
+  },
+{
+    "id": "050101",
+    "name": "POTOSÍ",
+    "province_id": "0501",
+    "department_id": "05"
+  },
+  {
+    "id": "050102",
+    "name": "TINGUIPAYA",
+    "province_id": "0501",
+    "department_id": "05"
+  },
+  {
+    "id": "050103",
+    "name": "YOCALLA",
+    "province_id": "0501",
+    "department_id": "05"
+  },
+  {
+    "id": "050104",
+    "name": "BELÉN DE UCHURACAY",
+    "province_id": "0501",
+    "department_id": "05"
+  },
+  {
+    "id": "050201",
+    "name": "UNACÍA",
+    "province_id": "0502",
+    "department_id": "05"
+  },
+  {
+    "id": "050202",
+    "name": "CHAYANTA",
+    "province_id": "0502",
+    "department_id": "05"
+  },
+  {
+    "id": "050203",
+    "name": "LLALLAGUA",
+    "province_id": "0502",
+    "department_id": "05"
+  },
+  {
+    "id": "050204",
+    "name": "COLQUECHACA",
+    "province_id": "0502",
+    "department_id": "05"
+  },
+  {
+    "id": "050205",
+    "name": "RIVERO",
+    "province_id": "0502",
+    "department_id": "05"
+  },
+  {
+    "id": "050301",
+    "name": "BETANZOS",
+    "province_id": "0503",
+    "department_id": "05"
+  },
+  {
+    "id": "050302",
+    "name": "CHAQHU",
+    "province_id": "0503",
+    "department_id": "05"
+  },
+  {
+    "id": "050303",
+    "name": "TACOPA",
+    "province_id": "0503",
+    "department_id": "05"
+  },
+  {
+    "id": "050401",
+    "name": "SAN PEDRO DE BUENA VISTA",
+    "province_id": "0504",
+    "department_id": "05"
+  },
+  {
+    "id": "050402",
+    "name": "TOROTORO",
+    "province_id": "0504",
+    "department_id": "05"
+  },
+  {
+    "id": "050501",
+    "name": "SAN PEDRO DE MACA",
+    "province_id": "0505",
+    "department_id": "05"
+  },
+  {
+    "id": "050601",
+    "name": "SAN PEDRO DE LÍPEZ",
+    "province_id": "0506",
+    "department_id": "05"
+  },
+  {
+    "id": "050602",
+    "name": "COLCHA K",
+    "province_id": "0506",
+    "department_id": "05"
+  },
+  {
+    "id": "050701",
+    "name": "SAN PABLO DE LÍPEZ",
+    "province_id": "0507",
+    "department_id": "05"
+  },
+  {
+    "id": "050702",
+    "name": "MOHO",
+    "province_id": "0507",
+    "department_id": "05"
+  },
+  {
+    "id": "050801",
+    "name": "UYUNI",
+    "province_id": "0508",
+    "department_id": "05"
+  },
+  {
+    "id": "050802",
+    "name": "TOMCOCHICO",
+    "province_id": "0508",
+    "department_id": "05"
+  },
+  {
+    "id": "050901",
+    "name": "ARAMPA",
+    "province_id": "0509",
+    "department_id": "05"
+  },
+  {
+    "id": "050902",
+    "name": "CARIPUYO",
+    "province_id": "0509",
+    "department_id": "05"
+  },
+  {
+    "id": "051001",
+    "name": "PUCANA",
+    "province_id": "0510",
+    "department_id": "05"
+  },
+  {
+    "id": "051002",
+    "name": "SAN PEDRO DE OCONA",
+    "province_id": "0510",
+    "department_id": "05"
+  },
+  {
+    "id": "051101",
+    "name": "LLALLAGUA DEL NORTE",
+    "province_id": "0511",
+    "department_id": "05"
+  },
+  {
+    "id": "051201",
+    "name": "ATOCHA",
+    "province_id": "0512",
+    "department_id": "05"
+  },
+  {
+    "id": "051202",
+    "name": "COLCHA",
+    "province_id": "0512",
+    "department_id": "05"
+  },
+  {
+    "id": "051301",
+    "name": "VILLA DE AROCIFERRO",
+    "province_id": "0513",
+    "department_id": "05"
+  },
+  {
+    "id": "051401",
+    "name": "VILLA ABECEDARIO",
+    "province_id": "0514",
+    "department_id": "05"
+  },
+  {
+    "id": "051501",
+    "name": "VILLA BALDIVIESO",
+    "province_id": "0515",
+    "department_id": "05"
+  },
+  {
+    "id": "051601",
+    "name": "VILLA CAMPOS",
+    "province_id": "0516",
+    "department_id": "05"
+  },
+  {
+    "id": "060101",
+    "name": "TARIJA",
+    "province_id": "0601",
+    "department_id": "06"
+  },
+  {
+    "id": "060102",
+    "name": "PADCAYA",
+    "province_id": "0601",
+    "department_id": "06"
+  },
+  {
+    "id": "060201",
+    "name": "BERMEJO",
+    "province_id": "0602",
+    "department_id": "06"
+  },
+  {
+    "id": "060202",
+    "name": "YUNGUAS DE LA CUESTA",
+    "province_id": "0602",
+    "department_id": "06"
+  },
+  {
+    "id": "060301",
+    "name": "YACUIBA",
+    "province_id": "0603",
+    "department_id": "06"
+  },
+  {
+    "id": "060302",
+    "name": "CARAPARI",
+    "province_id": "0603",
+    "department_id": "06"
+  },
+  {
+    "id": "060303",
+    "name": "VILLA MONTES",
+    "province_id": "0603",
+    "department_id": "06"
+  },
+  {
+    "id": "060401",
+    "name": "URIONDO",
+    "province_id": "0604",
+    "department_id": "06"
+  },
+  {
+    "id": "060402",
+    "name": "YUNCHARÁ",
+    "province_id": "0604",
+    "department_id": "06"
+  },
+  {
+    "id": "060501",
+    "name": "SAN LORENZO",
+    "province_id": "0605",
+    "department_id": "06"
+  },
+  {
+    "id": "060502",
+    "name": "EL PUENTE",
+    "province_id": "0605",
+    "department_id": "06"
+  },
+  {
+    "id": "060601",
+    "name": "ENTRE RÍOS",
+    "province_id": "0606",
+    "department_id": "06"
+  },
+  {
+    "id": "070101",
+    "name": "SANTA CRUZ DE LA SIERRA",
+    "province_id": "0701",
+    "department_id": "07"
+  },
+  {
+    "id": "070102",
+    "name": "COTOCA",
+    "province_id": "0701",
+    "department_id": "07"
+  },
+  {
+    "id": "070103",
+    "name": "PORONGO (AYACUCHO)",
+    "province_id": "0701",
+    "department_id": "07"
+  },
+  {
+    "id": "070104",
+    "name": "LA GUARDIA",
+    "province_id": "0701",
+    "department_id": "07"
+  },
+  {
+    "id": "070105",
+    "name": "EL TORNO",
+    "province_id": "0701",
+    "department_id": "07"
+  },
+  {
+    "id": "070201",
+    "name": "WARNES",
+    "province_id": "0702",
+    "department_id": "07"
+  },
+  {
+    "id": "070202",
+    "name": "OKINAWA UNO",
+    "province_id": "0702",
+    "department_id": "07"
+  },
+  {
+    "id": "070301",
+    "name": "SAN IGNACIO DE VELASCO",
+    "province_id": "0703",
+    "department_id": "07"
+  },
+  {
+    "id": "070302",
+    "name": "SAN MIGUEL DE VELASCO",
+    "province_id": "0703",
+    "department_id": "07"
+  },
+  {
+    "id": "070303",
+    "name": "SAN RAFAEL",
+    "province_id": "0703",
+    "department_id": "07"
+  },
+  {
+    "id": "070401",
+    "name": "MONTEAGUDO DEL NORTE",
+    "province_id": "0704",
+    "department_id": "07"
+  },
+  {
+    "id": "070402",
+    "name": "YANACACHI DEL ESTE",
+    "province_id": "0704",
+    "department_id": "07"
+  },
+  {
+    "id": "070403",
+    "name": "SAN CARLOS",
+    "province_id": "0704",
+    "department_id": "07"
+  },
+  {
+    "id": "070404",
+    "name": "YAPACANÍ",
+    "province_id": "0704",
+    "department_id": "07"
+  },
+  {
+    "id": "070405",
+    "name": "SAN JUANCITO",
+    "province_id": "0704",
+    "department_id": "07"
+  },
+  {
+    "id": "070501",
+    "name": "SAN JOSÉ DE CHIQUITOS",
+    "province_id": "0705",
+    "department_id": "07"
+  },
+  {
+    "id": "070502",
+    "name": "ROBOCH",
+    "province_id": "0705",
+    "department_id": "07"
+  },
+  {
+    "id": "070503",
+    "name": "PULACAYO",
+    "province_id": "0705",
+    "department_id": "07"
+  },
+  {
+    "id": "070601",
+    "name": "PORTACHUELO",
+    "province_id": "0706",
+    "department_id": "07"
+  },
+  {
+    "id": "070602",
+    "name": "SANTA ROSA DEL SARA",
+    "province_id": "0706",
+    "department_id": "07"
+  },
+  {
+    "id": "070701",
+    "name": "CABEZAS",
+    "province_id": "0707",
+    "department_id": "07"
+  },
+  {
+    "id": "070702",
+    "name": "CHARAGUA",
+    "province_id": "0707",
+    "department_id": "07"
+  },
+  {
+    "id": "070703",
+    "name": "LAGUNILLAS",
+    "province_id": "0707",
+    "department_id": "07"
+  },
+  {
+    "id": "070704",
+    "name": "CUEVO",
+    "province_id": "0707",
+    "department_id": "07"
+  },
+  {
+    "id": "070705",
+    "name": "GUTIÉRREZ",
+    "province_id": "0707",
+    "department_id": "07"
+  },
+  {
+    "id": "070801",
+    "name": "VALLEGRANDE",
+    "province_id": "0708",
+    "department_id": "07"
+  },
+  {
+    "id": "070802",
+    "name": "MORO MORO",
+    "province_id": "0708",
+    "department_id": "07"
+  },
+  {
+    "id": "070803",
+    "name": "POSTRERVALLE",
+    "province_id": "0708",
+    "department_id": "07"
+  },
+  {
+    "id": "070804",
+    "name": "PUCARÁ",
+    "province_id": "0708",
+    "department_id": "07"
+  },
+  {
+    "id": "070805",
+    "name": "SILER",
+    "province_id": "0708",
+    "department_id": "07"
+  },
+  {
+    "id": "070901",
+    "name": "SAMAYPATA",
+    "province_id": "0709",
+    "department_id": "07"
+  },
+  {
+    "id": "070902",
+    "name": "POROROA",
+    "province_id": "0709",
+    "department_id": "07"
+  },
+  {
+    "id": "070903",
+    "name": "MULLER",
+    "province_id": "0709",
+    "department_id": "07"
+  },
+  {
+    "id": "071001",
+    "name": "MAIRANA",
+    "province_id": "0710",
+    "department_id": "07"
+  },
+  {
+    "id": "071002",
+    "name": "QUIROS",
+    "province_id": "0710",
+    "department_id": "07"
+  },
+  {
+    "id": "071101",
+    "name": "CONCEPCIÓN",
+    "province_id": "0711",
+    "department_id": "07"
+  },
+  {
+    "id": "071102",
+    "name": "SAN JAVIER",
+    "province_id": "0711",
+    "department_id": "07"
+  },
+  {
+    "id": "071103",
+    "name": "SAN RAMÓN",
+    "province_id": "0711",
+    "department_id": "07"
+  },
+  {
+    "id": "071104",
+    "name": "SAN JOSÉ DE BUENOS AIRES",
+    "province_id": "0711",
+    "department_id": "07"
+  },
+  {
+    "id": "071105",
+    "name": "URUBICHÁ",
+    "province_id": "0711",
+    "department_id": "07"
+  },
+  {
+    "id": "071201",
+    "name": "SAN JOSÉ DE CHIQUITOS",
+    "province_id": "0712",
+    "department_id": "07"
+  },
+  {
+    "id": "071301",
+    "name": "PUERTO SUÁREZ",
+    "province_id": "0713",
+    "department_id": "07"
+  },
+  {
+    "id": "071401",
+    "name": "COMARAPA",
+    "province_id": "0714",
+    "department_id": "07"
+  },
+  {
+    "id": "071402",
+    "name": "SAIPINA",
+    "province_id": "0714",
+    "department_id": "07"
+  },
+  {
+    "id": "071501",
+    "name": "PUERTO QUIJARRO",
+    "province_id": "0715",
+    "department_id": "07"
+  },
+  {
+    "id": "071502",
+    "name": "CARMEN RIVERÁ",
+    "province_id": "0715",
+    "department_id": "07"
+  },
+  {
+    "id": "071601",
+    "name": "AGUARAIZ",
+    "province_id": "0716",
+    "department_id": "07"
+  },
+  {
+    "id": "071602",
+    "name": "BRECHA",
+    "province_id": "0716",
+    "department_id": "07"
+  },
+{
+    "id": "080101",
+    "name": "TRINIDAD",
+    "province_id": "0801",
+    "department_id": "08"
+  },
+  {
+    "id": "080102",
+    "name": "SAN JAVIER",
+    "province_id": "0801",
+    "department_id": "08"
+  },
+  {
+    "id": "080201",
+    "name": "RIBERALTA",
+    "province_id": "0802",
+    "department_id": "08"
+  },
+  {
+    "id": "080202",
+    "name": "GUAYARAMERÍN",
+    "province_id": "0802",
+    "department_id": "08"
+  },
+  {
+    "id": "080301",
+    "name": "REYES",
+    "province_id": "0803",
+    "department_id": "08"
+  },
+  {
+    "id": "080302",
+    "name": "SAN BORJA",
+    "province_id": "0803",
+    "department_id": "08"
+  },
+  {
+    "id": "080303",
+    "name": "SANTA ROSA DE YACUMA",
+    "province_id": "0803",
+    "department_id": "08"
+  },
+  {
+    "id": "080304",
+    "name": "RURRENABAQUE",
+    "province_id": "0803",
+    "department_id": "08"
+  },
+  {
+    "id": "080401",
+    "name": "SAN IGNACIO DE MOXOS",
+    "province_id": "0804",
+    "department_id": "08"
+  },
+  {
+    "id": "080402",
+    "name": "LORETO",
+    "province_id": "0804",
+    "department_id": "08"
+  },
+  {
+    "id": "080501",
+    "name": "SANTA ANA DEL YACUMA",
+    "province_id": "0805",
+    "department_id": "08"
+  },
+  {
+    "id": "080502",
+    "name": "EXALTACIÓN",
+    "province_id": "0805",
+    "department_id": "08"
+  },
+  {
+    "id": "080601",
+    "name": "SAN JOAQUÍN",
+    "province_id": "0806",
+    "department_id": "08"
+  },
+  {
+    "id": "080602",
+    "name": "SAN RAMÓN",
+    "province_id": "0806",
+    "department_id": "08"
+  },
+  {
+    "id": "080603",
+    "name": "PUERTO VILLARROEL DEL BENI",
+    "province_id": "0806",
+    "department_id": "08"
+  },
+  {
+    "id": "080701",
+    "name": "MAGDALENA",
+    "province_id": "0807",
+    "department_id": "08"
+  },
+  {
+    "id": "080702",
+    "name": "BAURES",
+    "province_id": "0807",
+    "department_id": "08"
+  },
+  {
+    "id": "080703",
+    "name": "HUACASQUJE",
+    "province_id": "0807",
+    "department_id": "08"
+  },
+  {
+    "id": "080801",
+    "name": "SAN BUENAVENTURA",
+    "province_id": "0808",
+    "department_id": "08"
+  },
+  {
+    "id": "090101",
+    "name": "COBIJA",
+    "province_id": "0901",
+    "department_id": "09"
+  },
+  {
+    "id": "090102",
+    "name": "PORVENIR",
+    "province_id": "0901",
+    "department_id": "09"
+  },
+  {
+    "id": "090103",
+    "name": "BOLPEBRA",
+    "province_id": "0901",
+    "department_id": "09"
+  },
+  {
+    "id": "090104",
+    "name": "TAHUAMANU",
+    "province_id": "0901",
+    "department_id": "09"
+  },
+  {
+    "id": "090201",
+    "name": "NUEVA ESPERANZA",
+    "province_id": "0902",
+    "department_id": "09"
+  },
+  {
+    "id": "090202",
+    "name": "VILLA NUEVA",
+    "province_id": "0902",
+    "department_id": "09"
+  },
+  {
+    "id": "090203",
+    "name": "SAN PEDRO",
+    "province_id": "0902",
+    "department_id": "09"
+  },
+  {
+    "id": "090301",
+    "name": "PUERTO RICO",
+    "province_id": "0903",
+    "department_id": "09"
+  },
+  {
+    "id": "090302",
+    "name": "SAN GABRIEL",
+    "province_id": "0903",
+    "department_id": "09"
+  },
+  {
+    "id": "090303",
+    "name": "FILADELFIA",
+    "province_id": "0903",
+    "department_id": "09"
+  },
+  {
+    "id": "090401",
+    "name": "SAN GONZALO",
+    "province_id": "0904",
+    "department_id": "09"
+  },
+  {
+    "id": "090402",
+    "name": "GUTIÉRREZ GUERRA",
+    "province_id": "0904",
+    "department_id": "09"
+  },
+  {
+    "id": "090501",
+    "name": "SANTOS MERCADO",
+    "province_id": "0905",
+    "department_id": "09"
+  },
+  {
+    "id": "090502",
+    "name": "LOMA ALTA",
+    "province_id": "0905",
+    "department_id": "09"
+  }
+]

@@ -38,8 +38,8 @@ export const DataSensitive = ({
       setAdopter(
         "phoneCode",
         codes?.find(
-          ({ countryCode }) => countryCode === watchAdopter("country")
-        )?.id
+          ({ countryCode }) => countryCode === watchAdopter("country"),
+        )?.id,
       );
     }
   }, [codes]);
@@ -98,11 +98,11 @@ export const DataSensitive = ({
             value={{
               label: `${
                 codes.find(
-                  ({ countryCode }) => countryCode === watchAdopter("country")
+                  ({ countryCode }) => countryCode === watchAdopter("country"),
                 )?.name
               } (${
                 codes.find(
-                  ({ countryCode }) => countryCode === watchAdopter("country")
+                  ({ countryCode }) => countryCode === watchAdopter("country"),
                 )?.phoneCode
               })`,
               value: watchAdopter("phoneCode"),
@@ -153,7 +153,7 @@ export const DataSensitive = ({
                 handleEmail(
                   watchAdopter("email"),
                   web3.authToken,
-                  watchAdopter("_id")
+                  watchAdopter("_id"),
                 )
               }
               id="email"
@@ -186,7 +186,8 @@ export const DataSensitive = ({
           watchAdopter("country") === "ES" ||
           watchAdopter("country") === "CA" ||
           watchAdopter("country") === "US" ||
-          watchAdopter("country") === "HN" ? (
+          watchAdopter("country") === "HN" ||
+          watchAdopter("country") === "BO" ? (
             <>
               <div>
                 <ReactSelect

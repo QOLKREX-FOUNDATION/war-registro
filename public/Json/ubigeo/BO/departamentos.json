@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "CHUQUISACA"
+    },
+    {
+        "id": "02",
+        "name": "LA PAZ"
+    },
+    {
+        "id": "03",
+        "name": "COCHABAMBA"
+    },
+    {
+        "id": "04",
+        "name": "ORURO"
+    },
+    {
+        "id": "05",
+        "name": "POTOSÍ"
+    },
+    {
+        "id": "06",
+        "name": "TARIJA"
+    },
+    {
+        "id": "07",
+        "name": "SANTA CRUZ"
+    },
+    {
+        "id": "08",
+        "name": "BENI"
+    },
+    {
+        "id": "09",
+        "name": "PANDO"
+    }
+]

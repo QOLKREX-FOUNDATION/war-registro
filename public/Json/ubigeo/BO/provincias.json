@@ -1,0 +1,567 @@
+[
+    {
+        "id": "0101",
+        "name": "OROPEZA",
+        "department_id": "01"
+    },
+    {
+        "id": "0102",
+        "name": "AZURDUY",
+        "department_id": "01"
+    },
+    {
+        "id": "0103",
+        "name": "ZUDÁÑEZ",
+        "department_id": "01"
+    },
+    {
+        "id": "0104",
+        "name": "TOMINA",
+        "department_id": "01"
+    },
+    {
+        "id": "0105",
+        "name": "HERANDO SILES",
+        "department_id": "01"
+    },
+    {
+        "id": "0106",
+        "name": "YAMPARÁEZ",
+        "department_id": "01"
+    },
+    {
+        "id": "0107",
+        "name": "ACHALAY",
+        "department_id": "01"
+    },
+    {
+        "id": "0108",
+        "name": "LUIS CALVO",
+        "department_id": "01"
+    },
+    {
+        "id": "0109",
+        "name": "CINTI",
+        "department_id": "01"
+    },
+    {
+        "id": "0110",
+        "name": "ACERVO",
+        "department_id": "01"
+    },
+    {
+        "id": "0201",
+        "name": "MURILLO",
+        "department_id": "02"
+    },
+    {
+        "id": "0202",
+        "name": "UMALA",
+        "department_id": "02"
+    },
+    {
+        "id": "0203",
+        "name": "OMASUYOS",
+        "department_id": "02"
+    },
+    {
+        "id": "0204",
+        "name": "PACAJES",
+        "department_id": "02"
+    },
+    {
+        "id": "0205",
+        "name": "CAMACHO",
+        "department_id": "02"
+    },
+    {
+        "id": "0206",
+        "name": "MUÑECA",
+        "department_id": "02"
+    },
+    {
+        "id": "0207",
+        "name": "LARECAJA",
+        "department_id": "02"
+    },
+    {
+        "id": "0208",
+        "name": "FRANCIOS TAMAYO",
+        "department_id": "02"
+    },
+    {
+        "id": "0209",
+        "name": "INGAVI",
+        "department_id": "02"
+    },
+    {
+        "id": "0210",
+        "name": "LOAIZA",
+        "department_id": "02"
+    },
+    {
+        "id": "0211",
+        "name": "INQUISIVI",
+        "department_id": "02"
+    },
+    {
+        "id": "0212",
+        "name": "GENERAL JOSÉ MANUEL PANDO",
+        "department_id": "02"
+    },
+    {
+        "id": "0213",
+        "name": "SAJAMA",
+        "department_id": "02"
+    },
+    {
+        "id": "0214",
+        "name": "GUALBERTO VILLARROEL",
+        "department_id": "02"
+    },
+    {
+        "id": "0215",
+        "name": "LOS ANDES",
+        "department_id": "02"
+    },
+    {
+        "id": "0216",
+        "name": "CADENAS",
+        "department_id": "02"
+    },
+    {
+        "id": "0217",
+        "name": "MANCO KÁPAC",
+        "department_id": "02"
+    },
+    {
+        "id": "0218",
+        "name": "ABEL ITURRALDE",
+        "department_id": "02"
+    },
+    {
+        "id": "0219",
+        "name": "BAUTISTA SAAVEDRA",
+        "department_id": "02"
+    },
+    {
+        "id": "0220",
+        "name": "CARANAVI",
+        "department_id": "02"
+    },
+    {
+        "id": "0301",
+        "name": "CERCADO",
+        "department_id": "03"
+    },
+    {
+        "id": "0302",
+        "name": "ARANI",
+        "department_id": "03"
+    },
+    {
+        "id": "0303",
+        "name": "ESTEBAN ARZE",
+        "department_id": "03"
+    },
+    {
+        "id": "0304",
+        "name": "ARQUE",
+        "department_id": "03"
+    },
+    {
+        "id": "0305",
+        "name": "AYOPAYA",
+        "department_id": "03"
+    },
+    {
+        "id": "0306",
+        "name": "CAMPERO",
+        "department_id": "03"
+    },
+    {
+        "id": "0307",
+        "name": "CAPINOTA",
+        "department_id": "03"
+    },
+    {
+        "id": "0308",
+        "name": "CARRASCO",
+        "department_id": "03"
+    },
+    {
+        "id": "0309",
+        "name": "CHAPARE",
+        "department_id": "03"
+    },
+    {
+        "id": "0310",
+        "name": "GERMÁN JORDÁN",
+        "department_id": "03"
+    },
+    {
+        "id": "0311",
+        "name": "MIZQUE",
+        "department_id": "03"
+    },
+    {
+        "id": "0312",
+        "name": "PUNATA",
+        "department_id": "03"
+    },
+    {
+        "id": "0313",
+        "name": "QUILLACOLLO",
+        "department_id": "03"
+    },
+    {
+        "id": "0314",
+        "name": "BOLÍVAR",
+        "department_id": "03"
+    },
+    {
+        "id": "0315",
+        "name": "TAPACOARÍ",
+        "department_id": "03"
+    },
+    {
+        "id": "0316",
+        "name": "TIRAQUE",
+        "department_id": "03"
+    },
+    {
+        "id": "0401",
+        "name": "CERCADO",
+        "department_id": "04"
+    },
+    {
+        "id": "0402",
+        "name": "ABAROA",
+        "department_id": "04"
+    },
+    {
+        "id": "0403",
+        "name": "CARANGAS",
+        "department_id": "04"
+    },
+    {
+        "id": "0404",
+        "name": "CHALLAPATA",
+        "department_id": "04"
+    },
+    {
+        "id": "0405",
+        "name": "LADISLAO CABRERA",
+        "department_id": "04"
+    },
+    {
+        "id": "0406",
+        "name": "LITORAL",
+        "department_id": "04"
+    },
+    {
+        "id": "0407",
+        "name": "MEJILLONES",
+        "department_id": "04"
+    },
+    {
+        "id": "0408",
+        "name": "NOR CARANGAS",
+        "department_id": "04"
+    },
+    {
+        "id": "0409",
+        "name": "PANTALEÓN DALENCE",
+        "department_id": "04"
+    },
+    {
+        "id": "0410",
+        "name": "POOPÓ",
+        "department_id": "04"
+    },
+    {
+        "id": "0411",
+        "name": "SAJAMA",
+        "department_id": "04"
+    },
+    {
+        "id": "0412",
+        "name": "SAN PEDRO DE TOCHACA",
+        "department_id": "04"
+    },
+    {
+        "id": "0413",
+        "name": "SAUCARI",
+        "department_id": "04"
+    },
+    {
+        "id": "0414",
+        "name": "SEBASTIÁN PAGADOR",
+        "department_id": "04"
+    },
+    {
+        "id": "0415",
+        "name": "SUD CARANGAS",
+        "department_id": "04"
+    },
+    {
+        "id": "0416",
+        "name": "TOMAS BARRÓN",
+        "department_id": "04"
+    },
+    {
+        "id": "0501",
+        "name": "TOMÁS FRÍAS",
+        "department_id": "05"
+    },
+    {
+        "id": "0502",
+        "name": "RAFAEL BUSTILLO",
+        "department_id": "05"
+    },
+    {
+        "id": "0503",
+        "name": "CORNELIO SAAVEDRA",
+        "department_id": "05"
+    },
+    {
+        "id": "0504",
+        "name": "CHAYANTA",
+        "department_id": "05"
+    },
+    {
+        "id": "0505",
+        "name": "CHARCAS",
+        "department_id": "05"
+    },
+    {
+        "id": "0506",
+        "name": "NOR LÍPEZ",
+        "department_id": "05"
+    },
+    {
+        "id": "0507",
+        "name": "SUD LÍPEZ",
+        "department_id": "05"
+    },
+    {
+        "id": "0508",
+        "name": "ANTONIO QUIJARRO",
+        "department_id": "05"
+    },
+    {
+        "id": "0509",
+        "name": "GENERAL BERNARDINO BILBAO",
+        "department_id": "05"
+    },
+    {
+        "id": "0510",
+        "name": "JOSÉ MARÍA LINARES",
+        "department_id": "05"
+    },
+    {
+        "id": "0511",
+        "name": "ALONSO DE IBÁÑEZ",
+        "department_id": "05"
+    },
+    {
+        "id": "0512",
+        "name": "SUR CHICHAS",
+        "department_id": "05"
+    },
+    {
+        "id": "0513",
+        "name": "NOR CHICHAS",
+        "department_id": "05"
+    },
+    {
+        "id": "0514",
+        "name": "MODESTO OMISTE",
+        "department_id": "05"
+    },
+    {
+        "id": "0515",
+        "name": "ENRIQUE BALDIVIESO",
+        "department_id": "05"
+    },
+    {
+        "id": "0516",
+        "name": "DANIEL CAMPOS",
+        "department_id": "05"
+    },
+    {
+        "id": "0601",
+        "name": "CERCADO",
+        "department_id": "06"
+    },
+    {
+        "id": "0602",
+        "name": "ARCE",
+        "department_id": "06"
+    },
+    {
+        "id": "0603",
+        "name": "GRAN CHACO",
+        "department_id": "06"
+    },
+    {
+        "id": "0604",
+        "name": "AVILÉS",
+        "department_id": "06"
+    },
+    {
+        "id": "0605",
+        "name": "MÉNDEZ",
+        "department_id": "06"
+    },
+    {
+        "id": "0606",
+        "name": "O'CONNOR",
+        "department_id": "06"
+    },
+    {
+        "id": "0701",
+        "name": "ANDRÉS IBÁÑEZ",
+        "department_id": "07"
+    },
+    {
+        "id": "0702",
+        "name": "WARNES",
+        "department_id": "07"
+    },
+    {
+        "id": "0703",
+        "name": "VELASCO",
+        "department_id": "07"
+    },
+    {
+        "id": "0704",
+        "name": "ICHILO",
+        "department_id": "07"
+    },
+    {
+        "id": "0705",
+        "name": "CHIQUITOS",
+        "department_id": "07"
+    },
+    {
+        "id": "0706",
+        "name": "SARA",
+        "department_id": "07"
+    },
+    {
+        "id": "0707",
+        "name": "CORDILLERA",
+        "department_id": "07"
+    },
+    {
+        "id": "0708",
+        "name": "VALLEGRANDE",
+        "department_id": "07"
+    },
+    {
+        "id": "0709",
+        "name": "FLORIDA",
+        "department_id": "07"
+    },
+    {
+        "id": "0710",
+        "name": "CABALLERO",
+        "department_id": "07"
+    },
+    {
+        "id": "0711",
+        "name": "ÑUFLO DE CHÁVEZ",
+        "department_id": "07"
+    },
+    {
+        "id": "0712",
+        "name": "GUSTAVO SAAVEDRA",
+        "department_id": "07"
+    },
+    {
+        "id": "0713",
+        "name": "ANGEL SANDOVAL",
+        "department_id": "07"
+    },
+    {
+        "id": "0714",
+        "name": "MANUEL MARÍA CABALLERO",
+        "department_id": "07"
+    },
+    {
+        "id": "0715",
+        "name": "GERMÁN BUSCH",
+        "department_id": "07"
+    },
+    {
+        "id": "0716",
+        "name": "GUARAYOS",
+        "department_id": "07"
+    },
+    {
+        "id": "0801",
+        "name": "CERCADO",
+        "department_id": "08"
+    },
+    {
+        "id": "0802",
+        "name": "VACA DIEZ",
+        "department_id": "08"
+    },
+    {
+        "id": "0803",
+        "name": "GENERAL JOSÉ BALLIVIÁN",
+        "department_id": "08"
+    },
+    {
+        "id": "0804",
+        "name": "YACUMA",
+        "department_id": "08"
+    },
+    {
+        "id": "0805",
+        "name": "MOJOS",
+        "department_id": "08"
+    },
+    {
+        "id": "0806",
+        "name": "MARBÁN",
+        "department_id": "08"
+    },
+    {
+        "id": "0807",
+        "name": "MAMORÉ",
+        "department_id": "08"
+    },
+    {
+        "id": "0808",
+        "name": "ITÉNEZ",
+        "department_id": "08"
+    },
+    {
+        "id": "0901",
+        "name": "NICOLÁS SUÁREZ",
+        "department_id": "09"
+    },
+    {
+        "id": "0902",
+        "name": "MANURIPE",
+        "department_id": "09"
+    },
+    {
+        "id": "0903",
+        "name": "MADRE DE DIOS",
+        "department_id": "09"
+    },
+    {
+        "id": "0904",
+        "name": "ABUNÁ",
+        "department_id": "09"
+    },
+    {
+        "id": "0905",
+        "name": "GENERAL FEDERICO ROMÁN",
+        "department_id": "09"
+    }
+]
