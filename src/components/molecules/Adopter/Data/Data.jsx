@@ -30,17 +30,18 @@ export const Data = ({
 
   const { codes, getCodes } = useCodePhone();
   useEffect(() => {
-    getCodes();
+    getCodes(1000);
   }, []);
 
   useEffect(() => {
     if (
       codes &&
+      watchAdopter("document") !== "PASSPORT" &&
       (!watchAdopter("nationality") ||
         watchAdopter("nationality") === undefined)
     ) {
       const selectedCountryId = codes.find(
-        ({ countryCode }) => countryCode === watchAdopter("country")
+        ({ countryCode }) => countryCode === watchAdopter("country"),
       )?.id;
       selectedCountryId && setAdopter("nationality", selectedCountryId);
     }
@@ -52,17 +53,21 @@ export const Data = ({
   }, []);
 
   useEffect(() => {
-    if (watchAdopter("document") !== "PASSPORT" && watchAdopter("country")) {
+    if (
+      !update &&
+      watchAdopter("document") !== "PASSPORT" &&
+      watchAdopter("country")
+    ) {
       if (codes) {
         const selectedCountryId = codes.find(
-          (values) => values.countryCode === watchAdopter("country")
+          (values) => values.countryCode === watchAdopter("country"),
         )?.id;
         if (selectedCountryId) {
           setAdopter("nationality", selectedCountryId);
         }
       }
     }
-  }, [watchAdopter("document"), watchAdopter("country")]);
+  }, [update, watchAdopter("document"), watchAdopter("country")]);
 
   return (
     <>
@@ -72,7 +77,7 @@ export const Data = ({
             name={"Nacionalidad"}
             property="nationality"
             options={codes.map((values) => ({
-              label: `${values?.name} (${values?.countryCode})`,
+              label: values?.nationality || values?.name,
               value: values?.id,
             }))}
             value={watchAdopter("nationality")}
@@ -141,7 +146,7 @@ export const Data = ({
           handleAddress(
             watchAdopter("address"),
             web3.authToken,
-            watchAdopter("_id")
+            watchAdopter("_id"),
           );
           setIsAddress(web3?.wallet.utils.isAddress(watchAdopter("address")));
         }}

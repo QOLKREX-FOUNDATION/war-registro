@@ -380,8 +380,7 @@ export const FormRegister = ({
       setValue("adopterType", dataRegister.adopter?.adopterType);
       setValue(
         "nationality",
-        codes.find((code) => code.countryCode === dataRegister.adopter?.country)
-          ?.id
+        dataRegister.adopter?.nationality || ""
       );
       setValue(
         "phoneCode",

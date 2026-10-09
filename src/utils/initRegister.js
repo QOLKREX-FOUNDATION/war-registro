@@ -113,7 +113,7 @@ export const adopterFormRegister = {
   gender: "H",
   documentType: "D.N.I.",
   documentNumber: "",
-  nationality: "65401c7a404c98294c1be04f",
+  nationality: "",
   codePhone: "65401c7a404c98294c1be04f",
   email: "",
   addressPublic: "",

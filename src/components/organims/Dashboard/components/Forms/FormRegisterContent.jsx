@@ -122,6 +122,7 @@ export const FormRegisterContent = () => {
                         documentType: form1.adopter.documentType,
                         documentNumber: form1.adopter.documentNumber,
                         adopterType: form1.adopter.adopterType,
+                        nationality: form1.adopter.nationality,
                         isAddressPublic: form1.adopter.isAddressPublic,
                         addressPublic: form1.adopter.addressPublic,
                         firstName: form1.adopter.firstName,

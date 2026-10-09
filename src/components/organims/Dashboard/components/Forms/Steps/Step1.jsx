@@ -21,7 +21,7 @@ export const Step1 = ({
   const { persons } = usePerson();
   const { documents, handleDocuments } = useDocuments();
   const { types } = useType();
-    // const { country, handleCountryChange } = useContext(InfoByIpContext)
+  // const { country, handleCountryChange } = useContext(InfoByIpContext)
 
   useEffect(() => {
     handleDocuments(setValue, watch("country"), watch("person"));
@@ -29,23 +29,24 @@ export const Step1 = ({
 
   useEffect(() => {
     handleDocuments(setValue, watch("country"), watch("person"));
-    if (codes) {
+    if (codes && watch("documentType") !== "PASSPORT") {
       const selectedCountryId = codes.find(
-        ({ countryCode }) => countryCode === watch("country")
+        ({ countryCode }) => countryCode === watch("country"),
       )?.id;
       selectedCountryId && setValue("nationality", selectedCountryId);
     }
-  }, [watch("country")]);
+  }, [watch("country"), watch("documentType")]);
 
   console.log(watch("nationality"));
 
   useEffect(() => {
     if (
       codes &&
+      watch("documentType") !== "PASSPORT" &&
       (!watch("nationality") || watch("nationality") === undefined)
     ) {
       const selectedCountryId = codes.find(
-        ({ countryCode }) => countryCode === watch("country")
+        ({ countryCode }) => countryCode === watch("country"),
       )?.id;
       selectedCountryId && setValue("nationality", selectedCountryId);
     }
@@ -55,7 +56,7 @@ export const Step1 = ({
     if (codes) {
       if (watch("documentType") !== "PASSPORT") {
         const selectedCountryId = codes.find(
-          ({ countryCode }) => countryCode === watch("country")
+          ({ countryCode }) => countryCode === watch("country"),
         )?.id;
         selectedCountryId && setValue("nationality", selectedCountryId);
       }
@@ -115,8 +116,8 @@ export const Step1 = ({
                 setValue,
                 watch("country") !== ""
                   ? watch("country")
-                  : localStorage.getItem("countryCode") ?? "PE",
-                watch("person")
+                  : (localStorage.getItem("countryCode") ?? "PE"),
+                watch("person"),
               );
               // handleCountryChange(target)
             }}
@@ -165,7 +166,7 @@ export const Step1 = ({
             property="documentType"
             options={documents}
             value={documents.filter(
-              (values) => values.value === watch("documentType")
+              (values) => values.value === watch("documentType"),
             )}
             values={register}
             watch={watch}
@@ -190,18 +191,23 @@ export const Step1 = ({
               property="nationality"
               options={codes.map((values) => {
                 return {
-                  label: `${values?.name} (${values?.countryCode})`,
+                  label:
+                    values?.nationality ||
+                    `${values?.name} (${values?.countryCode})`,
                   value: values?.id,
                 };
               })}
-              value={
-                codes
-                  .map((values) => ({
-                    label: `${values?.name} (${values?.countryCode})`,
-                    value: values?.id,
-                  }))
-                  .filter((values) => values.id === watch("nationality"))[0]
-              }
+              value={codes
+                .map((values) => ({
+                  label:
+                    values?.nationality ||
+                    `${values?.name} (${values?.countryCode})`,
+                  value: values?.id,
+                }))
+                .find(
+                  (values) =>
+                    String(values.value) === String(watch("nationality")),
+                )}
               values={register}
               watch={watch}
               setValue={setValue}
@@ -243,8 +249,8 @@ export const Step1 = ({
                 watch("documentType") === "D.N.I."
                   ? 7
                   : watch("nationality") === "6596d6b7b9962639396fe55d"
-                  ? 7
-                  : 8,
+                    ? 7
+                    : 8,
               message: "Formato incorrecto",
             }}
             maxLength={{
@@ -270,7 +276,7 @@ export const Step1 = ({
             property="adopterType"
             options={types}
             value={types.filter(
-              (values) => values.value == watch("adopterType")
+              (values) => values.value == watch("adopterType"),
             )}
             values={register}
             watch={watch}

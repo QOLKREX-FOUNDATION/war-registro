@@ -78,9 +78,9 @@ export const Front = ({
       <img
         className={classes.erLogo}
         style={{
-          maxWidth: imp ? "250px" : ajust.height / 5,
-          maxHeight: imp ? "100px" : ajust.height / 8,
-          width: "120px",
+          maxWidth: imp ? "330px" : ajust.height / 4,
+          maxHeight: imp ? "170px" : ajust.height / 8,
+          width: imp ? "220px" : "200px",
         }}
         src={`https://res.cloudinary.com/worldanireg/image/upload/v1701811578/entityRegister/logo/${
           getPet?.idRegisteringEntity || "default"
@@ -92,6 +92,7 @@ export const Front = ({
           //   ? `https://res.cloudinary.com/worldanireg/image/upload/v1701811578/entityRegister/logo/${idEntity}.png`
           //   : `/img/logo/2.png`;
           currentTarget.onerror = null;
+          currentTarget.classList.add(classes.erLogoFallback);
           currentTarget.src = `/img/logo/2.png`;
         }}
         alt="Entity Register"
@@ -236,7 +237,7 @@ export const Front = ({
             style={{
               textAlign: "center",
               fontWeight: "bold",
-              fontSize: imp ? "20px" : ajust.height / 50,
+              fontSize: imp ? "30px" : ajust.height / 50,
               margin: "0.3rem 0",
               letterSpacing: "2px",
             }}
