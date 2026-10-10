@@ -11,13 +11,13 @@ import {
 } from "chart.js";
 import { Doughnut, Bar } from "react-chartjs-2";
 import { useState } from "react";
-import { firuApi } from "../../../../../api";
 import { useGlobal } from "../../../../hooks/useGlobal";
 import { Web3Context } from "../../../../contexts/Web3/Web3Context";
 import Swal from "sweetalert2";
-import { API } from "../../../../config";
+import { API, IPFS } from "../../../../config";
 import { imageURI } from "../../../../config/constants/endpoints";
 import { upload } from "../../../../utils/war/pets";
+import { getUserRegisteringEntity } from "../../../../utils/war/UsersSystem";
 
 ChartJS.register(
   ArcElement,
@@ -25,165 +25,168 @@ ChartJS.register(
   LinearScale,
   BarElement,
   Title,
-  Tooltip
+  Tooltip,
   // Legend
 );
 
 export const RegistryCorrection = () => {
   const [loader, setLoader] = useState(false);
   const { web3 } = useContext(Web3Context);
-  const [mongoPet, setMongoPet] = useState({});
   const [isSearched, setIsSearched] = useState(false);
+  const [isRegistered, setIsRegistered] = useState(false);
+  const [mongoSearchError, setMongoSearchError] = useState("");
   const [file, setFile] = useState(null);
   // busca la mascota en la blockchain
-  const { pets, status, search, setSearch, entityRegister, getSearch } =
-    useGlobal();
+  const {
+    pets,
+    status,
+    search,
+    setSearch,
+    entityRegister,
+    getSearch,
+    searchError: ipfsSearchError,
+  } = useGlobal();
 
   console.log(web3.authToken);
   console.log(pets);
   // console.log({ status });
   // console.log({ pets });
 
-  // busca la mascota en la base de datos de mongo
-  const handleSearchMongo = () => {
+  // valida la relación usuario-entidad y registra la mascota en Mongo
+  const handleSearchMongo = async () => {
     setLoader(true);
-    firuApi
-      .get(`/pets?chip=${search}`)
-      .then((response) => {
-        setLoader(false);
-        console.log(response);
-        setMongoPet(response.data);
-        Swal.fire({
-          icon: "success",
-          title: "Mascota encontrada",
-          text: "La mascota fue encontrada en la base de datos de Mongo, no es necesario cargarla nuevamente",
-        });
-        setIsSearched(true);
-      })
-      .catch((error) => {
-        setLoader(false);
-        Swal.fire({
-          icon: "error",
-          title: "Mascota no encontrada",
-          text: "La mascota no fue encontrada en la base de datos de Mongo, es necesario cargarla",
-        });
-        console.log(error);
-        setIsSearched(true);
-      });
-  };
+    setMongoSearchError("");
+    setIsSearched(false);
+    setIsRegistered(false);
 
-  // registra la mascota en la base de datos de mongo
-  const handleRegistry = async () => {
     try {
-      // const content = await fetch(`${API.war}adopters`, {
-      const content = await fetch(`${API.war}pets`, {
-        body: JSON.stringify({
-          addressEr: pets?.userAddress,
-          userAddress: pets?.userAddress,
-          userName: pets?.userName,
-          adopter: pets?.adopter,
-          adopterName: pets?.adopterName,
-          adopterLastName: pets?.adopterLastName,
-          dateRegistring: pets?.dateRegistring,
-          name: pets?.name,
-          race: pets?.race,
-          gender: pets?.gender,
-          date: pets?.date,
-          dateAdoption: pets?.dateAdoption,
-          dateIssue: pets?.dateIssue,
-          chip: pets?.chip,
-          chipDate: pets?.chipDate,
-          colour: pets?.colour,
-          image: pets?.image,
-          pedigree: pets?.pedigree,
-          country: pets?.country,
-          type: pets?.type,
-          sterilized: pets?.sterilized,
-          hash: pets?.hash,
-          vaccines: pets?.vaccines,
-          status: pets?.status,
-          user: pets?.user,
-          idRegisteringEntity: pets?.idRegisteringEntity,
-          created_for: pets?.created_for,
-          created_at: pets?.created_at,
-          update_for: pets?.update_for,
-          update_at: pets?.update_at,
-          formId: pets?.formId,
-        }),
-        headers: {
-          "Content-Type": "application/json",
-          "x-token": web3.authToken,
-        },
-        method: "POST",
-      });
-
-      if (file) {
-        upload(
-          {
-            name: "image",
-            chip: pets?.chip,
-            file: file,
-          },
-          web3.authToken
-        )
-          .then((response) => {
-            console.log(response);
-          })
-          .catch((error) => {
-            console.log(error);
-          });
+      const userAddress = pets?.userAddress;
+      const registeringEntityAddress = pets?.addressEr;
+      if (
+        !web3.networkWar.utils.isAddress(userAddress) ||
+        !web3.networkWar.utils.isAddress(registeringEntityAddress)
+      ) {
+        throw new Error("El registro no contiene direcciones válidas.");
       }
 
-      const response = await content.json();
-      console.log({ response });
-      Swal.fire({
-        icon: "success",
-        title: "Mascota registrada",
-        text: "La mascota fue registrada en la base de datos de Mongo",
-      });
-      // return response;
+      const assignedEntity = await getUserRegisteringEntity(
+        web3.networkWar,
+        userAddress,
+      );
+      if (
+        assignedEntity.toLowerCase() !== registeringEntityAddress.toLowerCase()
+      ) {
+        await Swal.fire({
+          icon: "warning",
+          title: "Usuario no pertenece a la entidad",
+          text: "No se guardó el registro. El usuario del registro no está asociado a la entidad registradora indicada.",
+        });
+        return;
+      }
+
+      await handleRegistry();
     } catch (error) {
-      Swal.fire({
+      setMongoSearchError(
+        error.response?.data?.msg ||
+          error.message ||
+          "No se pudo validar o registrar la mascota.",
+      );
+      await Swal.fire({
         icon: "error",
-        title: "Mascota no registrada",
-        text: "La mascota no fue registrada en la base de datos de Mongo",
+        title: "No se pudo completar la validación",
+        text:
+          error.response?.data?.msg ||
+          error.message ||
+          "Error al consultar o guardar la mascota en Mongo.",
       });
-      console.log({ error });
+      console.log(error);
+    } finally {
+      setLoader(false);
     }
+  };
+
+  const handleRegistry = async () => {
+    const content = await fetch(`${API.war}pets`, {
+      body: JSON.stringify({
+        addressEr: pets?.addressEr,
+        userAddress: pets?.userAddress,
+        userName: pets?.userName,
+        adopter: pets?.adopter,
+        adopterName: pets?.adopterName,
+        adopterLastName: pets?.adopterLastName,
+        dateRegistring: pets?.dateRegistring,
+        name: pets?.name,
+        race: pets?.race,
+        gender: pets?.gender,
+        date: pets?.date,
+        dateAdoption: pets?.dateAdoption,
+        dateIssue: pets?.dateIssue,
+        chip: pets?.chip,
+        chipDate: pets?.chipDate,
+        chipFather: pets?.chipFather,
+        chipMother: pets?.chipMother,
+        colour: pets?.colour,
+        image: pets?.image,
+        pedigree: pets?.pedigree,
+        country: pets?.country,
+        type: pets?.type,
+        sterilized: pets?.sterilized,
+        hash: pets?.hash,
+        vaccines: pets?.vaccines,
+        status: pets?.status,
+        user: pets?.user,
+        idRegisteringEntity: pets?.idRegisteringEntity,
+        created_for: pets?.created_for,
+        created_at: pets?.created_at,
+        update_for: pets?.update_for,
+        update_at: pets?.update_at,
+        formId: pets?.formId,
+      }),
+      headers: {
+        "Content-Type": "application/json",
+        "x-token": web3.authToken,
+      },
+      method: "POST",
+    });
+
+    const response = await content.json();
+    if (!content.ok || response?.ok === false) {
+      throw new Error(
+        response?.msg || "Error al registrar la mascota en Mongo.",
+      );
+    }
+
+    if (file) {
+      upload(
+        {
+          name: "image",
+          chip: pets?.chip,
+          file,
+        },
+        web3.authToken,
+      ).catch((error) => console.log(error));
+    }
+
+    setIsSearched(true);
+    setIsRegistered(true);
+    await Swal.fire({
+      icon: "success",
+      title: "Mascota registrada",
+      text: "La relación usuario-entidad fue validada y la mascota se guardó en Mongo.",
+    });
   };
 
   const handleFile = (e) => {
     setFile(e.target.files[0]);
   };
 
-  // const handleDownload = () => {
-  //   const downloadLink = document.createElement("a");
-  //   downloadLink.href = `https://ipfs.io/ipfs/${pets?.image}`;
-  //   downloadLink.download = "nombre-del-archivo"; // Establece el nombre del archivo deseado
-  //   document.body.appendChild(downloadLink);
-  //   downloadLink.click();
-  //   document.body.removeChild(downloadLink);
-  // };
-
-  console.log({ pets });
-  console.log({ mongoPet });
-  console.log({ file });
-
-  console.log(`https://ipfs.io/ipfs/${pets.image}`);
-
   return (
     <>
       <div className="flex flex-col">
         <h2 className="text-xl font-semibold py-2">
-          Búsqueda de nascota en Blockchain:
+          Búsqueda de mascota en Blockchain:
         </h2>
-        {loader && (
-          <div className="flex flex-col items-center justify-center h-auto absolute w-full">
-            <h2 className="text-xl font-semibold py-2">Cargando...</h2>
-            <div className="loader ease-linear rounded-full border-4 border-t-4 border-gray-200 h-40 w-40 border-l-transparent animate-spin"></div>
-          </div>
-        )}
-
+        {loader && <p className="py-2">Validando y guardando...</p>}
         <div className="flex flex-row ">
           <div className="flex flex-col flex-wrap items-start gap-4">
             {/* search box pet */}
@@ -193,7 +196,8 @@ export const RegistryCorrection = () => {
                 e.preventDefault();
                 getSearch(web3.wallet, search);
                 setIsSearched(false);
-                setMongoPet({});
+                setIsRegistered(false);
+                setMongoSearchError("");
                 setFile(null);
               }}
             >
@@ -232,6 +236,9 @@ export const RegistryCorrection = () => {
               </button> */}
             </form>
             <div className="flex flex-col gap-2 mt-2">
+              {(ipfsSearchError || mongoSearchError) && (
+                <p role="alert">{ipfsSearchError || mongoSearchError}</p>
+              )}
               {/* {status === "ACTIVE" && ( */}
               <div className="flex flex-col gap-2">
                 <h2 className="text-xl font-semibold">Resultados:</h2>
@@ -263,7 +270,7 @@ export const RegistryCorrection = () => {
                       )}
                     </div>
                     <img
-                      src={`https://ipfs.io/ipfs/${pets?.image}`}
+                      src={`${IPFS}${pets?.image}`}
                       // src={`${imageURI}/${pets.chip}`}
                       alt="pet"
                       className="w-64 h-52 block object-contain object-center rounded-md border"
@@ -295,6 +302,8 @@ export const RegistryCorrection = () => {
             <>
               <div className="flex py-5 px-2">
                 <button
+                  type="button"
+                  disabled={loader || isRegistered}
                   className="bg-sky-500 text-white px-4 py-2 rounded-md mt-2 h-10"
                   onClick={() => {
                     // setLoader(true);
@@ -318,32 +327,13 @@ export const RegistryCorrection = () => {
                 </button>
               </div>
               {isSearched && (
-                <div className="">
-                  {mongoPet?.pet?._id ? (
-                    <div className="flex flex-col gap-2 mt-2">
-                      <h2 className="text-xl font-semibold">Resultado:</h2>
-                      <div className="flex flex-col gap-2">
-                        <h2>La mascota ya está registrada</h2>
-                      </div>
-                    </div>
-                  ) : (
-                    <div className="flex flex-col gap-2 mt-2">
-                      <h2 className="text-xl font-semibold">
-                        Puedes insertarlo en la base de datos de mongo:
-                      </h2>
-                      <div className="flex flex-col gap-2">
-                        <h2>La mascota no está registrada</h2>
-                        <button
-                          className="bg-sky-500 text-white px-4 py-2 rounded-md mt-2 h-10"
-                          onClick={() => {
-                            handleRegistry();
-                          }}
-                        >
-                          Registrar
-                        </button>
-                      </div>
-                    </div>
-                  )}
+                <div className="flex flex-col gap-2 mt-2">
+                  <h2 className="text-xl font-semibold">Resultado:</h2>
+                  <p>
+                    {isRegistered
+                      ? "La mascota se guardó en Mongo."
+                      : "La mascota ya estaba registrada en Mongo."}
+                  </p>
                 </div>
               )}
             </>
