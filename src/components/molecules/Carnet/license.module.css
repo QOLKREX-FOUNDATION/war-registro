@@ -102,16 +102,17 @@
 }
 
 .erLogo {
-  right: 15%;
+  left: 75%;
   position: absolute;
-  top: 5%;
+  top: 8%;
+  transform: translateX(-50%);
 }
 
 .erLogoFallback {
-  left: 14%;
+  left: 75%;
   right: auto;
-  top: 7%;
-  transform: translateX(-30%);
+  top: 5%;
+  transform: translateX(-50%);
 }
 
 .adopter {
