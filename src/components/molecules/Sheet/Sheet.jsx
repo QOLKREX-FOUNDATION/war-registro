@@ -163,13 +163,15 @@ export const Sheet = ({
             left: imp ? "21%" : "",
           }}
         >
-          <span className={imp && !impComplete ? classes.opacity : ""}>
-            Oficialmente adopta a:{" "}
+          <span className={imp && !impComplete ? classes.opacity : " "}>
+            Oficialmente adopta a:{"  "}
           </span>
           &nbsp;
           <span className={classes.textAlt}>
             {petValues.name} {petValues.adopterLastName}
           </span>
+          &nbsp;
+          <span className={classes.textchip}>{petValues.chip}</span>
         </p>
 
         <div
